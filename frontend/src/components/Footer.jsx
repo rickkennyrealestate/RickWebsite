@@ -96,7 +96,7 @@ function Footer() {
             </li>
             <li className="flex items-center gap-3">
               <FaMapMarkerAlt className="h-4 w-4 shrink-0 text-primary" />
-              Brazos Valley, TX
+              Bryan-College Station, TX
             </li>
           </ul>
         </div>
