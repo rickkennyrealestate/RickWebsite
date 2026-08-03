@@ -1,0 +1,114 @@
+import { Link } from 'react-router-dom'
+import {
+  FaPhoneAlt,
+  FaEnvelope,
+  FaMapMarkerAlt,
+  FaFacebookF,
+  FaInstagram,
+  FaLinkedinIn,
+} from 'react-icons/fa'
+
+const quickLinks = [
+  { label: 'Home', to: '/' },
+  { label: 'About', to: '/about' },
+  { label: 'Listings', to: '/listings' },
+  { label: 'Blog', to: '/blog' },
+  { label: 'Contact', to: '/contact' },
+  { label: "What's My Home Worth", to: '/home-value' },
+]
+
+const socials = [
+  { icon: FaFacebookF, href: 'https://facebook.com', label: 'Facebook' },
+  { icon: FaInstagram, href: 'https://instagram.com', label: 'Instagram' },
+  { icon: FaLinkedinIn, href: 'https://linkedin.com', label: 'LinkedIn' },
+]
+
+function Footer() {
+  return (
+    <footer className="bg-foreground text-background">
+      <div className="container grid grid-cols-1 gap-10 py-14 md:grid-cols-3 lg:gap-16">
+        <div>
+          <h3 className="text-lg font-bold">Rick Kenny</h3>
+          <p className="mt-1 text-sm uppercase tracking-widest text-background/60">
+            Aggieland Realtors
+          </p>
+          <p className="mt-4 max-w-xs text-sm leading-relaxed text-background/70">
+            Your trusted guide to buying and selling homes across College Station, Bryan, and the
+            greater Brazos Valley.
+          </p>
+          <div className="mt-6 flex gap-3">
+            {socials.map((s) => (
+              <a
+                key={s.label}
+                href={s.href}
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label={s.label}
+                className="flex h-9 w-9 items-center justify-center rounded-full bg-background/10 text-background transition-colors duration-200 hover:bg-primary"
+              >
+                <s.icon className="h-4 w-4" />
+              </a>
+            ))}
+          </div>
+        </div>
+
+        <div>
+          <h4 className="text-sm font-semibold uppercase tracking-wider text-background/90">
+            Quick Links
+          </h4>
+          <ul className="mt-4 space-y-2.5">
+            {quickLinks.map((link) => (
+              <li key={link.to}>
+                <Link
+                  to={link.to}
+                  className="text-sm text-background/70 transition-colors duration-200 hover:text-primary-foreground hover:underline"
+                >
+                  {link.label}
+                </Link>
+              </li>
+            ))}
+          </ul>
+        </div>
+
+        <div>
+          <h4 className="text-sm font-semibold uppercase tracking-wider text-background/90">
+            Get In Touch
+          </h4>
+          <ul className="mt-4 space-y-3.5 text-sm text-background/70">
+            <li>
+              <a
+                href="tel:2816081151"
+                className="flex items-center gap-3 transition-colors duration-200 hover:text-primary-foreground"
+              >
+                <FaPhoneAlt className="h-4 w-4 shrink-0 text-primary" />
+                281-608-1151
+              </a>
+            </li>
+            <li>
+              <a
+                href="mailto:rickkennyrealestate@gmail.com"
+                className="flex items-center gap-3 transition-colors duration-200 hover:text-primary-foreground"
+              >
+                <FaEnvelope className="h-4 w-4 shrink-0 text-primary" />
+                rickkennyrealestate@gmail.com
+              </a>
+            </li>
+            <li className="flex items-center gap-3">
+              <FaMapMarkerAlt className="h-4 w-4 shrink-0 text-primary" />
+              Brazos Valley, TX
+            </li>
+          </ul>
+        </div>
+      </div>
+
+      <div className="border-t border-background/10">
+        <div className="container flex flex-col items-center justify-between gap-2 py-6 text-xs text-background/50 sm:flex-row">
+          <p>&copy; {'2026'} Rick Kenny, Aggieland Realtors. All rights reserved.</p>
+          <p>REALTOR&reg; serving the Brazos Valley</p>
+        </div>
+      </div>
+    </footer>
+  )
+}
+
+export default Footer
