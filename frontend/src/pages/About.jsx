@@ -9,6 +9,7 @@ import {
 } from 'react-icons/fa'
 import { Button } from '../components/ui/button'
 import PageHeader from '../components/PageHeader'
+import Seo from '../components/Seo'
 
 const highlights = [
   {
@@ -47,6 +48,11 @@ const stats = [
 function About() {
   return (
     <div>
+      <Seo
+        title="About Rick Kenny | Bryan-College Station REALTOR®"
+        description="Meet Rick Kenny, a finance-trained REALTOR with Aggieland Realtors serving College Station, Bryan, and the Brazos Valley."
+      />
+
       <PageHeader
         eyebrow="About"
         title="Meet Rick Kenny"

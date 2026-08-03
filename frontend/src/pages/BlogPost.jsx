@@ -2,6 +2,7 @@ import { Link, useParams } from 'react-router-dom'
 import { FaArrowLeft, FaArrowRight, FaRegClock } from 'react-icons/fa'
 import { Button } from '../components/ui/button'
 import { getPostBySlug } from '../data/blogPosts'
+import Seo from '../components/Seo'
 
 function BlogPost() {
   const { slug } = useParams()
@@ -23,6 +24,8 @@ function BlogPost() {
 
   return (
     <article>
+      <Seo title={`${post.title} | Rick Kenny`} description={post.metaDescription} />
+
       {/* Header */}
       <header className="border-b border-border bg-secondary">
         <div className="container max-w-3xl py-14">

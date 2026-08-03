@@ -4,6 +4,7 @@ import { Button } from '../components/ui/button'
 import { Input } from '../components/ui/input'
 import { Label } from '../components/ui/label'
 import PageHeader from '../components/PageHeader'
+import Seo from '../components/Seo'
 import { submitWeb3Form } from '../lib/submitForm'
 
 const GUIDE_PDF = '/brazos-valley-buyers-guide.pdf'
@@ -43,6 +44,11 @@ function BuyersGuide() {
 
   return (
     <div>
+      <Seo
+        title="Free Brazos Valley Buyers Guide | Rick Kenny"
+        description="Download a free, step-by-step guide to buying a home in College Station, Bryan, and Aggieland."
+      />
+
       <PageHeader
         eyebrow="Free Download"
         title="The Brazos Valley Buyers Guide"

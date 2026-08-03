@@ -2,6 +2,7 @@ import { Link, useSearchParams } from 'react-router-dom'
 import { FaArrowRight, FaSearch } from 'react-icons/fa'
 import { Button } from '../components/ui/button'
 import PageHeader from '../components/PageHeader'
+import Seo from '../components/Seo'
 
 const TABS = [
   { key: 'all', label: 'Our Listings', idx: 'ff26122' },
@@ -20,6 +21,11 @@ function Listings() {
 
   return (
     <div>
+      <Seo
+        title="Search Brazos Valley Homes for Sale | Rick Kenny"
+        description="Browse live MLS listings across College Station and Bryan, or search by area, with REALTOR Rick Kenny of Aggieland Realtors."
+      />
+
       <PageHeader
         eyebrow="Listings"
         title="Search Brazos Valley Homes"

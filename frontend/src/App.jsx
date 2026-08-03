@@ -8,6 +8,8 @@ import BlogPost from './pages/BlogPost'
 import Contact from './pages/Contact'
 import HomeValue from './pages/HomeValue'
 import BuyersGuide from './pages/BuyersGuide'
+import MortgageCalculator from './pages/MortgageCalculator'
+import NotFound from './pages/NotFound'
 
 function App() {
   return (
@@ -22,6 +24,8 @@ function App() {
           <Route path="/contact" element={<Contact />} />
           <Route path="/home-value" element={<HomeValue />} />
           <Route path="/buyers-guide" element={<BuyersGuide />} />
+          <Route path="/mortgage-calculator" element={<MortgageCalculator />} />
+          <Route path="*" element={<NotFound />} />
         </Route>
       </Routes>
     </BrowserRouter>

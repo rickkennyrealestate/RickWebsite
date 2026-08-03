@@ -1,11 +1,17 @@
 import { Link } from 'react-router-dom'
 import { FaArrowRight, FaRegClock } from 'react-icons/fa'
 import PageHeader from '../components/PageHeader'
+import Seo from '../components/Seo'
 import { blogPosts } from '../data/blogPosts'
 
 function Blog() {
   return (
     <div>
+      <Seo
+        title="Brazos Valley Real Estate Blog | Rick Kenny"
+        description="Local market updates and practical buyer and seller tips for College Station, Bryan, and the Brazos Valley."
+      />
+
       <PageHeader
         eyebrow="Blog"
         title="Brazos Valley Market Insights"

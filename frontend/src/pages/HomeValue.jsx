@@ -5,6 +5,7 @@ import { Input } from '../components/ui/input'
 import { Label } from '../components/ui/label'
 import { Textarea } from '../components/ui/textarea'
 import PageHeader from '../components/PageHeader'
+import Seo from '../components/Seo'
 import { submitWeb3Form } from '../lib/submitForm'
 
 const benefits = [
@@ -41,6 +42,11 @@ function HomeValue() {
 
   return (
     <div>
+      <Seo
+        title="Free Home Valuation | What's My Home Worth in Bryan-College Station"
+        description="Get a free, no-obligation home valuation based on real Brazos Valley market data from REALTOR Rick Kenny."
+      />
+
       <PageHeader
         eyebrow="Free Home Valuation"
         title="What's your home worth?"

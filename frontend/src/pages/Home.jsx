@@ -12,6 +12,7 @@ import {
 } from 'react-icons/fa'
 import { Button } from '../components/ui/button'
 import TeamReviews from '../components/TeamReviews'
+import Seo from '../components/Seo'
 
 const heroImages = [
   '/assets/images/home-1.jpg',
@@ -82,6 +83,11 @@ function Home() {
 
   return (
     <div>
+      <Seo
+        title="Rick Kenny | Brazos Valley Real Estate — Aggieland Realtors"
+        description="REALTOR serving College Station, Bryan, and the Brazos Valley. Search live listings, get a free home valuation, and buy or sell with a local, finance-trained agent."
+      />
+
       {/* Hero */}
       <section className="relative overflow-hidden">
         <div className="absolute inset-0">

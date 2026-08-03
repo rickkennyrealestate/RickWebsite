@@ -13,6 +13,7 @@ import { Input } from '../components/ui/input'
 import { Label } from '../components/ui/label'
 import { Textarea } from '../components/ui/textarea'
 import PageHeader from '../components/PageHeader'
+import Seo from '../components/Seo'
 import { submitWeb3Form } from '../lib/submitForm'
 
 const contactMethods = [
@@ -48,6 +49,11 @@ function Contact() {
 
   return (
     <div>
+      <Seo
+        title="Contact Rick Kenny | Bryan-College Station REALTOR®"
+        description="Get in touch with Rick Kenny, REALTOR with Aggieland Realtors. Call or text 281-608-1151 for buying, selling, or a free home valuation."
+      />
+
       <PageHeader
         eyebrow="Contact"
         title="Let's talk about your move"
