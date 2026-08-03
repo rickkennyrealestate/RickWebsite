@@ -5,7 +5,7 @@ import {
   FaMapMarkerAlt,
   FaFacebookF,
   FaInstagram,
-  FaLinkedinIn,
+  FaTiktok,
 } from 'react-icons/fa'
 
 const quickLinks = [
@@ -19,9 +19,9 @@ const quickLinks = [
 ]
 
 const socials = [
-  { icon: FaFacebookF, href: 'https://facebook.com', label: 'Facebook' },
-  { icon: FaInstagram, href: 'https://instagram.com', label: 'Instagram' },
-  { icon: FaLinkedinIn, href: 'https://linkedin.com', label: 'LinkedIn' },
+  { icon: FaFacebookF, href: 'https://www.facebook.com/rick.kenny.411029/', label: 'Facebook' },
+  { icon: FaInstagram, href: 'https://www.instagram.com/rickrealestatetx/', label: 'Instagram' },
+  { icon: FaTiktok, href: 'https://www.tiktok.com/@rickrealestatetx', label: 'TikTok' },
 ]
 
 function Footer() {
@@ -103,9 +103,35 @@ function Footer() {
       </div>
 
       <div className="border-t border-background/10">
-        <div className="container flex flex-col items-center justify-between gap-2 py-6 text-xs text-background/50 sm:flex-row">
-          <p>&copy; {'2026'} Rick Kenny, Aggieland Realtors. All rights reserved.</p>
-          <p>REALTOR&reg; serving the Brazos Valley</p>
+        <div className="container py-6">
+          <div className="flex flex-col gap-4 text-xs text-background/60 md:flex-row md:items-center md:justify-between">
+            <p>
+              Rick Kenny <span className="text-background/30">&middot;</span> TX License #841696-SA{' '}
+              <span className="text-background/30">&middot;</span> Aggieland Realtors
+            </p>
+            <div className="flex flex-wrap gap-x-6 gap-y-2">
+              <a
+                href="/iabs.pdf"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="transition-colors duration-200 hover:text-primary-foreground hover:underline"
+              >
+                Information About Brokerage Services
+              </a>
+              <a
+                href="https://www.trec.texas.gov/forms/consumer-protection-notice"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="transition-colors duration-200 hover:text-primary-foreground hover:underline"
+              >
+                TREC Consumer Protection Notice
+              </a>
+            </div>
+          </div>
+          <p className="mt-4 text-xs text-background/40">
+            &copy; 2026 Rick Kenny, Aggieland Realtors. All rights reserved. Each office is
+            independently owned and operated.
+          </p>
         </div>
       </div>
     </footer>
