@@ -4,7 +4,7 @@ import { Button } from '../components/ui/button'
 import PageHeader from '../components/PageHeader'
 
 const TABS = [
-  { key: 'all', label: 'All Listings', idx: 'ff26122' },
+  { key: 'all', label: 'Our Listings', idx: 'ff26122' },
   { key: 'college-station', label: 'College Station', idx: 'a24b123' },
   { key: 'bryan', label: 'Bryan', idx: 'e5f8124' },
 ]
@@ -23,7 +23,7 @@ function Listings() {
       <PageHeader
         eyebrow="Listings"
         title="Search Brazos Valley Homes"
-        subtitle="Browse every home for sale across the local MLS, or jump straight to College Station or Bryan."
+        subtitle="Explore our current listings, or search homes for sale across College Station and Bryan."
       />
 
       {/* Search helper bar */}
