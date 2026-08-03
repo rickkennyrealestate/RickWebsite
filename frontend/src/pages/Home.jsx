@@ -72,7 +72,7 @@ function Home() {
   useEffect(() => {
     const id = setInterval(() => {
       setActive((i) => (i + 1) % heroImages.length)
-    }, 5000)
+    }, 3500)
     return () => clearInterval(id)
   }, [])
 

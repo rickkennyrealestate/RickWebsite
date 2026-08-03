@@ -9,7 +9,7 @@ export const blogPosts = [
       'After years of rapid gains, the College Station market is shifting toward balance in 2026. Here is what the latest numbers mean for your next move.',
     metaDescription:
       'A 2026 College Station, TX real estate market update: median home prices, days on market, and what the shift toward balance means for local buyers and sellers.',
-    image: '/assets/images/home-1.jpg',
+    image: '/assets/images/blog-1.jpg',
     content: [
       {
         type: 'p',
@@ -52,7 +52,7 @@ export const blogPosts = [
       'Buying your first home in Aggieland? These five local, practical tips will help you move through the Brazos Valley market with confidence.',
     metaDescription:
       'Five practical tips for first-time homebuyers in Bryan-College Station, TX, from getting pre-approved to budgeting for Texas property taxes and inspections.',
-    image: '/assets/images/home-2.jpg',
+    image: '/assets/images/blog-2.jpg',
     content: [
       {
         type: 'p',
@@ -103,7 +103,7 @@ export const blogPosts = [
       'A major university, steady demand, and long-term growth make Aggieland a market worth understanding, as long as you run the numbers first.',
     metaDescription:
       'Why College Station, TX real estate near Texas A&M draws long-term investors, plus the analysis every buyer should do before purchasing an investment property.',
-    image: '/assets/images/home-3.jpg',
+    image: '/assets/images/blog-3.jpg',
     content: [
       {
         type: 'p',
