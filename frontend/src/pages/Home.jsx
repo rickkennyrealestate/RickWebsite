@@ -11,6 +11,7 @@ import {
   FaDollarSign,
 } from 'react-icons/fa'
 import { Button } from '../components/ui/button'
+import TeamReviews from '../components/TeamReviews'
 
 const heroImages = [
   '/assets/images/home-1.jpg',
@@ -285,6 +286,9 @@ function Home() {
           </div>
         </div>
       </section>
+
+      {/* Team reviews */}
+      <TeamReviews />
 
       {/* Home value CTA */}
       <section className="bg-primary py-16">
