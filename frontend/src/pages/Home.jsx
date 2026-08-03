@@ -11,7 +11,6 @@ import {
   FaDollarSign,
 } from 'react-icons/fa'
 import { Button } from '../components/ui/button'
-import ListingCard from '../components/ListingCard'
 
 const heroImages = [
   '/assets/images/home-1.jpg',
@@ -49,33 +48,21 @@ const valueProps = [
   },
 ]
 
-const featuredListings = [
+const areas = [
   {
-    image: '/assets/images/listing-1.jpg',
-    price: '$425,000',
-    status: 'For Sale',
-    address: '4207 Hollow Stone Dr, College Station',
-    beds: 4,
-    baths: 3,
-    sqft: '2,480',
+    name: 'College Station',
+    description: 'Homes near Texas A&M and beyond',
+    image: '/assets/images/home-1.jpg',
   },
   {
-    image: '/assets/images/listing-2.jpg',
-    price: '$318,500',
-    status: 'For Sale',
-    address: '1512 Austin Ave, Bryan',
-    beds: 3,
-    baths: 2,
-    sqft: '1,860',
+    name: 'Bryan',
+    description: 'Historic charm and new construction',
+    image: '/assets/images/home-2.jpg',
   },
   {
-    image: '/assets/images/listing-3.jpg',
-    price: '$549,900',
-    status: 'New Listing',
-    address: '3320 Wildwood Ln, College Station',
-    beds: 4,
-    baths: 3,
-    sqft: '3,120',
+    name: 'Brazos County',
+    description: 'Acreage and surrounding communities',
+    image: '/assets/images/home-3.jpg',
   },
 ]
 
@@ -249,29 +236,48 @@ function Home() {
         </div>
       </section>
 
-      {/* Featured listings */}
+      {/* Explore by area */}
       <section className="bg-background py-20">
         <div className="container">
           <div className="flex flex-col items-start justify-between gap-4 sm:flex-row sm:items-end">
             <div>
               <p className="text-sm font-semibold uppercase tracking-widest text-primary">
-                Featured Homes
+                Find Your Home
               </p>
               <h2 className="mt-3 text-3xl font-bold tracking-tight text-foreground sm:text-4xl">
-                Currently on the market
+                Explore homes across the Brazos Valley
               </h2>
             </div>
             <Button asChild variant="outline">
               <Link to="/listings">
-                See All Listings
+                Search All Listings
                 <FaArrowRight className="ml-2 h-4 w-4" />
               </Link>
             </Button>
           </div>
 
-          <div className="mt-12 grid grid-cols-1 gap-8 md:grid-cols-2 lg:grid-cols-3">
-            {featuredListings.map((listing) => (
-              <ListingCard key={listing.address} listing={listing} />
+          <div className="mt-12 grid grid-cols-1 gap-8 md:grid-cols-3">
+            {areas.map((area) => (
+              <Link
+                key={area.name}
+                to="/listings"
+                className="group relative block overflow-hidden rounded-2xl shadow-sm transition-all duration-200 hover:-translate-y-1 hover:shadow-lg"
+              >
+                <img
+                  src={area.image}
+                  alt={area.name}
+                  className="h-72 w-full object-cover transition-transform duration-300 group-hover:scale-105"
+                />
+                <div className="absolute inset-0 bg-gradient-to-t from-foreground/85 via-foreground/30 to-transparent" />
+                <div className="absolute inset-x-0 bottom-0 p-6">
+                  <h3 className="text-xl font-bold text-background">{area.name}</h3>
+                  <p className="mt-1 text-sm text-background/80">{area.description}</p>
+                  <span className="mt-3 inline-flex items-center gap-2 text-sm font-semibold text-background">
+                    View Homes
+                    <FaArrowRight className="h-3.5 w-3.5 transition-transform duration-200 group-hover:translate-x-1" />
+                  </span>
+                </div>
+              </Link>
             ))}
           </div>
         </div>
