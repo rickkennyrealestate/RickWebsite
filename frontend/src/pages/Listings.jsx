@@ -1,15 +1,29 @@
-import { Link } from 'react-router-dom'
+import { Link, useSearchParams } from 'react-router-dom'
 import { FaArrowRight, FaSearch } from 'react-icons/fa'
 import { Button } from '../components/ui/button'
 import PageHeader from '../components/PageHeader'
 
+const TABS = [
+  { key: 'all', label: 'All Listings', idx: 'ff26122' },
+  { key: 'college-station', label: 'College Station', idx: 'a24b123' },
+  { key: 'bryan', label: 'Bryan', idx: 'e5f8124' },
+]
+
 function Listings() {
+  const [searchParams, setSearchParams] = useSearchParams()
+  const areaParam = searchParams.get('area')
+  const activeTab = TABS.find((t) => t.key === areaParam) || TABS[0]
+
+  const handleTab = (key) => {
+    setSearchParams(key === 'all' ? {} : { area: key })
+  }
+
   return (
     <div>
       <PageHeader
         eyebrow="Listings"
         title="Search Brazos Valley Homes"
-        subtitle="Browse live listings across College Station, Bryan, and the surrounding Brazos County communities, straight from the local MLS."
+        subtitle="Browse every home for sale across the local MLS, or jump straight to College Station or Bryan."
       />
 
       {/* Search helper bar */}
@@ -28,10 +42,31 @@ function Listings() {
       {/* Live IDX listings */}
       <section className="bg-background py-10">
         <div className="container">
+          <div className="mb-6">
+            <p className="mb-3 text-sm font-semibold text-foreground">Browse by area</p>
+            <div className="flex flex-wrap gap-2">
+              {TABS.map((tab) => (
+                <button
+                  key={tab.key}
+                  type="button"
+                  onClick={() => handleTab(tab.key)}
+                  className={`rounded-full px-5 py-2 text-sm font-semibold transition-colors duration-200 ${
+                    activeTab.key === tab.key
+                      ? 'bg-primary text-primary-foreground'
+                      : 'bg-secondary text-foreground hover:bg-accent'
+                  }`}
+                >
+                  {tab.label}
+                </button>
+              ))}
+            </div>
+          </div>
+
           <div className="overflow-hidden rounded-2xl border border-border bg-card shadow-sm">
             <iframe
-              src="https://bcs.mlsmatrix.com/Matrix/public/IDX.aspx?idx=ff26122"
-              title="Brazos Valley MLS Listings Search"
+              key={activeTab.idx}
+              src={`https://bcs.mlsmatrix.com/Matrix/public/IDX.aspx?idx=${activeTab.idx}`}
+              title={`${activeTab.label} — Brazos Valley MLS Search`}
               className="w-full"
               style={{ height: '1400px', border: '0' }}
             />

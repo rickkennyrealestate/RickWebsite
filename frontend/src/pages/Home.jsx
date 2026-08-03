@@ -53,16 +53,19 @@ const areas = [
     name: 'College Station',
     description: 'Homes near Texas A&M and beyond',
     image: '/assets/images/home-1.jpg',
+    to: '/listings?area=college-station',
   },
   {
     name: 'Bryan',
     description: 'Historic charm and new construction',
     image: '/assets/images/home-2.jpg',
+    to: '/listings?area=bryan',
   },
   {
     name: 'Brazos County',
     description: 'Acreage and surrounding communities',
     image: '/assets/images/home-3.jpg',
+    to: '/listings',
   },
 ]
 
@@ -260,7 +263,7 @@ function Home() {
             {areas.map((area) => (
               <Link
                 key={area.name}
-                to="/listings"
+                to={area.to}
                 className="group relative block overflow-hidden rounded-2xl shadow-sm transition-all duration-200 hover:-translate-y-1 hover:shadow-lg"
               >
                 <img
