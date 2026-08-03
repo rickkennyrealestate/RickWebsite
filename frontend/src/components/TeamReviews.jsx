@@ -1,4 +1,4 @@
-import { FaStar, FaGoogle, FaHome, FaAward } from 'react-icons/fa'
+import { FaStar, FaGoogle, FaHome } from 'react-icons/fa'
 
 function Stars() {
   return (
@@ -52,9 +52,12 @@ function TeamReviews() {
 
           {/* Top Agent */}
           <div className="flex flex-col items-center justify-center rounded-2xl border border-border bg-card p-8 text-center shadow-sm">
-            <FaAward className="h-9 w-9 text-primary" />
-            <p className="mt-4 text-xl font-bold text-foreground">Zillow Top Agent</p>
-            <p className="mt-2 text-sm leading-relaxed text-muted-foreground">
+            <img
+              src="/assets/images/zillow-top-agent.webp"
+              alt="Top Agent on Zillow"
+              className="w-full max-w-[220px]"
+            />
+            <p className="mt-4 text-sm leading-relaxed text-muted-foreground">
               Rick Kenny and Aggieland Realtors, recognized for top-rated client service.
             </p>
           </div>
