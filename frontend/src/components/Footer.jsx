@@ -14,7 +14,8 @@ const quickLinks = [
   { label: 'Listings', to: '/listings' },
   { label: 'Blog', to: '/blog' },
   { label: 'Contact', to: '/contact' },
-  { label: "What's My Home Worth", to: '/home-value' },
+  { label: 'Free Home Valuation', to: '/home-value' },
+  { label: 'Free Buyers Guide', to: '/buyers-guide' },
 ]
 
 const socials = [

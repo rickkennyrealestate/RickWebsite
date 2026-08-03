@@ -6,6 +6,7 @@ import Listings from './pages/Listings'
 import Blog from './pages/Blog'
 import Contact from './pages/Contact'
 import HomeValue from './pages/HomeValue'
+import BuyersGuide from './pages/BuyersGuide'
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
           <Route path="/blog" element={<Blog />} />
           <Route path="/contact" element={<Contact />} />
           <Route path="/home-value" element={<HomeValue />} />
+          <Route path="/buyers-guide" element={<BuyersGuide />} />
         </Route>
       </Routes>
     </BrowserRouter>

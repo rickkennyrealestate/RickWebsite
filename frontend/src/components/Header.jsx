@@ -25,13 +25,13 @@ function Header() {
         <Link to="/" className="flex items-center gap-3" onClick={() => setOpen(false)}>
           <img
             src="/assets/images/logo.png"
-            alt="Rick Kenny — Aggieland Realtors"
-            className="h-10 w-auto md:h-12"
+            alt="Aggieland Realtors"
+            className="h-11 w-auto md:h-14"
           />
-          <span className="hidden text-lg font-bold tracking-tight text-foreground sm:block">
+          <span className="hidden text-lg font-bold leading-tight tracking-tight text-foreground sm:block">
             Rick Kenny
             <span className="block text-xs font-medium uppercase tracking-widest text-muted-foreground">
-              Aggieland Realtors
+              REALTOR&reg;
             </span>
           </span>
         </Link>
@@ -44,7 +44,7 @@ function Header() {
           ))}
         </nav>
 
-        <div className="hidden items-center gap-4 lg:flex">
+        <div className="hidden items-center gap-3 lg:flex">
           <a
             href="tel:2816081151"
             className="flex items-center gap-2 text-sm font-medium text-foreground/80 transition-colors duration-200 hover:text-primary"
@@ -52,8 +52,11 @@ function Header() {
             <FaPhoneAlt className="h-3.5 w-3.5" />
             281-608-1151
           </a>
+          <Button asChild size="sm" variant="outline">
+            <Link to="/buyers-guide">Free Buyers Guide</Link>
+          </Button>
           <Button asChild size="sm">
-            <Link to="/home-value">What&apos;s My Home Worth</Link>
+            <Link to="/home-value">Free Home Valuation</Link>
           </Button>
         </div>
 
@@ -93,8 +96,11 @@ function Header() {
                 <FaPhoneAlt className="h-3.5 w-3.5" />
                 281-608-1151
               </a>
+              <Button asChild variant="outline" className="w-full" onClick={() => setOpen(false)}>
+                <Link to="/buyers-guide">Free Buyers Guide</Link>
+              </Button>
               <Button asChild className="w-full" onClick={() => setOpen(false)}>
-                <Link to="/home-value">What&apos;s My Home Worth</Link>
+                <Link to="/home-value">Free Home Valuation</Link>
               </Button>
             </div>
           </nav>
