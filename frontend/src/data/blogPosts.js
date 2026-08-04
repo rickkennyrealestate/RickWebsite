@@ -1,5 +1,57 @@
 export const blogPosts = [
   {
+    slug: 'seller-checklist-bryan-college-station-fall-2026',
+    title: 'Selling Your Bryan-College Station Home This Fall: A 2026 Seller Checklist',
+    category: 'Seller Tips',
+    date: 'August 2026',
+    readTime: '6 min read',
+    excerpt:
+      'Timing and presentation matter for Bryan-College Station sellers this fall. Here is what pricing strategy, home prep, and the local calendar mean for your listing.',
+    metaDescription:
+      'A 2026 seller checklist for Bryan-College Station, TX: pricing strategy, home prep, online presentation, and timing your listing around the local market.',
+    image: '/assets/images/home-4.jpg',
+    content: [
+      {
+        type: 'p',
+        text: `If you're thinking about listing your home in Bryan-College Station this fall, timing and presentation matter as much as ever. The Brazos Valley market has settled into a steadier rhythm after a few frenzied years, and today's buyers are paying closer attention to pricing and move-in readiness. Whether you're selling near campus, in Midtown, or out toward the Wellborn corridor, a little planning before you list can make a real difference in how quickly your home sells and what it sells for. Here's a practical checklist to work through first.`,
+      },
+      { type: 'h2', text: 'Time your listing around the local calendar' },
+      {
+        type: 'p',
+        text: `Bryan-College Station has a rhythm tied closely to Texas A&M and the area's continued growth, including the ongoing RELLIS campus expansion. Faculty, staff, and graduate students often plan moves around the start of the fall semester, which means listings that hit the market a few weeks ahead of that shift tend to reach buyers who are actively searching, rather than competing for attention once the semester is already underway.`,
+      },
+      { type: 'h2', text: 'Price it right from day one' },
+      {
+        type: 'p',
+        text: `Local market forecasts point to prices in Bryan-College Station rising somewhere in the 3 to 5 percent range in 2026, according to a 2026 housing market forecast from Bryan-College Station broker Sherri Echols. That kind of steady growth means buyers are watching value closely, and overpricing a listing, even by a modest 5 percent, can leave it sitting on the market longer than it should. A pricing strategy built on recent comparable sales, not last year's peak, gives your home the best shot at moving quickly and attracting strong offers.`,
+      },
+      { type: 'h2', text: 'Make it move-in ready' },
+      {
+        type: 'p',
+        text: `Today's buyers have less patience for "projects" than they once did. Decluttering, depersonalizing, and addressing visible wear on the roof, HVAC system, or foundation before you list can meaningfully change how a buyer perceives your home in the first few minutes of a showing. These aren't glamorous fixes, but they're often the difference between an early offer and a price cut two months in.`,
+      },
+      { type: 'h2', text: 'Invest in how your home is presented online' },
+      {
+        type: 'p',
+        text: `Most buyers start their search on a phone. Professional photography, and video or a 3D walkthrough where it fits the home, is worth the investment. A listing that shows well on a small screen tends to get more clicks, more showings, and ultimately more offers, especially with buyers who are being more selective about which homes are worth an in-person visit.`,
+      },
+      { type: 'h2', text: 'Know where the local numbers actually stand' },
+      {
+        type: 'p',
+        text: `Homes in the College Station area have recently taken roughly two months to sell on average, according to Zillow, though the exact figure varies by source, price point, and neighborhood. Rather than anchoring to a single number you saw online, it helps to look at what's actually happening right now in your specific neighborhood and price range, which is the kind of local, current read that can make the difference between a listing that sits and one that sells.`,
+      },
+      {
+        type: 'p',
+        text: `Every home and every seller's situation is a little different, and no one can promise a specific price or a specific number of days on market. What you can control is how well your home is priced, prepared, and presented before it ever hits the market. If you're thinking about selling in Bryan-College Station this fall, I'm happy to walk through your home and put together a straightforward plan built around your goals and timeline.`,
+      },
+    ],
+    sources: [
+      { label: 'Zillow — College Station Home Values', url: 'https://www.zillow.com/home-values/37965/college-station-tx/' },
+      { label: 'Sherri Echols — 2026 Housing Market Forecast for Bryan-College Station', url: 'https://www.sellwithsherri.com/blog/the-2026-housing-market-forecast-for-bryan-college-station/' },
+      { label: 'Sherri Echols — How to Price Your Bryan-College Station Home to Sell Fast (2026)', url: 'https://www.sellwithsherri.com/blog/how-to-price-your-bryan-college-station-home-to-sell-fast-2026-edition/' },
+    ],
+  },
+  {
     slug: 'college-station-housing-market-update-2026',
     title: 'College Station Housing Market Update: What Buyers and Sellers Should Know in 2026',
     category: 'Market Update',
