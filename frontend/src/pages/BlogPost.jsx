@@ -2,6 +2,7 @@ import { Link, useParams } from 'react-router-dom'
 import { FaArrowLeft, FaArrowRight, FaRegClock } from 'react-icons/fa'
 import { Button } from '../components/ui/button'
 import { getPostBySlug } from '../data/blogPosts'
+import { getBlogCover } from '../lib/blogCover'
 import Seo from '../components/Seo'
 
 function BlogPost() {
@@ -56,7 +57,7 @@ function BlogPost() {
       <div className="bg-secondary">
         <div className="container max-w-3xl pb-14">
           <img
-            src={post.image}
+            src={getBlogCover(post)}
             alt={post.title}
             className="aspect-[16/9] w-full rounded-2xl object-cover shadow-md"
           />

@@ -3,6 +3,7 @@ import { FaArrowRight, FaRegClock } from 'react-icons/fa'
 import PageHeader from '../components/PageHeader'
 import Seo from '../components/Seo'
 import { blogPosts } from '../data/blogPosts'
+import { getBlogCover } from '../lib/blogCover'
 
 function Blog() {
   return (
@@ -29,7 +30,7 @@ function Blog() {
                 <Link to={`/blog/${post.slug}`} className="block overflow-hidden">
                   <div className="relative aspect-[3/2] overflow-hidden">
                     <img
-                      src={post.image}
+                      src={getBlogCover(post)}
                       alt={post.title}
                       className="h-full w-full object-cover transition-transform duration-300 group-hover:scale-105"
                     />
