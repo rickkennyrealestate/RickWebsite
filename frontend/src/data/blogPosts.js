@@ -1,5 +1,63 @@
 export const blogPosts = [
   {
+    slug: 'aggie-game-day-weekend-guide-college-station-2026',
+    title: 'Aggie Game Day Weekend Guide: Kyle Field Football in College Station',
+    category: 'Local Guide',
+    date: 'August 2026',
+    readTime: '7 min read',
+    excerpt:
+      'Texas A&M kicks off its 2026 home slate at Kyle Field on September 5. Here is a practical, local guide to parking, tailgating, and timing your weekend in College Station.',
+    metaDescription:
+      'A local guide to Aggie game day in College Station, TX: the 2026 Kyle Field home schedule, parking and tailgate options, and how to time your weekend.',
+    image: '/assets/images/blog-covers/aggie-game-day-weekend-guide-college-station-2026.jpg',
+    content: [
+      {
+        type: 'p',
+        text: `Football season changes the rhythm of College Station more than almost anything else on the calendar. Texas A&M opens its 2026 home schedule at Kyle Field on September 5 against Missouri State, and from that first Saturday through the Thanksgiving weekend matchup with Texas, a big chunk of the city turns its attention toward the stadium. Whether you already live here, you're relocating to Aggieland, or you're just trying to plan around the traffic, here's a practical look at what a Kyle Field weekend actually involves.`,
+      },
+      { type: 'h2', text: 'The 2026 home schedule at Kyle Field' },
+      {
+        type: 'p',
+        text: `Texas A&M plays seven home games at Kyle Field in 2026. The slate includes Missouri State on September 5, Arizona State on September 12, Kentucky on September 19, Arkansas on October 3, The Citadel on October 17, Tennessee on November 14, and the rivalry game against Texas on November 27, which falls on Thanksgiving weekend and airs on ABC at 6:30 p.m. Kyle Field seats roughly 102,000, so on any of these Saturdays, College Station is functioning as a much bigger city than its usual population for the day.`,
+      },
+      { type: 'h2', text: 'Parking and getting to the stadium' },
+      {
+        type: 'p',
+        text: `The ParkMobile app lets you reserve a spot near Kyle Field ahead of time and see current options and pricing, which tends to start around $25 depending on the game and the lot's distance from the stadium. Pre-pay parking is available in lots 37/49, 43, and 115, with Lot 43 sitting the furthest from the stadium of the three. Beyond driving and parking, the free gameday shuttles, campus buses, and rideshare services are all reasonable ways to avoid circling for a spot, especially for a marquee matchup like Tennessee or Texas when lots fill early.`,
+      },
+      { type: 'h2', text: 'Where people tailgate' },
+      {
+        type: 'p',
+        text: `Tailgating on gameday typically gets going when the lots open at 7:30 a.m. Aggie Park, directly across Houston Street east of Kyle Field, is one of the most popular grass tailgating spots in town, and recreational generators are allowed there, though BBQ grills on trailers are not. Beyond Aggie Park, tailgating spreads across Lots 47, 50, 51, 18, 73, 98, 110, and 113, Fan Field, and several other open-access sites around the stadium footprint.`,
+      },
+      { type: 'h2', text: 'Timing your Saturday, and your whole weekend' },
+      {
+        type: 'ul',
+        items: [
+          'Arrive Friday if you can. Checking into a hotel, having dinner, and settling in before Saturday removes several errands from a day that gets busier by the hour once tailgates and parking lots open.',
+          'Decide ahead of time whether the day is stadium-first, tailgate-first, or a town-first watch-party day at Northgate or Century Square. Each version calls for a different hotel area and a different arrival time.',
+          'Confirm your parking spot and a meeting point the night before, since cell service around a stadium holding 102,000 people can get spotty fast.',
+          'For September and October kickoffs, plan for real Texas heat. Water, a hat, and shade at the tailgate matter more than they sound like they would.',
+          'Wait out the first wave of exit traffic after the fourth quarter. A slower dinner or a coffee somewhere quiet usually beats sitting in the initial crush leaving the lots.',
+        ],
+      },
+      { type: 'h2', text: 'Beyond the game itself' },
+      {
+        type: 'p',
+        text: `Not every gameday weekend in College Station centers on a ticket. Northgate and Century Square both handle a watch-party crowd well, and downtown Bryan, about ten to fifteen minutes north, offers a calmer dinner scene if you'd rather step away from the immediate stadium area once kickoff passes. Side trips like the George H.W. Bush Presidential Library or the Bonfire Memorial tend to work better on a Sunday morning than squeezed into a Saturday built around a noon or evening kickoff.`,
+      },
+      {
+        type: 'p',
+        text: `If you're new to the area, or thinking about it, gamedays are a pretty good crash course in how connected College Station is to Texas A&M's calendar, for better or worse depending on your tolerance for a football-Saturday crowd. If you're weighing a move to Aggieland and want to talk through which neighborhoods put you close to the action versus a quieter distance from it come fall, I'm happy to help you think it through.`,
+      },
+    ],
+    sources: [
+      { label: '12thMan.com — 2026 Texas A&M Football Schedule', url: 'https://12thman.com/sports/football/schedule' },
+      { label: 'Arena Capacity — Kyle Field Parking Guide (2026)', url: 'https://www.arenacapacity.com/kyle-field-parking/' },
+      { label: 'College Station Gameday Guide — collegestationtx.org', url: 'https://collegestationtx.org/gameday-guide' },
+    ],
+  },
+  {
     slug: 'neighborhood-spotlight-pebble-creek-college-station',
     title: 'Neighborhood Spotlight: Pebble Creek in College Station, TX',
     category: 'Neighborhood Spotlight',
