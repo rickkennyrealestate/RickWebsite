@@ -3,7 +3,7 @@ export const blogPosts = [
     slug: 'aggie-game-day-weekend-guide-college-station-2026',
     title: 'Aggie Game Day Weekend Guide: Kyle Field Football in College Station',
     category: 'Local Guide',
-    date: 'August 2026',
+    date: 'August 5, 2026',
     readTime: '7 min read',
     excerpt:
       'Texas A&M kicks off its 2026 home slate at Kyle Field on September 5. Here is a practical, local guide to parking, tailgating, and timing your weekend in College Station.',
@@ -61,7 +61,7 @@ export const blogPosts = [
     slug: 'neighborhood-spotlight-pebble-creek-college-station',
     title: 'Neighborhood Spotlight: Pebble Creek in College Station, TX',
     category: 'Neighborhood Spotlight',
-    date: 'August 2026',
+    date: 'August 4, 2026',
     readTime: '6 min read',
     excerpt:
       'A golf-course community on the south side of College Station, Pebble Creek pairs a private country club with miles of trails next to Lick Creek Park. Here is a factual look at the neighborhood.',
@@ -123,7 +123,7 @@ export const blogPosts = [
     slug: 'seller-checklist-bryan-college-station-fall-2026',
     title: 'Selling Your Bryan-College Station Home This Fall: A 2026 Seller Checklist',
     category: 'Seller Tips',
-    date: 'August 2026',
+    date: 'August 4, 2026',
     readTime: '6 min read',
     excerpt:
       'Timing and presentation matter for Bryan-College Station sellers this fall. Here is what pricing strategy, home prep, and the local calendar mean for your listing.',
@@ -175,7 +175,7 @@ export const blogPosts = [
     slug: 'college-station-housing-market-update-2026',
     title: 'College Station Housing Market Update: What Buyers and Sellers Should Know in 2026',
     category: 'Market Update',
-    date: 'August 2026',
+    date: 'August 1, 2026',
     readTime: '5 min read',
     excerpt:
       'After years of rapid gains, the College Station market is shifting toward balance in 2026. Here is what the latest numbers mean for your next move.',
@@ -218,7 +218,7 @@ export const blogPosts = [
     slug: 'first-time-homebuyer-tips-bryan-college-station',
     title: '5 Tips for First-Time Homebuyers in Bryan-College Station',
     category: 'Buyer Tips',
-    date: 'July 2026',
+    date: 'July 15, 2026',
     readTime: '6 min read',
     excerpt:
       'Buying your first home in Aggieland? These five local, practical tips will help you move through the Brazos Valley market with confidence.',
@@ -269,7 +269,7 @@ export const blogPosts = [
     slug: 'investing-college-station-real-estate-texas-am',
     title: 'Why Investors Watch College Station Real Estate Near Texas A&M',
     category: 'Investing',
-    date: 'June 2026',
+    date: 'June 10, 2026',
     readTime: '5 min read',
     excerpt:
       'A major university, steady demand, and long-term growth make Aggieland a market worth understanding, as long as you run the numbers first.',
