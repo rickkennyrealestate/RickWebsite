@@ -1,5 +1,67 @@
 export const blogPosts = [
   {
+    slug: 'neighborhood-spotlight-pebble-creek-college-station',
+    title: 'Neighborhood Spotlight: Pebble Creek in College Station, TX',
+    category: 'Neighborhood Spotlight',
+    date: 'August 2026',
+    readTime: '6 min read',
+    excerpt:
+      'A golf-course community on the south side of College Station, Pebble Creek pairs a private country club with miles of trails next to Lick Creek Park. Here is a factual look at the neighborhood.',
+    metaDescription:
+      'A neighborhood guide to Pebble Creek in College Station, TX: home prices, the Pebble Creek Country Club, HOA dues, and nearby Lick Creek Park.',
+    image: '/assets/images/blog-covers/neighborhood-spotlight-pebble-creek-college-station.jpg',
+    content: [
+      {
+        type: 'p',
+        text: `If you're comparing neighborhoods in College Station, Pebble Creek is worth a closer look. It's a master-planned community of roughly 1,350 acres on the south side of College Station, built around the Pebble Creek Country Club and its 18-hole championship golf course. It sits about nine miles from the Texas A&M campus, farther out than Southwood Valley or Midtown, which makes it a different kind of trade-off: more land, more amenities, and a quieter setting in exchange for a longer commute to campus.`,
+      },
+      { type: 'h2', text: 'Home prices and housing stock' },
+      {
+        type: 'p',
+        text: `Homes in Pebble Creek generally range from the mid-$500,000s to over $1 million, with living space averaging roughly 2,800 to more than 5,000 square feet. The architecture varies from classic brick-and-stone traditional homes to custom builds, including a number of properties with direct golf course frontage. This puts Pebble Creek toward the upper end of the College Station market, well above the citywide averages you'll see in inner-loop neighborhoods, and it draws buyers who are specifically looking for larger lots, more square footage, or a golf course view. Lot sizes tend to be larger than what you'll find in newer subdivisions closer to Highway 6, which is part of why the price per square foot can look different from a comparable-sized home in a denser part of town.`,
+      },
+      { type: 'h2', text: 'The country club and amenities' },
+      {
+        type: 'p',
+        text: `The Pebble Creek Country Club anchors the community and includes the golf course along with an outdoor pool, tennis and pickleball courts, and additional social spaces. Membership and access to club amenities are typically separate from simply owning a home in the neighborhood, so it's worth asking about current membership costs and terms before you assume the club comes with the house. Walking trails run throughout the community itself, separate from the club grounds, and are used daily by residents out for a jog or walking a dog.`,
+      },
+      { type: 'h2', text: 'Lick Creek Park next door' },
+      {
+        type: 'p',
+        text: `Pebble Creek backs up to Lick Creek Park, a roughly 515-acre nature park with several miles of trails for hiking, cycling, and bird watching, plus areas used for equestrian activity. It's a City of College Station park, open to the public, and it's one of the larger undeveloped natural areas left in the city, which gives Pebble Creek a different feel than neighborhoods closer to campus where green space is more limited.`,
+      },
+      { type: 'h2', text: 'HOA structure and dues' },
+      {
+        type: 'p',
+        text: `Pebble Creek isn't governed by a single HOA. There's an overarching Pebble Creek Owners Association, with a base annual assessment, and then several village-level associations layered on top depending on which section of the neighborhood a home sits in, such as the Garden Homes, Patio Homes, or Stonewater Villages sections, each with its own separate dues on a monthly or quarterly schedule. Because the total cost varies quite a bit by section, it's important to confirm the exact HOA structure and current dues for any specific property before you make an offer, rather than assuming one flat number applies neighborhood-wide. A buyer comparing a Garden Homes property to a custom build on the golf course, for example, could be looking at two very different monthly obligations even if the list prices are close, so it pays to get the HOA documents and budget in hand early in the process.`,
+      },
+      { type: 'h2', text: 'How it compares to closer-in neighborhoods' },
+      {
+        type: 'p',
+        text: `The trade-off with Pebble Creek is distance. At about nine miles from campus, the drive in is longer than from Southwood Valley or Midtown, and worth factoring into your daily routine if you or a household member commutes to Texas A&M, Blinn College, or downtown Bryan regularly. In exchange, Pebble Creek offers larger lots, a lower-density feel, and direct access to both the country club and Lick Creek Park, amenities that are harder to find closer to the university. Which trade-off makes sense really comes down to how you weigh commute time against space, privacy, and access to the golf course and trail network.`,
+      },
+      { type: 'h2', text: 'Who tends to look at Pebble Creek' },
+      {
+        type: 'ul',
+        items: [
+          'Buyers upgrading from a starter home who want more square footage or a larger lot',
+          'Golfers or club-focused buyers interested in course access and country club amenities',
+          'Buyers prioritizing trail access and proximity to Lick Creek Park over a short commute to campus',
+          'Buyers comparing College Station\'s established golf-course communities against newer construction elsewhere in the Brazos Valley',
+        ],
+      },
+      {
+        type: 'p',
+        text: `Every section of Pebble Creek has its own price range, HOA terms, and trade-offs, so the right fit really depends on your budget, your commute tolerance, and whether the club amenities matter to you. If you'd like to walk through current listings in Pebble Creek or see how it compares to other College Station neighborhoods for your specific situation, I'm happy to put together a side-by-side look.`,
+      },
+    ],
+    sources: [
+      { label: 'Homes.com — Pebble Creek, College Station Real Estate', url: 'https://www.homes.com/college-station-tx/pebble-creek-neighborhood/' },
+      { label: 'HAR.com — Pebble Creek Country Club', url: 'https://www.har.com/pebble-creek-country-club/golfcourse_13562' },
+      { label: 'Pebble Creek Land Company — Community', url: 'https://pebblecreektx.com/community.asp' },
+    ],
+  },
+  {
     slug: 'seller-checklist-bryan-college-station-fall-2026',
     title: 'Selling Your Bryan-College Station Home This Fall: A 2026 Seller Checklist',
     category: 'Seller Tips',
