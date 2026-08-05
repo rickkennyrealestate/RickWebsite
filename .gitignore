@@ -1,6 +1,9 @@
 # CodeDeck
 .codedeck/
 
+# Blog cover photo stock — local drop folder, consumed one-per-post, never committed
+blog-cover-stock/
+
 # Dependencies
 node_modules/
 frontend/node_modules/
