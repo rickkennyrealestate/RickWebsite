@@ -1,5 +1,62 @@
 export const blogPosts = [
   {
+    slug: 'moving-to-college-station-texas-am-newcomer-guide-2026',
+    title: 'Moving to College Station for Texas A&M: A Newcomer\'s Guide to Aggieland',
+    category: 'Aggieland Life',
+    date: 'August 5, 2026',
+    readTime: '7 min read',
+    excerpt:
+      'New to Aggieland? Here is a practical look at where newcomers tend to land in Bryan-College Station, how RELLIS is reshaping the map, and what to handle in your first weeks.',
+    metaDescription:
+      'A newcomer\'s guide to moving to College Station, TX for Texas A&M: neighborhoods, RELLIS growth, off-campus housing costs, and setting up city utilities.',
+    image: '/assets/images/blog-covers/moving-to-college-station-texas-am-newcomer-guide-2026.jpg',
+    content: [
+      {
+        type: 'p',
+        text: `Every year, a fresh wave of people relocates to College Station for Texas A&M, whether that's a new faculty hire, a staff member joining the university or the Health Science Center, a graduate student, or a family relocating for a job tied to the area's growth. Moving to College Station comes with its own logistics, and the city looks a little different than it did even five years ago thanks to the continued build-out of the RELLIS Campus. Here's a practical starting point for getting oriented.`,
+      },
+      { type: 'h2', text: 'Where newcomers tend to land' },
+      {
+        type: 'p',
+        text: `Proximity to Texas A&M's main campus is the first thing most newcomers weigh, but it isn't the only factor worth considering. Northgate sits directly against campus and carries the densest concentration of restaurants, bars, and student-oriented housing, which makes it a lot louder and more transient than areas even a mile or two out. South College Station along Texas Avenue has a newer mix of apartment and condo development with somewhat easier parking and a bit more distance from the campus crowd. Areas like Southwood Valley and Midtown sit further from the university core and tend to offer larger lots and more single-family housing stock at a lower price per square foot than the immediate campus-adjacent zone. Across the city line in Bryan, homes and rentals are generally more affordable than comparable properties in College Station, with a commute to campus that typically runs ten to fifteen minutes depending on traffic and time of day.`,
+      },
+      { type: 'h2', text: 'RELLIS is changing the map' },
+      {
+        type: 'p',
+        text: `If you haven't spent time in the Brazos Valley before, it's worth knowing about the RELLIS Campus, a roughly 2,000-acre site at 3100 TX-47 in Bryan that's grown into a hub for Texas A&M System research, testing, and academic partnerships, including Blinn College and Texas A&M-Central Texas programs. Texas A&M's Semiconductor Institute, a roughly 90,000-square-foot, nearly $145 million facility, is under construction there as part of that continued expansion. RELLIS sits about 11 miles from central College Station, roughly a 15 to 20 minute drive, and its growth is part of why development has been pushing outward toward west and north Bryan. If your work will take you to RELLIS regularly, it's worth weighing that commute the same way you'd weigh a commute to the main campus.`,
+      },
+      { type: 'h2', text: 'Renting vs. buying as a newcomer' },
+      {
+        type: 'p',
+        text: `Off-campus apartment rents in the area have averaged around $1,752 a month as of early 2026, though pricing varies widely by proximity to campus, unit size, and amenities. Texas A&M's AggieSearch database is a useful starting point for faculty, staff, and students comparing off-campus options before committing to a lease. If you're relocating for a longer-term role and buying makes more sense than renting, know that inventory in the Brazos Valley has stayed tight in the more affordable price bands, so working with someone who can move quickly when the right listing appears matters more here than in a market with abundant supply.`,
+      },
+      { type: 'h2', text: 'Getting utilities and city services set up' },
+      {
+        type: 'ul',
+        items: [
+          'College Station Utilities (CSU) bundles electric, water, sewer, garbage, and drainage into a single bill. New service can be set up online at CSU.cstx.gov or by calling 979-764-3535.',
+          'Garbage and recycling schedules vary by address. The City of College Station Curbside app is the fastest way to find your specific pickup days once you have an address.',
+          'If you land in Bryan instead of College Station, utility setup runs through the City of Bryan rather than CSU, so double check which city your address falls under before you call.',
+          'The City of College Station maintains a New Residents page with details on permits, code enforcement, and general orientation for anyone just arriving.',
+        ],
+      },
+      { type: 'h2', text: 'A few things worth doing in your first weeks' },
+      {
+        type: 'p',
+        text: `Beyond the paperwork, give yourself time to actually drive the commute you'll be doing regularly, at the time of day you'll actually be doing it, before you commit to a lease or a purchase. Traffic patterns around Wellborn Road, Texas Avenue, and University Drive shift noticeably around the Texas A&M class schedule and home football Saturdays, so a commute that looks easy on a map can feel very different in practice. It's also worth visiting during a normal week rather than only during a weekend or gameday, since the rhythm of the city changes quite a bit depending on the calendar.`,
+      },
+      {
+        type: 'p',
+        text: `Relocating to a new city is a lot to manage on top of a new job or a new program, and the Brazos Valley has enough moving pieces right now, between RELLIS growth, tightening inventory, and a wide range of neighborhoods, that local guidance is genuinely useful. If you're moving to College Station or Bryan for Texas A&M and want a straightforward rundown of where to look based on your commute, budget, and timeline, I'm happy to help you get oriented.`,
+      },
+    ],
+    sources: [
+      { label: 'Texas A&M AggieSearch — Off-Campus Housing', url: 'https://aggiesearch.tamu.edu/' },
+      { label: 'City of College Station — New Residents', url: 'https://www.cstx.gov/living-here/new-residents/' },
+      { label: 'City of College Station — Utility Customer Service', url: 'https://www.cstx.gov/news/utility-customer-service/' },
+    ],
+  },
+  {
     slug: 'aggie-game-day-weekend-guide-college-station-2026',
     title: 'Aggie Game Day Weekend Guide: Kyle Field Football in College Station',
     category: 'Local Guide',
