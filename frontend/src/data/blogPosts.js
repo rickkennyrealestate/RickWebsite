@@ -1,5 +1,120 @@
 export const blogPosts = [
   {
+    slug: 'neighborhood-spotlight-southwood-valley-college-station',
+    title: 'Neighborhood Spotlight: Southwood Valley in College Station, TX',
+    category: 'Neighborhood Spotlight',
+    date: 'August 7, 2026',
+    readTime: '6 min read',
+    excerpt:
+      'One of College Station\'s established, close-in neighborhoods, Southwood Valley pairs an easy drive to Texas A&M with a deep bench of city parks. Here is a factual look at prices, layout, and amenities.',
+    metaDescription:
+      'A neighborhood guide to Southwood Valley in College Station, TX: home prices, commute to Texas A&M, Bee Creek Park, and Southwood Athletic Park.',
+    image: '/assets/images/blog-covers/neighborhood-spotlight-southwood-valley-college-station.jpg',
+    content: [
+      {
+        type: 'p',
+        text: `Southwood Valley is one of the older, more established neighborhoods on the south side of College Station, developed mostly through the 1970s and 1980s and centered around Rock Prairie Road between Welsh Avenue and Longmire Drive. Because it built out decades before newer subdivisions farther south and west, Southwood Valley sits closer to Texas A&M's campus and to Highway 6 than most of the neighborhoods that have gone up in College Station since, which makes it a common comparison point for buyers weighing a shorter commute against newer construction elsewhere in the Brazos Valley.`,
+      },
+      { type: 'h2', text: 'Location and commute' },
+      {
+        type: 'p',
+        text: `The neighborhood sits roughly three to four miles south of the Texas A&M campus, with quick access to Highway 6 for trips north to campus or downtown Bryan, or south toward Highway 40 and the newer retail corridors near the Tejas Center. Rock Prairie Road runs through the heart of Southwood Valley and connects to Welborn Road and Texas Avenue, so residents have more than one route in and out during peak traffic, including football weekends when roads closer to Kyle Field back up. That central location is one of the main reasons the neighborhood keeps coming up for buyers who want to be close to campus without paying the premium attached to some of the smaller lots directly adjacent to the university.`,
+      },
+      { type: 'h2', text: 'Home prices and housing stock' },
+      {
+        type: 'p',
+        text: `Southwood Valley's housing stock is dominated by single-story brick homes, with some two-story floor plans mixed in, generally on lots larger than what's typical in newer, denser subdivisions. Architecturally the homes reflect their 1970s-to-1980s build era: traditional ranch layouts, brick and siding exteriors, and mature trees that newer neighborhoods haven't had time to grow. According to Redfin, the median sale price for homes in the Southwood Valley area was $231,250 as of January 2026, a decrease of about 7.5% from the prior year, and generally below the broader College Station median sale price of roughly $340,000 over the trailing three months as of May 2026. That gap reflects the age and size of the housing stock as much as location, and it's a big part of why the neighborhood attracts buyers looking for value closer to campus. As with any established neighborhood, individual home prices vary widely depending on lot size, renovation history, and whether a property has been updated since it was originally built, so it's worth pulling comparable sales for the specific street before setting expectations.`,
+      },
+      { type: 'h2', text: 'Parks and recreation' },
+      {
+        type: 'p',
+        text: `Southwood Valley has some of the best park access in College Station. Bee Creek Park, at 1.5 miles from Highway 6, covers about 44.6 acres and includes a 50-meter pool with a separate wading pool, four lighted tennis courts, two lighted softball fields, a sand volleyball court, two playgrounds, and a 17-acre arboretum. A short drive away, Southwood Athletic Park on Rock Prairie Road is built almost entirely around organized sports, with four Little League fields, two Senior League baseball fields, multiple soccer fields, lighted tennis and basketball courts, the Cindy Hallaran Pool, and parking for over 500 cars. The Southwood Community Center, also within the neighborhood, adds another City of College Station Parks and Recreation facility for programming and rentals. For anyone who wants city parkland within walking or short driving distance rather than a long trip across town, this is one of the neighborhood's strongest selling points.`,
+      },
+      { type: 'h2', text: 'Everyday amenities' },
+      {
+        type: 'p',
+        text: `Southwood Valley isn't a golf-course or master-planned community with its own retail center, so daily errands mean a short drive to the shopping and restaurants along Texas Avenue South and Rock Prairie Road, including the grocery and retail clusters that have grown up around that stretch over the past two decades. That's a different pattern than newer developments built with retail baked in from the start, but it also means Southwood Valley isn't tied to a single HOA-run amenity package. Several nearby subdivisions, including Southwood Terrace, Bee Creek, Steeplechase, and Edelweiss, share the same general area and park access, so it's worth comparing a few of these pocket neighborhoods against each other rather than treating "Southwood Valley" as a single uniform product.`,
+      },
+      { type: 'h2', text: 'Who tends to look at Southwood Valley' },
+      {
+        type: 'ul',
+        items: [
+          'Buyers prioritizing a short commute to Texas A&M or downtown Bryan over newer square footage',
+          'Buyers who want direct access to Bee Creek Park or Southwood Athletic Park without a long drive',
+          'Buyers comparing an established, lower-priced entry point against newer construction farther from campus',
+          'Investors and TAMU-adjacent buyers interested in older housing stock with renovation upside',
+        ],
+      },
+      {
+        type: 'p',
+        text: `Southwood Valley won't be the right fit for every buyer, especially those set on new construction or a neighborhood built around a single amenity package. But for anyone weighing commute time and park access against square footage, it's one of the more straightforward value comparisons in College Station. If you'd like to see current listings in Southwood Valley or compare it against other close-in neighborhoods for your specific needs, I'm happy to put together a side-by-side look.`,
+      },
+    ],
+    sources: [
+      { label: 'Redfin — Southwood Valley, College Station, TX Real Estate', url: 'https://www.redfin.com/neighborhood/661047/TX/College-Station/Southwood-Valley' },
+      { label: 'Redfin — College Station, TX Housing Market', url: 'https://www.redfin.com/city/4134/TX/College-Station/housing-market' },
+      { label: 'City of College Station — Bee Creek Park', url: 'https://visit.cstx.gov/directory/bee-creek-park/' },
+      { label: 'City of College Station — Southwood Community Center', url: 'https://www.cstx.gov/departments___city_hall/parks/southwood' },
+    ],
+  },
+  {
+    slug: 'new-construction-college-station-mud-pid-property-taxes',
+    title: 'Buying New Construction in Bryan-College Station: Why MUDs, PIDs, and Property Taxes Deserve a Closer Look',
+    category: 'Working With Rick',
+    date: 'August 7, 2026',
+    readTime: '7 min read',
+    excerpt:
+      'New subdivisions keep spreading across Bryan-College Station, and some carry extra taxing districts most buyers have never heard of. Here is what a local agent helps you check before you write an offer.',
+    metaDescription:
+      'A local guide to buying new construction in College Station and Bryan, TX: what MUDs and PIDs mean for your tax bill, plus Brazos CAD homestead exemption basics.',
+    image: null,
+    content: [
+      {
+        type: 'p',
+        text: `New construction keeps pushing outward across Bryan-College Station, from newer sections of College Station's extraterritorial jurisdiction to growing pockets of unincorporated Brazos County. It's an exciting time to shop for a new build, but a shiny model home doesn't always come with a full picture of what you'll actually owe every year. Some of these newer subdivisions sit inside a Municipal Utility District or a Public Improvement District, either of which can add a meaningful line item to your property tax bill that a purchase price alone won't show you. This is exactly the kind of detail a local agent who works new construction in College Station and Bryan regularly should be flagging before you get attached to a floor plan.`,
+      },
+      { type: 'h2', text: 'What a MUD actually is' },
+      {
+        type: 'p',
+        text: `A Municipal Utility District, or MUD, is a political subdivision of the State of Texas, authorized by the Texas Commission on Environmental Quality, that provides water, sewer, drainage, and related infrastructure within a defined boundary. According to the City of College Station, MUDs are typically formed in areas where city utilities aren't readily available, most often out in the city's extraterritorial jurisdiction. A developer petitions to create the district, and once it's approved, an elected board can levy its own taxes and fees to repay the bonds that funded the water, sewer, and drainage lines running to your street. In practical terms, that means a home inside a MUD carries an additional tax rate layered on top of your city, county, and school district taxes, one that isn't always obvious from a listing sheet.`,
+      },
+      { type: 'h2', text: 'How a PID is different' },
+      {
+        type: 'p',
+        text: `A Public Improvement District, or PID, works on a similar principle but through a different legal mechanism, created by a city under Chapter 372 of the Texas Local Government Code rather than through the TCEQ. PIDs are more often used within city limits and can fund a broader range of improvements beyond basic utilities, things like enhanced landscaping, entry features, trails, or shared amenities in a new subdivision. Instead of a tax, a PID typically charges a special assessment against properties in the district to repay the cost of those improvements. Either way, the effect on your monthly payment is similar: an added cost tied to the specific piece of land you're buying, not something that shows up on a comparable home just a few streets over that sits outside the district boundary.`,
+      },
+      { type: 'h2', text: 'Why this matters more in newer Bryan-College Station subdivisions' },
+      {
+        type: 'p',
+        text: `Established, close-in neighborhoods that were built out on existing city utilities generally don't carry a MUD or PID, since the infrastructure was already in place before the homes were. It's the newer growth areas, particularly toward the edges of College Station's ETJ and in parts of unincorporated Brazos County where city water and sewer lines haven't reached yet, where a developer is more likely to have used one of these districts to finance the utility build-out. That's not a reason to avoid a new build. It's a reason to ask the question directly and get the actual rate in writing before you fall in love with a lot. Texas law requires a statutory notice at closing for property inside a MUD, but by then you're deep into the transaction. Getting that answer during the search, while you can still compare it against a similar home outside the district, is far more useful.`,
+      },
+      { type: 'h2', text: 'Where the Brazos Central Appraisal District fits in' },
+      {
+        type: 'p',
+        text: `Once you own the home, the Brazos Central Appraisal District, or Brazos CAD, is who sets the appraised value your tax bill is based on. A few dates are worth building into your first year as a Brazos County homeowner:`,
+      },
+      {
+        type: 'ul',
+        items: [
+          'File your residential homestead exemption application with Brazos CAD between January 1 and April 30 of the year after you close, using Form 50-114. It\'s free to file, and there\'s no reason to pay a third party to do it for you.',
+          'Texas voters approved a $140,000 homestead exemption on school district taxes under Proposition 13 in November 2025, applied retroactively to the 2025 tax year, so this is a meaningfully larger exemption than in prior years if you qualify.',
+          'If you disagree with your appraised value, the protest deadline is generally May 15, or 30 days from the date your Notice of Appraised Value was mailed, whichever is later. Brazos CAD sends these notices in more than one mailing wave, so double-check the date on your specific notice rather than assuming a single deadline applies to everyone.',
+          'A home inside a MUD or PID will show that district as a separate taxing entity on your Brazos CAD account, alongside the city, county, and school district, which is the clearest way to confirm whether a specific property carries one.',
+        ],
+      },
+      { type: 'h2', text: 'Why local, hands-on guidance pays off here' },
+      {
+        type: 'p',
+        text: `None of this is meant to scare you off new construction, plenty of buyers land in a MUD or PID home and are glad they did, especially when the amenities or lot they wanted came with it. The point is that the sticker price on a new build in Bryan-College Station isn't the whole story, and figuring out the whole story takes someone who's used to asking builders and developers the right questions before you're under contract. I've spent enough time working new construction and resale across College Station and Bryan, and staying connected to the Aggie community here, to know which growing pockets of the area tend to carry these districts and which don't, and I'd rather you find that out from me during your search than from a tax bill after closing. If you're comparing a new build to a resale home in Bryan-College Station, I'm happy to walk through what's actually driving the numbers on each one.`,
+      },
+    ],
+    sources: [
+      { label: 'City of College Station — Municipal Utility Districts', url: 'https://www.cstx.gov/business-development/planning-development-services/municipal-utility-districts/' },
+      { label: 'FirstService Residential — A Guide to Public Improvement Districts in Texas', url: 'https://www.fsresidential.com/texas/news-events/articles/what-are-public-improvement-districts-in-texas/' },
+      { label: 'Brazos Central Appraisal District', url: 'https://brazoscad.org/' },
+    ],
+  },
+  {
     slug: 'moving-to-college-station-texas-am-newcomer-guide-2026',
     title: 'Moving to College Station for Texas A&M: A Newcomer\'s Guide to Aggieland',
     category: 'Aggieland Life',
