@@ -11,6 +11,16 @@ function setMeta(attr, key, content) {
   el.setAttribute('content', content)
 }
 
+function setCanonical(href) {
+  let el = document.head.querySelector('link[rel="canonical"]')
+  if (!el) {
+    el = document.createElement('link')
+    el.setAttribute('rel', 'canonical')
+    document.head.appendChild(el)
+  }
+  el.setAttribute('href', href)
+}
+
 function Seo({ title, description }) {
   useEffect(() => {
     if (title) {
@@ -23,6 +33,10 @@ function Seo({ title, description }) {
       setMeta('property', 'og:description', description)
       setMeta('name', 'twitter:description', description)
     }
+    const path = window.location.pathname.replace(/\/+$/, '') || '/'
+    const url = `https://rickkenny.com${path}`
+    setCanonical(url)
+    setMeta('property', 'og:url', url)
   }, [title, description])
 
   return null
