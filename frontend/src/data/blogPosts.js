@@ -1,5 +1,70 @@
 export const blogPosts = [
   {
+    slug: 'best-parks-outdoor-spaces-college-station-tx',
+    title: '5 Best Parks and Outdoor Spaces in College Station, TX',
+    category: 'Local Guide',
+    date: 'August 10, 2026',
+    readTime: '7 min read',
+    excerpt:
+      'From a 500-acre nature preserve to a downtown amphitheater park, College Station has more outdoor space than most newcomers expect. Here is a factual look at five parks worth knowing before you buy.',
+    metaDescription:
+      'A local guide to the best parks in College Station, TX, covering Wolf Pen Creek, Veterans Park, Lick Creek Park, Bee Creek Park, and Central Park.',
+    image: '/assets/images/blog-covers/best-parks-outdoor-spaces-college-station-tx.jpg',
+    content: [
+      {
+        type: 'p',
+        text: `Ask people who have lived in College Station for a while what surprised them most, and parks come up more often than you'd expect. Between the City of College Station's park system and the natural land the city has set aside east of Texas A&M, there's a lot more green space here than the Aggie-football reputation suggests. Whether you're weighing a move to College Station or just want to know what's nearby once you close on a house, here's a factual rundown of five parks that come up again and again.`,
+      },
+      { type: 'h2', text: 'Wolf Pen Creek Park' },
+      {
+        type: 'p',
+        text: `Wolf Pen Creek Park sits at 1015 Colgate Drive, tucked into a creek corridor between Texas Avenue and Dartmouth Street, close to Post Oak Mall and the Wolf Pen Creek Entertainment District. The park covers 63 acres and includes a paved 2.7-mile trail system, a nine-hole disc golf course, a playground, and a 10-acre open festival site suited to a picnic or a kite. Its centerpiece is an open-air amphitheater with lawn seating for 7,000 that hosts concerts and community events throughout the year, along with a rentable Green Room for private functions. Because it sits close to Texas Avenue, Wolf Pen Creek functions as College Station's closest thing to a downtown park, and it's a quick trip from several of the newer apartment and townhome developments along that corridor.`,
+      },
+      { type: 'h2', text: 'Veterans Park and Athletic Complex' },
+      {
+        type: 'p',
+        text: `Veterans Park and Athletic Complex, at 3101 Harvey Road, is the largest organized-sports facility in the city at roughly 150 acres. It has 13 multi-purpose fields, four of them synthetic turf, plus five natural grass softball fields, batting cages, playgrounds, and lighting on every field, which is why it draws local, regional, and national tournaments in soccer, softball, and other field sports. Inside the complex, a 12-acre section is set aside as the Brazos Valley Veterans Memorial, with a Wall of Honor, life-sized statues, and interpretive panels. For buyers with kids in club sports or families who spend weekends on the sidelines, proximity to Veterans Park is a real quality-of-life factor worth weighing alongside commute time.`,
+      },
+      { type: 'h2', text: 'Lick Creek Park' },
+      {
+        type: 'p',
+        text: `Lick Creek Park is the outlier on this list: a 500-plus-acre nature preserve about seven miles from the city center, off Rock Prairie Road on College Station's east side. Rather than ballfields and playgrounds, it offers five miles of multi-use trails through Post Oak Savannah terrain, popular with hikers, mountain bikers, birdwatchers, and equestrians. Trails like Cross Timbers and Yaupon Loop range from easy to moderate, and the park is one of the few spots in the Brazos Valley where you can go a couple of miles without seeing a subdivision. It's worth a visit before you decide how much you value being near undeveloped land versus a more built-up part of town.`,
+      },
+      { type: 'h2', text: 'Bee Creek Park' },
+      {
+        type: 'p',
+        text: `Bee Creek Park, off Anderson Street on the south side of town, covers about 44.6 acres and centers on a 50-meter competition pool with a separate wading pool, popular in the summer months. It also has four lighted tennis courts, two lighted softball fields, a sand volleyball court, two playgrounds, picnic pavilions, and a 17-acre arboretum with a shaded walking path. Bee Creek sits close to several established neighborhoods on College Station's south side, including Southwood Valley, so it comes up often for buyers comparing close-in, older neighborhoods against newer construction farther out.`,
+      },
+      { type: 'h2', text: 'Stephen C. Beachy Central Park' },
+      {
+        type: 'p',
+        text: `Stephen C. Beachy Central Park, at 1000 Krenek Tap Road, spans about 106.68 acres and functions as a hub for recreation programming, with over 300 parking spaces. Amenities include a pond stocked monthly by Texas Parks and Wildlife, wooded walking trails, four lighted softball fields with batting cages, three lighted athletic fields, a basketball court, two lighted tennis courts, sand volleyball, and a full-kitchen pavilion. Its newest feature is the Fun For All Playground and Splash Pad, a fully accessible, wheelchair-friendly playground with a covered splash pad that runs March through October. It's one of the more heavily used green spaces in College Station on any given weekend.`,
+      },
+      { type: 'h2', text: 'Planning a visit or a move' },
+      {
+        type: 'ul',
+        items: [
+          'Wolf Pen Creek Park — best for an evening walk, disc golf, or a concert close to Texas Avenue',
+          'Veterans Park and Athletic Complex — best for families in club or league sports',
+          'Lick Creek Park — best for trail running, mountain biking, or a quiet hike away from traffic',
+          'Bee Creek Park — best for swimming and tennis on the south side of town',
+          'Central Park — best for an inclusive playground and year-round recreation programming',
+        ],
+      },
+      {
+        type: 'p',
+        text: `Park access is one of those details that's easy to overlook while comparing square footage and school zones, but it shapes daily life as much as anything else on a listing sheet. If you're house hunting in College Station and want to know which neighborhoods sit closest to a particular park, or how commute times stack up against the outdoor access you're looking for, I'm happy to help you compare options.`,
+      },
+    ],
+    sources: [
+      { label: 'City of College Station — Wolf Pen Creek', url: 'https://www.cstx.gov/parks-recreation-culture/facilities-and-rentals/wolf-pen-creek/' },
+      { label: 'Visit College Station — Veterans Park and Athletic Complex', url: 'https://visit.cstx.gov/directory/veterans-park-and-athletic-complex/' },
+      { label: 'Visit College Station — Lick Creek Park', url: 'https://visit.cstx.gov/directory/lick-creek-park/' },
+      { label: 'Visit College Station — Bee Creek Park', url: 'https://visit.cstx.gov/directory/bee-creek-park/' },
+      { label: 'Visit College Station — Stephen C. Beachy Central Park', url: 'https://visit.cstx.gov/directory/stephen-c-beachy-central-park/' },
+    ],
+  },
+  {
     slug: 'neighborhood-spotlight-southwood-valley-college-station',
     title: 'Neighborhood Spotlight: Southwood Valley in College Station, TX',
     category: 'Neighborhood Spotlight',
