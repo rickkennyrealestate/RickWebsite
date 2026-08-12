@@ -1,5 +1,63 @@
 export const blogPosts = [
   {
+    slug: 'short-term-rental-investing-college-station-airbnb-rules',
+    title: 'Short-Term Rental Investing in College Station: What the City\'s Airbnb Rules Mean for Your Numbers',
+    category: 'Investing',
+    date: 'August 11, 2026',
+    readTime: '7 min read',
+    excerpt:
+      'Short-term rentals near Texas A&M can pencil out well on gameday weekends, but College Station regulates them closely. Here is what the permit process and hotel tax actually cost an investor.',
+    metaDescription:
+      'A local guide to short-term rental investing in College Station, TX: permit fees, hotel occupancy tax rules, and how the numbers compare to long-term rentals.',
+    image: '/assets/images/blog-covers/short-term-rental-investing-college-station-airbnb-rules.jpg',
+    content: [
+      {
+        type: 'p',
+        text: `Every football Saturday, College Station's short-term rental listings fill up fast, and it's easy to see why an investor would look at a home near Kyle Field and start running Airbnb numbers instead of a traditional lease. But short-term rentals here aren't unregulated side income. College Station has required a permit for short-term rental housing since October 2020, and understanding that ordinance, not just the nightly rate an app quotes you, is the difference between a solid investment and a compliance headache.`,
+      },
+      { type: 'h2', text: 'What counts as a short-term rental here' },
+      {
+        type: 'p',
+        text: `Under the city's ordinance, a short-term rental is any residential unit rented out for fewer than 30 consecutive days, and that definition covers single-family homes, duplexes, triplexes, fourplexes, multi-family units, and manufactured homes. It doesn't matter whether you list on Airbnb, Vrbo, or book guests directly. If the stay is under 30 days, the property falls under the ordinance, and the city maintains an interactive STR map so you can see registered rentals and check a specific address before you buy.`,
+      },
+      { type: 'h2', text: 'Permits, fees, and the annual renewal' },
+      {
+        type: 'p',
+        text: `Operating legally starts with a permit, which currently runs $100, plus a $100 inspection fee. If a property fails that inspection, there's a $124 re-inspection fee before you can proceed. Permits are valid for one year and must be renewed annually for $75. On top of the permit itself, the city requires working smoke detectors, carbon monoxide detectors where gas or propane appliances are present, and a fire extinguisher on every floor, along with an informational brochure for guests that covers neighborhood information, how to reach the operator, and local emergency numbers. None of these costs are large individually, but they belong in your first-year budget alongside furnishing and cleaning costs, since skipping the permit isn't really an option: the city can revoke or deny renewal for violations.`,
+      },
+      { type: 'h2', text: 'Hotel occupancy tax is the line item investors miss' },
+      {
+        type: 'p',
+        text: `The bigger ongoing obligation is hotel occupancy tax. College Station charges a 7% local hotel occupancy tax on any stay under 30 days where the rate is $2 or more per night, and that's separate from the 6% state hotel tax. Platforms like Airbnb have an agreement with the State of Texas to collect and remit that 6% state portion automatically, but that does not cover the local 7%. Short-term rental operators still have to file and remit the local tax to the City of College Station themselves, on a monthly basis, by the 20th of the following month, even in months with zero bookings. Miss a filing and the city treats it as a misdemeanor, with a 15% penalty added for every 30 days the report or payment is late. Building that filing routine into your operations, or hiring a property manager who already has one, is worth pricing into your return before you buy, not after your first missed deadline.`,
+      },
+      { type: 'h2', text: 'How the yield math compares to a long-term lease' },
+      {
+        type: 'p',
+        text: `Texas A&M's roughly 70,000 students plus faculty and staff keep long-term rental demand steady in College Station year-round, and some local investment analysis has put gross rental yields around 6.4% in College Station versus roughly 5.8% in Bryan, reflecting higher rents near campus offsetting higher purchase prices. A short-term rental strategy is a different bet: it can outperform a long-term lease during football season and graduation weekends, when nightly rates spike and 102,000 fans are looking for a place to stay, but it also brings vacancy risk in slower months, higher turnover costs, and the permit and tax overhead above. Before you commit to one strategy over the other, it's worth modeling both against the same property, including a realistic off-season occupancy rate rather than assuming every weekend books like a Texas game.`,
+      },
+      { type: 'h2', text: 'Questions worth answering before you buy' },
+      {
+        type: 'ul',
+        items: [
+          'Is the property already registered as an STR, or will you be starting the permit process from scratch after closing?',
+          'Does the neighborhood or HOA have its own rental restrictions layered on top of the city ordinance?',
+          'What did the seller actually collect in bookings over the past 12 months, not just projected income from a listing tool?',
+          `Who is filing the monthly local hotel occupancy tax, and what does that service cost if you're not doing it yourself?`,
+          'How does the property perform financially if you ran it as a standard 12-month lease instead?',
+        ],
+      },
+      {
+        type: 'p',
+        text: `Short-term rentals can be a legitimate piece of a Brazos Valley investment strategy, especially with Kyle Field's pull on fall weekends, but the ordinance means the math only works if you build in the permit costs, the local tax filings, and realistic off-season occupancy from day one. Every investment carries risk, and no one can guarantee a specific yield or occupancy rate. If you're weighing a short-term rental against a traditional lease on a specific College Station property, I'm happy to help you run both scenarios before you make an offer.`,
+      },
+    ],
+    sources: [
+      { label: 'City of College Station — Short-Term Rental Housing', url: 'https://www.cstx.gov/living-here/housing/short-term-rental-housing/' },
+      { label: 'Schwartz Realty Group — Best Real Estate Investment Strategies in Bryan-College Station (2026)', url: 'https://schwartzrealtygroup.com/blog/the-best-real-estate-investment-strategies-in-bryan-college-station-ranked-for-2026' },
+      { label: 'BiggerPockets — Investment Analysis for the College Station, TX Real Estate Market', url: 'https://www.biggerpockets.com/markets/college-station-bryan-tx' },
+    ],
+  },
+  {
     slug: 'best-parks-outdoor-spaces-college-station-tx',
     title: '5 Best Parks and Outdoor Spaces in College Station, TX',
     category: 'Local Guide',
