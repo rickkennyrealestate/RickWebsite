@@ -1,5 +1,116 @@
 export const blogPosts = [
   {
+    slug: 'expansive-clay-soil-foundation-tips-bryan-college-station-buyers',
+    title: 'What Bryan-College Station Homebuyers Should Know About Expansive Clay Soil and Foundations',
+    category: 'Buyer Tips',
+    date: 'August 13, 2026',
+    readTime: '7 min read',
+    excerpt:
+      'The clay soil under much of Bryan-College Station expands and contracts with the seasons, which is why foundation health deserves a close look before you buy. Here is what that means for your inspection and your offer.',
+    metaDescription:
+      'A buyer\'s guide to expansive clay soil and foundation health in Bryan-College Station, TX, including what to check during inspection and questions to ask.',
+    image: '/assets/images/blog-covers/expansive-clay-soil-foundation-tips-bryan-college-station-buyers.jpg',
+    content: [
+      {
+        type: 'p',
+        text: `If you are shopping for a home in Bryan-College Station, one local detail deserves more attention than it usually gets: what is underneath the slab. Much of the Brazos Valley sits on expansive clay soil, often hidden beneath a layer of sandy topsoil, that swells when it gets wet and shrinks as it dries out. That movement is a normal part of owning a home here, but understanding it before you buy helps you read an inspection report correctly and ask better questions before you write an offer.`,
+      },
+      { type: 'h2', text: 'Why the ground under Bryan-College Station moves' },
+      {
+        type: 'p',
+        text: `According to local foundation contractors who work throughout the area, the Bryan-College Station region is built largely on expansive clay, and reactive clay can increase in size by a meaningful percentage when heavily saturated, exerting steady pressure on whatever sits above it. Central Texas also swings between wet spells and extended dry stretches, and that cycle of soil expanding and contracting is what drives most of the foundation movement seen locally. It is not unique to any one neighborhood or price point. It is a regional condition that any Brazos Valley buyer benefits from understanding, whether the home is a 1980s ranch near Southwood Valley or new construction out toward Wellborn.`,
+      },
+      { type: 'h2', text: 'What to look for during a home inspection' },
+      {
+        type: 'p',
+        text: `A general home inspection will flag visible signs of foundation movement, but it helps to know what those signs look like before your inspector points them out. Cosmetic cracks in drywall or brick veneer, doors and windows that stick or no longer latch cleanly, uneven or sloping floors, and gaps where trim has pulled away from a wall can all point back to soil movement beneath the slab. None of these automatically means a home has a serious problem; many older Brazos Valley homes show some of these signs and remain perfectly livable. The point of the inspection is to distinguish normal, minor settling from movement significant enough to warrant a closer look from a structural engineer.`,
+      },
+      { type: 'ul', items: [
+        'Hairline versus stair-step cracks in brick or block, which can indicate different severity of movement',
+        'Doors and windows that stick seasonally, especially after heavy rain',
+        'Visible slab cracks in the garage floor or exposed foundation edge',
+        'Standing water near the foundation or negative drainage that pushes water toward the house',
+        'Evidence of prior foundation repair, such as patched piers or leveling work noted in seller disclosures',
+      ] },
+      { type: 'h2', text: 'Foundation types built for this soil' },
+      {
+        type: 'p',
+        text: `Because expansive clay is so common locally, builders in the Brazos Valley often use post-tensioned slab foundations, which use steel cables tensioned after the concrete cures to help the slab resist the stresses of soil movement, rather than older, less rigid slab designs. Homes built more recently, particularly in newer subdivisions, are more likely to use this approach or similar engineered designs suited to reactive clay. That does not mean an older home is a poor choice, only that its foundation type and age are worth understanding, since older, non-engineered slabs may be more susceptible to movement over time.`,
+      },
+      { type: 'h2', text: 'Questions to ask before you write an offer' },
+      {
+        type: 'p',
+        text: `If an inspection raises a foundation question, do not treat that as an automatic reason to walk away. It is a reason to get specific information. Ask the seller for any past foundation repair records or warranties, since transferable warranties can carry real value. Ask whether a structural engineer has ever evaluated the home, and if a repair company flagged an issue, ask what they recommended and whether it was completed. It is also worth asking about the grading and drainage around the home, since water pooling near the foundation is often a bigger driver of movement than the soil type alone. A local inspector or structural engineer who works regularly in the Brazos Valley will know what is typical for this area versus what warrants further evaluation.`,
+      },
+      {
+        type: 'p',
+        text: `Foundation concerns are common enough in Bryan-College Station that they should not scare off a serious buyer, but they are also specific enough to this region that they deserve real attention rather than a quick glance. If you are touring homes and want a second set of eyes on what an inspection report is telling you, or want to talk through how foundation history should factor into your offer, reach out anytime.`,
+      },
+    ],
+    sources: [
+      { label: 'Anchor Foundation Repair — What Is Expansive Clay Soil?', url: 'https://anchorfoundationrepair.net/blog/what-is-expansive-clay-soil-home-foundation/' },
+      { label: 'Insite Brazos Valley Magazine — Residential Foundations in the Brazos Valley', url: 'https://insitebrazosvalley.com/community/business/building-strong-base-residential-foundations-brazos-valley/' },
+      { label: 'East Texas Home Inspection & Pest — Bryan-College Station Service Area', url: 'https://easttexashomeinspection.com/service-area/bryan-college-station/' },
+    ],
+  },
+  {
+    slug: 'neighborhood-spotlight-castlegate-college-station',
+    title: 'Neighborhood Spotlight: Castlegate in College Station, TX',
+    category: 'Neighborhood Spotlight',
+    date: 'August 12, 2026',
+    readTime: '6 min read',
+    excerpt:
+      'Castlegate is one of College Station\'s largest amenity-driven communities, built around two lakes, miles of trails, and a resident aquatic center on the south side of town. Here is a factual look at prices, HOA differences, and location.',
+    metaDescription:
+      'A neighborhood guide to Castlegate in College Station, TX: home prices, HOA amenities, lakes and trails, and how Castlegate I compares to Castlegate II.',
+    image: null,
+    content: [
+      {
+        type: 'p',
+        text: `Castlegate is one of College Station's more established amenity-driven neighborhoods, built out over the past two decades on the south side of town near William D. Fitch Parkway and Greens Prairie Road. With two connected sections, the original Castlegate and the newer Castlegate II, plus a smaller gated enclave called The Gardens of Castlegate, it has grown into one of the larger planned communities in College Station, TX, known locally for its lakes, trails, and resident-only aquatic center. Here is a factual look at where it sits, what homes cost, and what day-to-day life looks like.`,
+      },
+      { type: 'h2', text: 'Location and commute' },
+      {
+        type: 'p',
+        text: `Castlegate sits south of Rock Prairie Road between William D. Fitch Parkway and Greens Prairie Road, roughly six to seven miles from the Texas A&M campus. That puts it farther from campus than close-in neighborhoods like Southwood Valley, but residents get a direct run up William D. Fitch Parkway to Highway 6, which connects north toward campus and downtown Bryan or south toward the retail corridor near Highway 40. The location also puts Castlegate within a short drive of the Tejas Center and the shopping along Rock Prairie Road, so errands don't require crossing town.`,
+      },
+      { type: 'h2', text: 'Home prices and housing stock' },
+      {
+        type: 'p',
+        text: `According to Redfin, the median sale price in Castlegate was $469,900 in October 2025, up about 10.7% from the year before, though homes were also taking longer to sell, an average of 86 days on market compared to 20 days the prior year, with only seven homes sold that month. That combination, a higher price but a slower pace, is worth noting for both buyers and sellers: it points to a market that is still appreciating but with less competition for any single listing than a year earlier. Housing stock in Castlegate skews newer and larger than much of College Station's older inventory, with two-story brick homes on bigger lots than what is typical closer to campus, built mostly from the 2000s through today as the neighborhood has continued to expand.`,
+      },
+      { type: 'h2', text: 'Amenities and lifestyle' },
+      {
+        type: 'p',
+        text: `Castlegate's amenity package is a big part of its draw. The community includes two stocked lakes used for catch-and-release fishing, a network of walking and jogging trails, tennis and sport courts, playgrounds, and picnic pavilions spread across more than 260 acres. Castlegate II adds its own resort-style aquatic center and an HOA-run event center that residents can reserve for gatherings. The Gardens of Castlegate operates as a separate, gated sub-association within the community with its own higher HOA dues that include lawn maintenance, an option some buyers prefer for lower upkeep.`,
+      },
+      { type: 'h2', text: 'Castlegate I vs. Castlegate II' },
+      {
+        type: 'p',
+        text: `Because Castlegate developed in phases, it is worth treating the original section and Castlegate II as related but distinct products rather than one uniform neighborhood. The original Castlegate tends to have slightly older homes and lower HOA dues, generally in the low hundreds annually, while Castlegate II includes the aquatic center and event center and carries HOA dues that run higher to cover those amenities. Buyers comparing the two should ask specifically which section a listing falls in and what that section's dues cover, since amenity access and cost vary even within Castlegate itself.`,
+      },
+      { type: 'h2', text: 'Who tends to look at Castlegate' },
+      {
+        type: 'ul',
+        items: [
+          'Move-up buyers wanting more square footage and newer construction than College Station\'s older, close-in neighborhoods',
+          'Buyers who prioritize lakes, trails, and an aquatic center over a shorter commute to campus',
+          'Buyers comparing Castlegate I\'s lower HOA dues against Castlegate II\'s expanded amenity package',
+          'Buyers weighing The Gardens of Castlegate\'s included lawn care against a standard HOA structure',
+        ],
+      },
+      {
+        type: 'p',
+        text: `Castlegate will not suit every buyer, particularly those set on a short commute to campus or an older, lower-priced entry point. But for buyers who want space, amenities, and a planned-community feel on the south side of College Station, it is one of the more amenity-rich options in the market. If you would like to compare current Castlegate listings against similar neighborhoods for your budget and priorities, I am happy to help.`,
+      },
+    ],
+    sources: [
+      { label: 'Redfin — Castlegate, College Station, TX Housing Market', url: 'https://www.redfin.com/neighborhood/658905/TX/College-Station/Castlegate/housing-market' },
+      { label: 'Redfin — Castlegate, College Station, TX Real Estate', url: 'https://www.redfin.com/neighborhood/658905/TX/College-Station/Castlegate' },
+      { label: 'Homes.com — Castlegate Neighborhood Guide, College Station', url: 'https://www.homes.com/local-guide/college-station-tx/castlegate-neighborhood/' },
+    ],
+  },
+  {
     slug: 'short-term-rental-investing-college-station-airbnb-rules',
     title: 'Short-Term Rental Investing in College Station: What the City\'s Airbnb Rules Mean for Your Numbers',
     category: 'Investing',
