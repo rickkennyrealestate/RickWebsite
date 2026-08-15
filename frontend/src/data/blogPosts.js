@@ -1,5 +1,72 @@
 export const blogPosts = [
   {
+    slug: 'living-near-rellis-campus-bryan-tx-highway-47-guide',
+    title: 'Living Near the RELLIS Campus in Bryan, TX: A Guide to the Highway 47 Corridor',
+    category: 'Aggieland Life',
+    date: 'August 15, 2026',
+    readTime: '8 min read',
+    excerpt:
+      'The Texas A&M System RELLIS Campus has no on-campus housing, which puts every student, researcher, and employee out into the Bryan housing market. Here is what living near Highway 47 actually looks like.',
+    metaDescription:
+      'A guide to living near the RELLIS Campus in Bryan, TX: commute routes, the Highway 47 Innovation Corridor, housing options, and what buyers should check.',
+    image: '/assets/images/blog-covers/living-near-rellis-campus-bryan-tx-highway-47-guide.jpg',
+    content: [
+      {
+        type: 'p',
+        text: `If your work, research, or coursework is taking you to the RELLIS Campus in Bryan, TX, the first thing worth knowing is that RELLIS does not offer on-campus housing. Every student in the RELLIS Academic Alliance, every Texas A&M Engineering Experiment Station researcher, and every employee at one of the campus tenants lives somewhere else and drives, buses, or bikes in. That single fact shapes a lot of housing decisions on the northwest side of the Brazos Valley, and it is a detail newcomers often discover late. Here is a grounded look at the area, the commute, and what is being planned along the Highway 47 corridor.`,
+      },
+      { type: 'h2', text: 'What the RELLIS Campus is, and why it keeps growing' },
+      {
+        type: 'p',
+        text: `RELLIS sits at 3100 Texas Highway 47 in Bryan, on the roughly 2,300-acre property the Texas A&M University System formerly called the Riverside Campus. The System relaunched it in 2016 as a combined research, testing, and higher-education campus, and the name is an acronym for Texas A&M's core values: respect, excellence, leadership, loyalty, integrity, and selfless service. Today it houses the RELLIS Academic Alliance, where Blinn College District students complete freshman- and sophomore-level coursework and then transfer into bachelor's programs from A&M System universities located on the same campus, alongside TEES, TEEX, and a growing set of private research and testing tenants. That mix of academic and industrial activity is why the surrounding land keeps drawing attention.`,
+      },
+      { type: 'h2', text: 'The commute: Highway 47, Highway 21, and the bus' },
+      {
+        type: 'p',
+        text: `RELLIS sits northwest of the main Texas A&M campus, off Highway 47 near its junction with Highway 21. From most of College Station, you are looking at a straightforward run out Villa Maria Road or FM 60 to Highway 47, and it is a very different drive than the stop-and-go you get on Texas Avenue. Traffic patterns here also run counter to the usual Aggieland crush, since you are moving away from campus rather than toward it during peak hours.`,
+      },
+      {
+        type: 'p',
+        text: `Transit is a real option, too, which matters if you are buying a home where someone will commute without a car:`,
+      },
+      { type: 'ul', items: [
+        'Aggie Spirit Bus Route 47 (RELLIS) runs between the main Texas A&M campus and RELLIS',
+        'Aggie Spirit Bus Route 12 (Reveille) connects the Blinn-Bryan Campus on Villa Maria Road to the Texas A&M campus, where riders can transfer to Route 47',
+        'Parking at RELLIS requires a permit purchased through Texas A&M Transportation Services — Blinn parking permits from the Brenham, Bryan, and Schulenburg campuses are not valid there',
+        'Students who co-enroll at both Blinn-Bryan and RELLIS need enough time in their schedule to make the drive between the two on the same day',
+      ] },
+      { type: 'h2', text: 'The Riverside Innovation Corridor: what Bryan is planning along Highway 47' },
+      {
+        type: 'p',
+        text: `The City of Bryan has spent several years putting a planning framework around this corridor. The Riverside Innovation Corridor covers roughly 4,700 acres inside Bryan city limits, running along Highway 47 from RELLIS past the Texas A&M Health Science Center toward Easterwood Airport, with zoning districts designed to accommodate research, retail, and residential development rather than letting it arrive piecemeal. In September 2025, the Bryan City Council annexed more than 160 acres south of West OSR and Fazzino Lane near RELLIS, splitting it between Planned Development-Mixed Use and Innovation Corridor-Retail Services zoning. City planners described the move as proactive: getting development standards, setbacks, noise rules, and screening requirements on the books before specific projects are proposed.`,
+      },
+      {
+        type: 'p',
+        text: `For a buyer, the useful takeaway is not any single project but the direction of travel. Vacant acreage near RELLIS is being zoned for real uses, including higher-density residential, and separate rezoning efforts have contemplated townhomes and apartments on tracts near the campus. Land that is quiet today may not stay that way. If you are buying near an undeveloped parcel, it is worth pulling up Bryan's zoning map and future land use plan rather than assuming the view stays the same.`,
+      },
+      { type: 'h2', text: 'Housing options within reach of RELLIS' },
+      {
+        type: 'p',
+        text: `Because RELLIS has no dormitories, people working and studying there spread across Bryan and College Station. Northwest Bryan and the areas off Villa Maria Road and FM 1179 tend to offer the shortest drive, along with older, more established housing stock at price points generally below newer College Station subdivisions. Downtown Bryan puts you about fifteen minutes out and offers a walkable core with restaurants and the Palace Theater. Newer construction along the western edge of College Station and out toward Wellborn is farther by distance but connects to Highway 47 without crossing the busiest parts of town. Acreage properties north and west of the campus are also common in this part of Brazos County, though they come with their own questions about water, septic, and road frontage.`,
+      },
+      { type: 'h2', text: 'What to check before you buy on this side of town' },
+      {
+        type: 'p',
+        text: `A few items deserve a look that would not necessarily come up elsewhere in the Brazos Valley. Confirm whether a property sits inside Bryan city limits or in the extraterritorial jurisdiction, since that affects services and which rules apply. Bryan set its fiscal year 2026 property tax rate at $0.624 per $100 of valuation, unchanged from the prior year, though the city noted the same rate was expected to generate roughly 6% more revenue on higher property values — a reminder that a flat rate does not mean a flat bill. Check the zoning on adjacent tracts. And if a commute by bus matters to your household, verify the current Aggie Spirit route and schedule directly, since routes are adjusted from time to time.`,
+      },
+      {
+        type: 'p',
+        text: `The RELLIS corridor is one of the more genuinely changing parts of the Brazos Valley right now, and that cuts both ways: more amenities and infrastructure over time, but also more uncertainty about what a given piece of open land becomes. If you are relocating for a role at RELLIS or thinking about buying on this side of Bryan and want help reading the zoning, the commute, and what is actually under contract nearby, reach out anytime — happy to walk through it with you.`,
+      },
+    ],
+    sources: [
+      { label: 'Blinn College District — RELLIS Campus FAQ', url: 'https://www.blinn.edu/rellis/rellis-campus-faq.html' },
+      { label: 'KBTX — Bryan annexes land near RELLIS campus with potential for retail, data center use (Sept. 2025)', url: 'https://www.kbtx.com/2025/09/17/bryan-annexes-land-near-rellis-campus-with-potential-retail-data-center-use/' },
+      { label: 'KBTX — City of Bryan looking to add retail, residential along Highway 47, Highway 21', url: 'https://www.kbtx.com/2022/10/13/city-bryan-looking-add-retail-residential-businesses-along-highway-47-highway-21/' },
+      { label: 'Texas A&M RELLIS Technology & Innovation Campus', url: 'https://rellis.tamus.edu/' },
+    ],
+  },
+  {
     slug: 'expansive-clay-soil-foundation-tips-bryan-college-station-buyers',
     title: 'What Bryan-College Station Homebuyers Should Know About Expansive Clay Soil and Foundations',
     category: 'Buyer Tips',
