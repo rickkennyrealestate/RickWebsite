@@ -9,6 +9,7 @@ import Contact from './pages/Contact'
 import HomeValue from './pages/HomeValue'
 import BuyersGuide from './pages/BuyersGuide'
 import MortgageCalculator from './pages/MortgageCalculator'
+import PrivacyPolicy from './pages/PrivacyPolicy'
 import NotFound from './pages/NotFound'
 
 function App() {
@@ -25,6 +26,7 @@ function App() {
           <Route path="/home-value" element={<HomeValue />} />
           <Route path="/buyers-guide" element={<BuyersGuide />} />
           <Route path="/mortgage-calculator" element={<MortgageCalculator />} />
+          <Route path="/privacy-policy" element={<PrivacyPolicy />} />
           <Route path="*" element={<NotFound />} />
         </Route>
       </Routes>

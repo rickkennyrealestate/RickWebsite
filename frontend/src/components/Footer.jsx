@@ -127,6 +127,12 @@ function Footer() {
               >
                 TREC Consumer Protection Notice
               </a>
+              <Link
+                to="/privacy-policy"
+                className="transition-colors duration-200 hover:text-primary-foreground hover:underline"
+              >
+                Privacy Policy
+              </Link>
             </div>
           </div>
           <p className="mt-4 text-xs text-background/40">
