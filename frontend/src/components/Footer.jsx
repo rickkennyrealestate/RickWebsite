@@ -17,6 +17,8 @@ const quickLinks = [
   { label: 'Free Home Valuation', to: '/home-value' },
   { label: 'Free Buyers Guide', to: '/buyers-guide' },
   { label: 'Mortgage Calculator', to: '/mortgage-calculator' },
+  { label: 'Information About Brokerage Services', to: '/brokerage-services' },
+  { label: 'Privacy Policy', to: '/privacy-policy' },
 ]
 
 const socials = [

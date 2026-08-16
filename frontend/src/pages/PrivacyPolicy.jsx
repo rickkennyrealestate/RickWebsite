@@ -8,7 +8,7 @@ const sections = [
     body: [
       {
         label: 'Information you provide:',
-        p: `When you submit our contact form, request a free home valuation, or download our buyers guide, we collect the information you enter — typically your name, email address, phone number, and any property details or message you include.`,
+        p: `When you submit our contact form, request a free home valuation, or download our buyers guide, we collect the information you enter — typically your name, email address, phone number, and any property details or message you include. You may also submit this information through a lead form we run on Facebook or Instagram. When you do, Meta collects and transmits your responses to us according to Meta's own privacy policy, and we then handle that information as described here.`,
       },
       {
         label: 'Information collected automatically:',
@@ -61,7 +61,7 @@ const sections = [
     title: 'Third-Party Services and Links',
     body: [
       {
-        p: `This site relies on third-party services and may link to third-party websites, each governed by its own privacy policy. These include our form-delivery provider (Web3Forms), our website host and security provider (Cloudflare), the embedded MLS home-search tool provided through our multiple listing service, and links to sites such as Zillow and our social media profiles. We are not responsible for the privacy practices of these third parties.`,
+        p: `We rely on third-party services and may link to third-party websites, each governed by its own privacy policy. These include our form-delivery provider (Web3Forms); Meta Platforms (Facebook and Instagram), where we run advertising and lead forms; our website host and security provider (Cloudflare); the embedded MLS home-search tool provided through our multiple listing service; and links to sites such as Zillow and our social media profiles. We are not responsible for the privacy practices of these third parties.`,
       },
     ],
   },
@@ -128,8 +128,9 @@ function PrivacyPolicy() {
           <p className="mt-6 text-base leading-relaxed text-muted-foreground">
             This Privacy Policy explains how Rick Kenny, a licensed Texas REALTOR&reg; with Aggieland
             Realtors (&ldquo;we,&rdquo; &ldquo;us,&rdquo; or &ldquo;our&rdquo;), collects, uses, and
-            protects your information when you visit rickkenny.com or contact us through this website.
-            By using this site or submitting a form, you agree to the practices described below.
+            protects your information when you visit rickkenny.com, contact us through this website,
+            or submit one of our lead forms on Facebook or Instagram. By using this site or submitting
+            a form, you agree to the practices described below.
           </p>
 
           <div className="mt-10 space-y-10">
