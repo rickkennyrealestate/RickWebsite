@@ -111,14 +111,12 @@ function Footer() {
               <span className="text-background/30">&middot;</span> Aggieland Realtors
             </p>
             <div className="flex flex-wrap gap-x-6 gap-y-2">
-              <a
-                href="/iabs.pdf"
-                target="_blank"
-                rel="noopener noreferrer"
+              <Link
+                to="/brokerage-services"
                 className="transition-colors duration-200 hover:text-primary-foreground hover:underline"
               >
                 Information About Brokerage Services
-              </a>
+              </Link>
               <a
                 href="https://www.trec.texas.gov/forms/consumer-protection-notice"
                 target="_blank"

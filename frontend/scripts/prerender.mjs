@@ -101,7 +101,8 @@ async function main() {
     { p: '/buyers-guide', file: 'buyers-guide.html', priority: '0.7', title: 'Free Brazos Valley Buyers Guide | Rick Kenny', desc: 'Download a free, step-by-step guide to buying a home in College Station, Bryan, and Aggieland.' },
     { p: '/mortgage-calculator', file: 'mortgage-calculator.html', priority: '0.6', title: 'Mortgage Calculator | Bryan-College Station Homes', desc: 'Estimate your monthly mortgage payment for a Bryan-College Station home, including principal, interest, Texas property taxes, and insurance.' },
     { p: '/contact', file: 'contact.html', priority: '0.7', title: 'Contact Rick Kenny | Bryan-College Station REALTOR®', desc: 'Get in touch with Rick Kenny, REALTOR with Aggieland Realtors. Call or text 281-608-1151 for buying, selling, or a free home valuation.' },
-    { p: '/privacy-policy', file: 'privacy-policy.html', priority: '0.3', title: 'Information About Brokerage Services | Rick Kenny', desc: 'Texas Real Estate Commission Information About Brokerage Services (IABS) disclosure for Rick Kenny with Aggieland Realtors, serving College Station and Bryan, TX.' },
+    { p: '/privacy-policy', file: 'privacy-policy.html', priority: '0.3', title: 'Privacy Policy | Rick Kenny', desc: 'How Rick Kenny with Aggieland Realtors collects, uses, and protects your information on rickkenny.com, including form data, text-message consent, and your privacy choices.' },
+    { p: '/brokerage-services', file: 'brokerage-services.html', priority: '0.3', title: 'Information About Brokerage Services | Rick Kenny', desc: 'Texas Real Estate Commission Information About Brokerage Services (IABS) disclosure for Rick Kenny with Aggieland Realtors, serving College Station and Bryan, TX.' },
   ]
 
   let written = 0
