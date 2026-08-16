@@ -1,5 +1,82 @@
 export const blogPosts = [
   {
+    slug: 'neighborhood-spotlight-downtown-bryan-historic-district',
+    title: 'Neighborhood Spotlight: Historic Downtown Bryan, TX',
+    category: 'Neighborhood Spotlight',
+    date: 'August 15, 2026',
+    readTime: '7 min read',
+    excerpt:
+      'Downtown Bryan joined the National Register of Historic Places in February 2026. Here is a factual look at the district, the housing around it, and what buyers should check before making an offer.',
+    metaDescription:
+      'A neighborhood guide to Historic Downtown Bryan, TX: the National Register district, loft and bungalow housing, walkable Main Street, prices, and buyer checks.',
+    image: '/assets/images/blog-covers/neighborhood-spotlight-downtown-bryan-historic-district.jpg',
+    content: [
+      {
+        type: 'p',
+        text: `Historic Downtown Bryan is the closest thing the Brazos Valley has to a true walkable urban core, and it has been quietly changing for two decades. In February 2026 that work got formal recognition: Downtown Bryan was listed in the National Register of Historic Places. If you are considering buying a home, a loft, or a commercial building in or near the district, here is a grounded look at what is actually there, what the designation does and does not mean, and what deserves a second look before you write an offer.`,
+      },
+      { type: 'h2', text: 'What the National Register listing means for Downtown Bryan' },
+      {
+        type: 'p',
+        text: `The National Register is the official list of historically significant places maintained by the National Park Service. The Downtown Bryan district covers 104 properties, including the Carnegie History Center, the LaSalle Hotel, and the Queen Theatre. The City of Bryan started the process in March 2023 with a Certified Local Government grant from the Texas Historical Commission, then surveyed properties and documented architecture before submitting the application.`,
+      },
+      {
+        type: 'p',
+        text: `The practical effects are worth understanding clearly, because owners often assume a historic listing brings new restrictions. According to the city, National Register listing carries no additional oversight of what a private owner does with their own building using their own money. What it can do is open the door to federal rehabilitation tax credits for qualifying income-producing historic properties. Local historic landmark designation is a separate program with its own rules, so if a specific property matters to you, confirm which designations apply to that address rather than assuming.`,
+      },
+      { type: 'h2', text: 'The housing: bungalows on the east side, lofts on Main' },
+      {
+        type: 'p',
+        text: `The commercial district itself is mostly low-rise mixed-use buildings, so most people who say they want to live downtown are really buying in the surrounding blocks. The East Side Historic District, just east of the commercial core, is the largest concentration of older single-family housing — early- and mid-century bungalows and cottages on smaller lots with mature trees, sidewalks, and alleys. Stock varies enormously here: some homes have been fully restored, others have never been touched, and two houses on the same block can be in completely different condition.`,
+      },
+      {
+        type: 'p',
+        text: `Above the storefronts, Main Street has genuine loft inventory, which is rare in this market. Jordan's Lofts on Main Street is one of the better-known examples, with open-plan loft units in a converted historic building. Loft living downtown skews rental rather than for-sale, so if ownership is the goal, the surrounding residential blocks are usually the realistic path.`,
+      },
+      { type: 'h2', text: 'What is within walking distance' },
+      {
+        type: 'p',
+        text: `The reason people pay attention to this part of Bryan is the density of independent businesses. Within a few blocks of Main Street you will find:`,
+      },
+      { type: 'ul', items: [
+        'The Queen Theatre, a restored 1939 movie house with dine-in service, and the open-air Palace Theater, which hosts free live concerts on First Friday each month',
+        'First Friday itself — a monthly street event with live music, vendors, and extended shop hours',
+        'Restaurants and bars including Murphy’s Law Pub & Brauhaus on South Main, Revolution Cafe & Bar on North Main, 3rd on Main, Proudest Monkey, and The Owl Pub & Grill',
+        'Sunbeam Bagels at 315 S. Main Street, one of the more recent additions to the block',
+        'The Carnegie History Center, a 1903 Carnegie library building now used for local and genealogical research',
+        'Locally owned retail — vintage resale, art galleries, custom hat makers, and home goods rather than national chains',
+      ] },
+      {
+        type: 'p',
+        text: `Downtown Bryan is also designated a Texas Cultural District, and the City of Bryan carries Film Friendly Texas and Music Friendly Texas designations, which is part of why events land here. Travis Bryan Midtown Park sits a few minutes south, and Schulman's Movie Bowl Grille is slated to open in Midtown in 2026, adding more to the corridor between downtown and Texas Avenue.`,
+      },
+      { type: 'h2', text: 'Prices and commute' },
+      {
+        type: 'p',
+        text: `Pricing near downtown has moved. Neighborhood-level data for the East Side Historic District put the median sale price around $425,000 to $442,500 over recent 12-month windows, with reported year-over-year increases in the mid-teens to high-30s percent range. Treat those numbers with real caution: this is a small neighborhood, a handful of restored high-end sales can swing a median dramatically, and neighborhood medians from listing portals are not the same as MLS market reports. Past movement does not predict future movement. Ask for actual comparable sales on the specific block you are considering.`,
+      },
+      {
+        type: 'p',
+        text: `On commute, downtown Bryan to the main Texas A&M campus is roughly a 15-minute drive down Texas Avenue or College Avenue outside of peak times, and the RELLIS Campus is a similar distance out Villa Maria Road toward Highway 47. That central position between Bryan employment, A&M, and the Highway 47 corridor is a large part of the district's appeal.`,
+      },
+      { type: 'h2', text: 'What to check before you buy near Historic Downtown Bryan' },
+      {
+        type: 'p',
+        text: `Older housing rewards thorough due diligence. Ask your inspector to look specifically at pier-and-beam foundation condition, since much of this housing stock predates slab construction and the area's expansive clay soils move seasonally. Verify the electrical service and whether knob-and-tube or ungrounded wiring remains anywhere in the house, and check for cast iron or galvanized supply and drain lines. Confirm whether the property carries a local historic landmark designation, which can affect exterior alterations, and check the City of Bryan floodplain and zoning maps, since parcels this close to the commercial core can abut mixed-use zoning. Insurance quotes on older homes are also worth pulling early rather than at closing.`,
+      },
+      {
+        type: 'p',
+        text: `Historic Downtown Bryan is a genuinely distinctive part of the Brazos Valley, and the housing around it does not behave like a newer subdivision — condition, permits, and block-by-block differences matter far more than square footage. If you are weighing a purchase near downtown Bryan and want help reading the comps, the designations, and what an inspection is likely to turn up, reach out anytime and we can walk through it together.`,
+      },
+    ],
+    sources: [
+      { label: 'City of Bryan — Historic Downtown Bryan Earns National Designation (Feb. 2026)', url: 'https://www.bryantx.gov/news/posts/historic-downtown-bryan-earns-national-designation/' },
+      { label: 'KBTX — Downtown Bryan added to the National Register of Historic Places', url: 'https://www.kbtx.com/2026/02/26/downtown-bryan-added-national-register-historic-places/' },
+      { label: 'Destination Bryan — Historic Downtown Bryan', url: 'https://www.destinationbryan.com/things-to-do/downtown-bryan/' },
+      { label: 'Redfin — East Side Historic District, Bryan TX housing market', url: 'https://www.redfin.com/neighborhood/662690/TX/Bryan/East-Side-Historic-District/housing-market' },
+    ],
+  },
+  {
     slug: 'living-near-rellis-campus-bryan-tx-highway-47-guide',
     title: 'Living Near the RELLIS Campus in Bryan, TX: A Guide to the Highway 47 Corridor',
     category: 'Aggieland Life',
