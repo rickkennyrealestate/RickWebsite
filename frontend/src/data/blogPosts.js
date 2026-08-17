@@ -1,5 +1,113 @@
 export const blogPosts = [
   {
+    slug: 'brazos-county-property-taxes-homestead-exemption-bryan-college-station',
+    title: 'Brazos County Property Taxes: A Bryan-College Station Buyer’s Guide to the Homestead Exemption',
+    category: 'Buyer Tips',
+    date: 'August 16, 2026',
+    readTime: '8 min read',
+    excerpt:
+      'Texas raised the school-district homestead exemption to $140,000, and Brazos County values rose again in 2026. Here is how property taxes actually work in Bryan-College Station, and how to estimate your real monthly payment.',
+    metaDescription:
+      'How Brazos County property taxes work for Bryan-College Station buyers: the $140,000 homestead exemption, the 10% cap, escrow shock, and the May 15 protest deadline.',
+    image: '/assets/images/blog-covers/brazos-county-property-taxes-homestead-exemption-bryan-college-station.jpg',
+    content: [
+      {
+        type: 'p',
+        text: `Property taxes are the line item that surprises more Bryan-College Station buyers than any other. Texas has no state income tax, which is part of what draws people to the Brazos Valley, and the trade-off shows up on the annual tax bill. If you are moving here from out of state, or buying your first home in Bryan or College Station, understanding how Brazos County assesses and taxes your home is the difference between a payment you planned for and a payment that blindsides you in month thirteen. Here is how the system actually works locally, and what to do about it.`,
+      },
+      { type: 'h2', text: 'Who sets your value, and who sets your rate' },
+      {
+        type: 'p',
+        text: `These are two different jobs done by two different offices, and confusing them is the most common mistake I see. The Brazos Central Appraisal District, at 4051 Pendleton Drive in Bryan, determines what your property is worth for tax purposes. It does not set tax rates and does not collect a dollar. Separately, each taxing entity that covers your address adopts its own rate each fall.`,
+      },
+      {
+        type: 'p',
+        text: `Depending on exactly where you buy, your bill may include some combination of:`,
+      },
+      { type: 'ul', items: [
+        'Brazos County and the Brazos County Road & Bridge fund',
+        'Your school district — College Station ISD, Bryan ISD, or Navasota ISD depending on the address',
+        'Your city — City of College Station, City of Bryan, or an unincorporated area with no city rate',
+        'Blinn College District',
+        'Any special district layered on the parcel, such as a MUD or a PID in newer subdivisions',
+      ] },
+      {
+        type: 'p',
+        text: `Two houses at the same price a few miles apart can carry noticeably different total rates because the entity mix is different. A home just outside College Station city limits skips the city rate; a home in a newer development with a MUD picks up an extra one. Current adopted rates for every Brazos County entity are published on the appraisal district website, and they are worth pulling for the specific address before you write an offer rather than after.`,
+      },
+      { type: 'h2', text: 'The $140,000 homestead exemption changed the math' },
+      {
+        type: 'p',
+        text: `In November 2025, Texas voters approved Proposition 13, raising the school-district homestead exemption from $100,000 to $140,000, applied retroactively to the 2025 tax year. Because school taxes are typically the largest slice of a Brazos Valley tax bill, this is a meaningful change. The mechanism is simple: $140,000 comes off your appraised value before your school district rate is applied. On a $360,000 College Station home, that means school taxes are calculated on roughly $220,000 instead of the full value.`,
+      },
+      {
+        type: 'p',
+        text: `A companion measure, Proposition 11, added a further $60,000 school exemption for homeowners who qualify as over-65 or disabled, so those homeowners may exclude up to $200,000 of value from school taxes. Reporting at the time estimated the Prop 13 increase saves a typical homeowner in the range of $400 to $450 a year on top of prior savings, though the actual figure depends entirely on your district's rate. Treat those as estimates, not promises, and run your own numbers with your specific rates.`,
+      },
+      {
+        type: 'p',
+        text: `The exemption is not automatic on a purchase. You have to apply, and the appraisal district conducted a homestead audit in 2025 that resulted in a large volume of homestead removals and reapplications, so even long-time owners should verify their exemption is actually in place. File the homestead application through the Brazos CAD taxpayer portal after you close and after the deed records. There is no fee, and any service charging you to file one is selling you something you can do yourself in about ten minutes.`,
+      },
+      { type: 'h2', text: 'Escrow shock: why your payment can jump in year two' },
+      {
+        type: 'p',
+        text: `This is the single most useful thing to understand before buying in Bryan-College Station. When a home sells, the taxes for that year were often calculated on the previous owner's situation — sometimes with a homestead exemption you do not yet have, sometimes on a value set before a renovation or before new construction was complete. Your lender sets up your escrow account based on that number.`,
+      },
+      {
+        type: 'p',
+        text: `New construction is the sharpest version. If the appraisal district valued the lot on January 1 while the house was still a slab, the first year's taxes are close to land-only. The following January the finished house is on the roll, the assessed value multiplies, and the escrow shortage plus the higher monthly amount can move a payment by hundreds of dollars. Nothing went wrong — the number simply caught up to reality.`,
+      },
+      {
+        type: 'p',
+        text: `The fix is arithmetic done early. Take the purchase price, subtract $140,000 for the school portion if you will qualify for homestead, apply the actual adopted rates for that address, and budget to that figure from day one instead of to the seller's current bill. Ask your lender to escrow on the forward-looking estimate. Builders and listing agents are not always the ones who volunteer this, so ask directly.`,
+      },
+      { type: 'h2', text: 'The 10% cap, and the year it does not protect you' },
+      {
+        type: 'p',
+        text: `Once a homestead exemption is in place, Texas limits how fast your taxable value can rise: no more than 10% per year plus the value of new improvements, regardless of how much the market value climbs. That cap is why a neighbor who has owned since 2015 may pay dramatically less than you will on an identical house.`,
+      },
+      {
+        type: 'p',
+        text: `The important catch for buyers is that the cap resets. The seller's capped value does not transfer to you, and the assessed value typically jumps to full market value the January after you purchase. So the low tax figure printed on the listing sheet is frequently the seller's capped number, not yours. Verify on the appraisal district's property search whether the figure you are looking at is market value or capped assessed value.`,
+      },
+      { type: 'h2', text: 'Protesting your value in Brazos County' },
+      {
+        type: 'p',
+        text: `Brazos CAD mails Notices of Appraised Value starting in mid-April, with additional mailings through mid-May. The protest deadline is May 15 or 30 days from the date your notice was mailed, whichever is later — and that date is printed on your notice. Deadlines are per property, and they are not extended because your notices arrived at different times. Values across Brazos County rose roughly 7 to 8 percent overall in the 2026 cycle, so most owners had something to review.`,
+      },
+      {
+        type: 'p',
+        text: `Practical notes for a local protest: informal meetings run first-come, first-served starting in late April, and most disagreements resolve there rather than at a formal Appraisal Review Board hearing. E-filing goes through the Brazos CAD taxpayer portal, and a communication submitted through that portal counts as an informal meeting. The strongest evidence is almost always comparable sales of similar homes near yours from the prior year, plus documentation of condition issues — foundation movement, roof age, deferred repairs — with contractor bids attached. Photos of an actual problem beat a general argument that the number feels high.`,
+      },
+      {
+        type: 'p',
+        text: `If you bought recently and paid less than the district's value, your closing disclosure is itself strong evidence. Texas is a non-disclosure state, so the appraisal district does not automatically know your sale price. Sharing it is a strategic decision and cuts both ways — worth thinking through before you hand it over.`,
+      },
+      { type: 'h2', text: 'A short checklist before you close in Bryan-College Station' },
+      {
+        type: 'ul',
+        items: [
+          'Look the address up on the Brazos CAD property search and note market value versus capped assessed value',
+          'Confirm exactly which entities tax the parcel, including any MUD or PID, and pull their current adopted rates',
+          'Re-estimate the payment using full market value with the $140,000 school exemption applied, not the seller’s bill',
+          'Ask your lender to escrow to that forward estimate, especially on new construction',
+          'File the homestead application through the taxpayer portal after closing, then verify the following spring that it posted',
+          'Calendar the notice-of-value window in April and the May 15 protest deadline every year you own the home',
+        ],
+      },
+      {
+        type: 'p',
+        text: `None of this is complicated, but it does have to be done in the right order and with the right numbers for the specific address. If you are weighing homes in Bryan or College Station and want help pulling the actual tax picture on a property before you commit — or you just want a second set of eyes on whether a builder's payment estimate is realistic — reach out anytime and we can walk through it together.`,
+      },
+    ],
+    sources: [
+      { label: 'Brazos CAD — Notice of Appraised Value / Protest Deadline May 15th (April 2026)', url: 'https://brazoscad.org/notice-of-appraised-value-to-hit-mail-soon-protest-deadline-may-15th/' },
+      { label: 'KBTX — Property tax protest deadline is Friday (May 2026)', url: 'https://www.kbtx.com/2026/05/13/property-tax-protest-deadline-is-friday/' },
+      { label: 'Ballotpedia — Texas Proposition 13, Increase Homestead Property Tax Exemption Amendment (2025)', url: 'https://ballotpedia.org/Texas_Proposition_13,_Increase_Homestead_Property_Tax_Exemption_Amendment_(2025)' },
+      { label: 'Brazos CAD — Adopted Tax Rates', url: 'https://brazoscad.org/tax-information/adopted-tax-rates/' },
+    ],
+  },
+  {
     slug: 'neighborhood-spotlight-downtown-bryan-historic-district',
     title: 'Neighborhood Spotlight: Historic Downtown Bryan, TX',
     category: 'Neighborhood Spotlight',
