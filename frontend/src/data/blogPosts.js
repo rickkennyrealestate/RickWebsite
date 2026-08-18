@@ -1,5 +1,92 @@
 export const blogPosts = [
   {
+    slug: 'getting-around-bryan-college-station-commute-guide-highway-6-construction',
+    title: 'Getting Around Bryan-College Station: A Commute Guide to Highway 6, Wellborn Road, and the Big 6 Construction',
+    category: 'Local Guide',
+    date: 'August 18, 2026',
+    readTime: '7 min read',
+    excerpt:
+      'A $671 million Highway 6 expansion is reshaping how people move through Brazos County. Here is how the Bryan-College Station road grid actually works, which corridors are under construction, and how to test a commute before you buy.',
+    metaDescription:
+      'How to get around Bryan-College Station: the Highway 6 Big 6 project, Wellborn Road train delays, FM 2818, and how to test-drive a Brazos Valley commute.',
+    image: '/assets/images/blog-covers/getting-around-bryan-college-station-commute-guide-highway-6-construction.jpg',
+    content: [
+      {
+        type: 'p',
+        text: `If you are house hunting in Bryan-College Station, the map matters more than almost anywhere else its size. This is a metro of roughly a quarter million people spread across two cities, a 5,200-acre university campus, and a growing ring of subdivisions — and nearly all of it funnels onto a handful of corridors. Add an eleven-mile highway expansion currently tearing up the middle of town and a Union Pacific rail line that cuts straight through the busiest intersection near campus, and your commute becomes something worth actually measuring rather than guessing at. Here is how the Brazos Valley road grid really works.`,
+      },
+      { type: 'h2', text: 'The six roads that define Bryan-College Station' },
+      {
+        type: 'p',
+        text: `Almost every local trip uses at least one of these. Learn them and the whole area makes sense:`,
+      },
+      {
+        type: 'ul',
+        items: [
+          'State Highway 6 (Earl Rudder Freeway) — the north-south spine, running from Bryan down past William D. Fitch Parkway. It is the fast route, and it is the one under construction.',
+          'Texas Avenue (Business 6) — the older parallel route through the heart of both cities. Slower, signalized, and lined with most of the retail you will use.',
+          'Wellborn Road (FM 2154) — the western north-south corridor along the Union Pacific tracks, feeding campus and continuing toward Wellborn and Navasota.',
+          'University Drive / FM 60 (Raymond Stotzer Parkway) — the main east-west route across the north side, connecting Highway 6 to campus and out toward Snook.',
+          'Harvey Mitchell Parkway (FM 2818) — the western arc that lets you skip the campus core entirely.',
+          'William D. Fitch Parkway (SH 40) — the southern east-west connector serving Pebble Creek, Castlegate, and the newer south College Station growth.',
+        ],
+      },
+      {
+        type: 'p',
+        text: `The practical takeaway: Highway 6 and Texas Avenue run parallel, and Wellborn and Harvey Mitchell give you a western bypass. When one is jammed, there is almost always an alternate — but only if you know it exists before you are sitting in it.`,
+      },
+      { type: 'h2', text: 'The Big 6: what $671 million of Highway 6 construction means for your commute' },
+      {
+        type: 'p',
+        text: `TxDOT broke ground on December 1, 2025, on the largest road project in Brazos Valley history. Known locally as the Big 6, it awarded a $671 million contract to Fluor Heavy Civil to rebuild 11.5 miles of State Highway 6, from SH 21 in Bryan south to William D. Fitch Parkway in College Station. Main lanes expand from four to six, auxiliary lanes get reconfigured, and collector-distributor lanes are added at key interchanges to smooth merging.`,
+      },
+      {
+        type: 'p',
+        text: `The timeline is the part buyers should internalize. TxDOT has said 2026 focuses on main-lane widening and drainage, with widening continuing through at least 2027 and an eye on 2028 for that phase. A second phase covering corridor intersections runs from late 2026 into 2030. In other words, if you buy a home this year with a commute that crosses Highway 6, you are buying into several years of shifting lane closures, rebuilt bridges, and detours before you get the improved road.`,
+      },
+      {
+        type: 'p',
+        text: `That is not a reason to avoid anything — it is a reason to check TxDOT weekly lane-closure notices for the specific stretch you would drive, and to give yourself a realistic buffer. Local outlets publish week-by-week closure roundups, which are worth bookmarking if your daily drive touches the corridor.`,
+      },
+      { type: 'h2', text: 'Wellborn Road, the trains, and the Bush-Wellborn Crossing' },
+      {
+        type: 'p',
+        text: `The intersection of Wellborn Road (FM 2154) and George Bush Drive (FM 2347) is the one local traffic story that surprises newcomers most. A Union Pacific line runs alongside Wellborn and crosses George Bush at grade, and TxDOT notes that more than 20 trains a day pass through, stopping traffic each time. Stack that on top of Texas A&M class-change surges, and queues build for several hours on a typical weekday. The intersection has not been substantially improved in over 20 years.`,
+      },
+      {
+        type: 'p',
+        text: `A grade-separation project — the Bush-Wellborn Crossing, or BWX — is in planning to separate vehicle, pedestrian, and train traffic at that point, with construction currently planned to begin in 2027. It should meaningfully change the west-campus commute when it is done, but it is a future benefit, not a current one. If you are looking at homes west of the tracks and working east of them, drive it at 7:45 a.m. and again at a class change before you decide.`,
+      },
+      { type: 'h2', text: 'One corridor that already got better' },
+      {
+        type: 'p',
+        text: `Harvey Mitchell Parkway (FM 2818) is worth calling out as the counterexample. TxDOT rebuilt a 3.2-mile stretch from FM 60 to Wellborn Road into a six-lane "super street" with medians, a turn lane, and shared-use paths on both sides, wrapping up in 2025. It is now one of the better ways to move around the western side of College Station without touching campus traffic or Highway 6 — a useful route to know if you are comparing addresses on opposite sides of town.`,
+      },
+      { type: 'h2', text: 'How to test-drive a commute before you write an offer' },
+      {
+        type: 'ul',
+        items: [
+          'Drive the actual route at the actual time — 7:30 to 8:30 a.m. and 4:30 to 5:30 p.m. on a weekday, not on a Sunday afternoon when the roads are empty.',
+          'Drive it a second time on a home football Saturday if you live anywhere near Kyle Field, because game days rewrite traffic patterns entirely.',
+          'Check whether your route crosses the Union Pacific line at grade, and budget for a train.',
+          'Look up current lane closures on the Highway 6 corridor for the segment you would use.',
+          'Note your fallback route. If Highway 6 is your primary, know whether Texas Avenue or Harvey Mitchell is the better plan B from that address.',
+          'If you commute to campus, factor parking and the last half mile, which is often longer than the drive itself.',
+        ],
+      },
+      {
+        type: 'p',
+        text: `Commute is one of the few things about a house you cannot renovate later, and in Bryan-College Station it varies a lot more by address than the mileage suggests. If you are weighing neighborhoods and want a straight answer about what a given drive actually looks like on a Tuesday morning — or which routes are about to get worse before they get better — reach out and we can map it out together.`,
+      },
+    ],
+    sources: [
+      { label: 'TxDOT — SH 6 Central BCS Expansion (The Big 6)', url: 'https://www.txdot.gov/thebig6.html' },
+      { label: 'Community Impact — Bryan-College Station "looking to the future" with $671M Hwy. 6 project', url: 'https://communityimpact.com/houston/bryan-college-station/transportation/2026/02/13/bryan-college-station-looking-to-the-future-with-671m-hwy-6-project/' },
+      { label: 'TxDOT — FM 2347 George Bush Drive Interchange (Bush-Wellborn Crossing)', url: 'https://www.txdot.gov/projects/projects-studies/bryan/fm2347-interchange.html' },
+      { label: 'TxDOT — FM 2818 (Harvey Mitchell Parkway) Widening', url: 'https://www.txdot.gov/content/txdotreimagine/us/en/home/projects/projects-studies/bryan/fm2818-harvey-mitchell-parkway.html' },
+    ],
+  },
+  {
     slug: 'brazos-county-property-taxes-homestead-exemption-bryan-college-station',
     title: 'Brazos County Property Taxes: A Bryan-College Station Buyer’s Guide to the Homestead Exemption',
     category: 'Buyer Tips',
