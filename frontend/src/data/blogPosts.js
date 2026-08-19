@@ -1,5 +1,99 @@
 export const blogPosts = [
   {
+    slug: 'neighborhood-spotlight-midtown-college-station',
+    title: 'Neighborhood Spotlight: Midtown in College Station, TX',
+    category: 'Neighborhood Spotlight',
+    date: 'August 18, 2026',
+    readTime: '7 min read',
+    excerpt:
+      'Midtown is the largest master-planned district in south College Station, with 550-plus homes built, a $20.9 million city park breaking ground, and a proposed nine-field ballpark complex. Here is what buyers should actually know about it.',
+    metaDescription:
+      'A buyer guide to Midtown in College Station, TX: location, Midtown Reserve home prices, Texas Independence Park, the proposed ballpark, and the special tax district.',
+    image: '/assets/images/blog-covers/neighborhood-spotlight-midtown-college-station.jpg',
+    content: [
+      {
+        type: 'p',
+        text: `Most College Station neighborhoods can be summed up in a sentence or two. Midtown cannot — and that is exactly why buyers keep asking about it. This is the largest master-planned district in south College Station, a mixed-use area that has already produced hundreds of homes and is now the site of a $20.9 million city park and a proposed nine-field baseball and softball complex. It is also the one part of town where the property tax line items look different from everywhere else in Brazos County. If you are considering a home here, the details matter more than the marketing.`,
+      },
+      { type: 'h2', text: 'Where Midtown actually is' },
+      {
+        type: 'p',
+        text: `Midtown sits in south College Station, generally between Rock Prairie Road and William D. Fitch Parkway on the east side of State Highway 6, organized around Midtown Drive and Lakeway Drive. Its most useful landmark is Baylor Scott & White Medical Center on Rock Prairie Road, which anchors the district's northern edge along with a cluster of medical offices. From most Midtown addresses you are a few minutes from a Highway 6 on-ramp, which puts campus roughly fifteen to twenty minutes north outside of peak times.`,
+      },
+      {
+        type: 'p',
+        text: `The area was originally planned as a corporate business park. That vision changed. Developer James Murr, a Texas A&M graduate who has worked on the district for more than a decade, told Community Impact that the goal now is to give the city something it has historically lacked: "Our city needs an area that has city identity, not Texas A&M identity." Whether Midtown gets there is still an open question, but the direction is clear — housing, parks, and commercial space rather than office campuses.`,
+      },
+      { type: 'h2', text: 'The housing: Midtown Reserve and what it costs' },
+      {
+        type: 'p',
+        text: `The residential core is Midtown Reserve, a new-construction community where D.R. Horton is the dominant builder, with townhome product from Stylecraft nearby. Community Impact reported in May 2026 that more than 550 homes had already been built across the district, with hundreds more planned.`,
+      },
+      {
+        type: 'ul',
+        items: [
+          'Typical product: 3 to 4 bedrooms, 2 to 3 baths, roughly 1,300 to 2,400 square feet, two-car garages, farmhouse-style exteriors.',
+          'Builder list prices in Midtown Reserve have recently started in the high $270,000s to low $290,000s, with many plans landing in the $270K–$350K range. Prices and inventory change constantly — treat these as a starting point, not a quote.',
+          'Amenities within the community include a recreational lake, walking trails, and greenspace.',
+          'A trailhead and parking lot on Midtown Drive connect to the Lick Creek Greenway Trail, with underpasses at Midtown Drive and William D. Fitch Parkway so users are not crossing at the roadway.',
+        ],
+      },
+      {
+        type: 'p',
+        text: `That price band is worth noting, because it sits below much of what you will find in established south College Station neighborhoods like Pebble Creek or Castlegate. New construction at a lower entry point is the trade Midtown offers. The trade in the other direction is that you are buying into a district that is still being built around you.`,
+      },
+      { type: 'h2', text: 'What is coming: Texas Independence Park and the ballpark' },
+      {
+        type: 'p',
+        text: `Two public projects will define Midtown's next decade. The first is Texas Independence Park, a $20.9 million city-owned project approved in August 2024 that will transform more than 120 acres of parkland and greenways. Planned amenities include mountain-bike trails, a pump track, walking paths, two playgrounds, an 18-hole disc golf course, a fishing pond, a dog park, covered pavilions, and restrooms. The project received a $750,000 grant from Texas Parks and Wildlife in January 2025, and the city has said construction is scheduled to begin in late summer 2026.`,
+      },
+      {
+        type: 'p',
+        text: `The second is a proposed 90-acre baseball and softball complex. College Station entered a letter of intent in February 2026 with The Station Hospitality and Athletic Complex for a nine-field development including a championship venue where the Brazos Valley Bombers would play, plus lodging and future event space. City officials have estimated the complex could host roughly 30 tournaments a year, and the city has been considering up to $20 million in investments and incentives tied to it.`,
+      },
+      {
+        type: 'p',
+        text: `Both projects are real and moving, but construction timelines remain uncertain, and Midtown's plans have shifted before — a proposed data center was dropped last year after resident pushback. Buy the neighborhood as it exists today, and treat what is coming as upside rather than something you are paying for in advance.`,
+      },
+      { type: 'h2', text: 'The tax question every Midtown buyer should ask' },
+      {
+        type: 'p',
+        text: `This is the single most important piece of due diligence in Midtown. The district operates under a development model that includes a special taxing district, and it is not the standard arrangement found in most of College Station. One Midtown homeowner told Community Impact she was "shocked to find that our property tax bill actually increased" in a year when values declined, and raised the issue with her elected officials. Council Member Mark Smith responded that "that development model is unique to Midtown and is not under the control of the City."`,
+      },
+      {
+        type: 'p',
+        text: `None of that makes Midtown a bad buy — plenty of Texas growth areas are financed this way, and the amenities have to be paid for somehow. But it does mean your effective tax rate here can differ meaningfully from a comparable home a few miles away, and that difference flows straight into your monthly payment. Before you write an offer on any Midtown address, pull the actual Brazos County tax statement for that specific parcel, read every taxing entity listed on it, ask the builder in writing what the district assessment is and how long it runs, and then run your payment on the real number rather than a rate-of-thumb estimate.`,
+      },
+      { type: 'h2', text: 'Who Midtown tends to fit' },
+      {
+        type: 'p',
+        text: `Practically speaking, Midtown works well for buyers who want new construction under warranty at a south College Station price point, who value being close to the Rock Prairie medical corridor and Highway 6, and who are comfortable living in an area that will be under construction for years. It fits less well for buyers who want mature trees, a settled streetscape, or the simplest possible tax picture. Neither answer is wrong — they are just different priorities, and it is worth knowing which one is yours before you start touring.`,
+      },
+      {
+        type: 'p',
+        text: `If you are weighing Midtown against other parts of College Station, I am happy to walk you through current listings, pull the tax detail on any specific address, and give you a straight read on how the district compares to the alternatives. Reach out any time and we can look at it together.`,
+      },
+    ],
+    sources: [
+      {
+        label: 'Community Impact — College Station\'s Midtown development to bring tourism, recreation and identity to city',
+        url: 'https://communityimpact.com/bryan-college-station/government/a-massive-economic-engine-college-stations-midtown-development-to-bring-tourism-recreation-and-identity-to-city/',
+      },
+      {
+        label: 'City of College Station — Texas Independence Park Update',
+        url: 'https://blog.cstx.gov/wp-content/uploads/2024/08/5-Texas-Independence-Park-Update.pdf',
+      },
+      {
+        label: 'City of College Station — Discover the natural beauty of College Station\'s parks and trails',
+        url: 'https://blog.cstx.gov/2026/06/09/beyond-the-path-discover-the-natural-beauty-of-college-stations-parks-and-trails/',
+      },
+      {
+        label: 'D.R. Horton — Midtown Reserve, College Station, TX',
+        url: 'https://www.drhorton.com/texas/brazos-valley/college-station/midtown-reserve',
+      },
+    ],
+  },
+  {
     slug: 'getting-around-bryan-college-station-commute-guide-highway-6-construction',
     title: 'Getting Around Bryan-College Station: A Commute Guide to Highway 6, Wellborn Road, and the Big 6 Construction',
     category: 'Local Guide',
