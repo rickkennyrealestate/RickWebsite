@@ -1,5 +1,313 @@
 export const blogPosts = [
   {
+    slug: 'texas-option-period-checklist-bryan-college-station-buyers',
+    title: 'Making the Texas Option Period Count in Bryan-College Station: A Local Due Diligence Checklist',
+    category: 'Working With Rick',
+    date: 'August 21, 2026',
+    readTime: '8 min read',
+    excerpt:
+      'The option period is the one stretch of a Texas contract where a buyer can walk away for any reason. Here is how to spend those few days in Bryan-College Station, where clay soil, septic systems, creek drainage, and MUD districts all deserve a look.',
+    metaDescription:
+      'How Bryan-College Station buyers should use the Texas option period: inspections, clay soil, septic, flood and drainage checks, and local due diligence with an agent.',
+    image: null,
+    content: [
+      {
+        type: 'p',
+        text: `Almost every residential contract in Texas includes a termination option, and in Bryan-College Station it is usually somewhere between three and ten days long. During that window a buyer can walk away for any reason at all and get their earnest money back. It is the single most useful stretch of the whole transaction, and it is also the one most often wasted, because buyers treat it as "the inspection period" and stop there.`,
+      },
+      {
+        type: 'p',
+        text: `An inspection is the centerpiece, but the Brazos Valley has a handful of local conditions that a standard inspection report will not fully answer on its own: expansive clay soil across much of the area, septic systems on the acreage rings outside city limits, creek drainage that does not always line up with the federal flood maps, and special taxing districts attached to newer subdivisions. Here is how to spend those days well.`,
+      },
+      { type: 'h2', text: 'First, understand what you actually bought' },
+      {
+        type: 'p',
+        text: `The option fee is what you pay for the right to terminate. It is not refundable, though it is typically credited toward the purchase price at closing. Under the current TREC contract the option fee and earnest money both go to the escrow agent within three days of the effective date, which is a change from the older practice of delivering the option fee straight to the seller.`,
+      },
+      {
+        type: 'p',
+        text: `Two details trip people up. The clock counts calendar days, including weekends and holidays, starting the day after the contract is executed. And termination has to be delivered in writing by 5:00 p.m. local time on the final day. A four-day option period that starts on a Thursday is largely a weekend, so schedule your inspector before you sign, not after.`,
+      },
+      { type: 'h2', text: 'The Bryan-College Station specifics worth paying for' },
+      {
+        type: 'p',
+        text: `A general inspection is the baseline. Depending on the property, these are the add-ons that most often earn their fee around here:`,
+      },
+      {
+        type: 'ul',
+        items: [
+          `Foundation, in writing. Much of Brazos County sits on expansive clay that swells and shrinks with our wet-dry swings. Hairline cracks are common and often cosmetic; differential movement is not. If your inspector flags anything structural, the next call is a licensed professional engineer, not a repair company. Texas does not license or regulate foundation repair contractors, so an engineer's report is your independent read.`,
+          `Septic (OSSF), if you are outside city sewer. Common on acreage toward Wellborn, Millican, Kurten, and the county roads off FM 2154 and Highway 21. Ask for the permit, the installation date, the design capacity in bedrooms, and the most recent inspection or pumping record. Aerobic systems also carry an ongoing maintenance contract that transfers with the house.`,
+          `Water well, where applicable. Flow rate, depth, pump age, and a bacteriological test. Well and septic setback distances matter on smaller tracts.`,
+          `Drainage and grading, separate from flood zone. Plenty of homes here that are not in a mapped high-risk zone still take water because of how a lot slopes or how a neighboring development changed runoff. Walk the property after a rain if you can.`,
+          `HVAC and roof age. Brazos Valley summers are hard on both, and a system in its mid-teens is a real budget line, not a footnote.`,
+        ],
+      },
+      { type: 'h2', text: 'Paperwork the option period is also for' },
+      {
+        type: 'p',
+        text: `Inspections get all the attention, but several document reviews belong in the same window, and they are often where a deal changes shape.`,
+      },
+      {
+        type: 'p',
+        text: `Pull the survey and confirm it is recent enough for the title company; if it is not, a new one takes time to order. Read the seller's disclosure carefully against what the inspector found. Request the HOA documents where there is an association, including the dues, the resale certificate, and any restrictions on rentals, which matters a great deal near campus. If the home sits in a MUD or PID, get the district's tax rate and outstanding debt in front of you, because those add to the Brazos County tax bill and are easy to miss on a builder's estimate. And confirm the flood zone designation and whether flood insurance will be required by your lender, since that quote can move a monthly payment meaningfully.`,
+      },
+      { type: 'h2', text: 'How to use the findings without blowing up the deal' },
+      {
+        type: 'p',
+        text: `A long inspection report is normal. Every house produces one. The productive move is to sort the list into three piles: safety and structural items, deferred maintenance with a real dollar figure attached, and cosmetic things you were going to change anyway. Ask for the first pile. Consider asking for the second, usually as a price adjustment or a closing cost credit rather than seller-performed repairs, which are harder to control for quality. Let the third pile go.`,
+      },
+      {
+        type: 'p',
+        text: `If the seller will not move and the numbers no longer work, terminating during the option period is a clean, contemplated exit. That is precisely what you paid the option fee for. Better to spend a few hundred dollars finding out than to inherit an engineering problem.`,
+      },
+      { type: 'h2', text: 'Where working with a local agent changes the outcome' },
+      {
+        type: 'p',
+        text: `Most of the value here is logistical and local. Knowing which inspectors and engineers in Bryan-College Station can actually get out to a property inside a five-day window during a busy stretch. Knowing that a given subdivision has a PID before you are surprised by the tax estimate. Knowing which streets have a history of standing water regardless of what the map says. Recognizing when a repair request is reasonable in this market and when it will simply lose you the house.`,
+      },
+      {
+        type: 'p',
+        text: `Rick has spent his career in the Brazos Valley and knows the area street by street, along with the Aggie network that runs through so much of it. That local read is most useful in exactly this window, when the decisions are fast and the information is incomplete.`,
+      },
+      {
+        type: 'p',
+        text: `If you are under contract in Bryan or College Station, or getting close, reach out to Rick to talk through what your option period should cover for that specific property. A short conversation before the clock starts is worth more than a long one after it runs out.`,
+      },
+    ],
+    sources: [
+      {
+        label: `Texas Real Estate Research Center — Option Period Basics`,
+        url: `https://trerc.tamu.edu/article/option-period-basics-2360/`,
+      },
+      {
+        label: `Texas Real Estate Commission — Contract Forms`,
+        url: `https://www.trec.texas.gov/forms/contract-forms`,
+      },
+      {
+        label: `Texas Commission on Environmental Quality — On-Site Sewage Facilities (OSSF)`,
+        url: `https://www.tceq.texas.gov/permitting/ossf`,
+      },
+    ],
+  },
+  {
+    slug: 'aggie-spirit-bus-routes-off-campus-living-college-station',
+    title: 'How the Aggie Spirit Bus Routes Shape Off-Campus Living in College Station and Bryan',
+    category: 'Aggieland Life',
+    date: 'August 20, 2026',
+    readTime: '7 min read',
+    excerpt:
+      'A free bus stop within walking distance changes what an off-campus address is worth in College Station. Here is how the Aggie Spirit off-campus routes actually work, and what buyers, renters, and landlords should check before committing.',
+    metaDescription:
+      'A practical guide to Aggie Spirit bus routes and off-campus living in College Station and Bryan: service hours, route coverage, and what it means for buyers and landlords.',
+    image: null,
+    content: [
+      {
+        type: 'p',
+        text: `Ask almost anyone who has lived off campus in College Station what made their address work, and the answer usually comes down to one thing: how far they had to walk to catch a bus. Texas A&M runs one of the largest university transit systems in the country, and it does not stop at the edge of campus. The Aggie Spirit off-campus routes reach deep into College Station and Bryan, and whether a given house or condo sits on one of those routes is a real, checkable factor in what it rents for and who wants to buy it.`,
+      },
+      {
+        type: 'p',
+        text: `If you are shopping for a home near Texas A&M, an investment property, or a place for a student to live, it is worth understanding this system in some detail before you sign anything.`,
+      },
+      { type: 'h2', text: 'What the Aggie Spirit system actually covers' },
+      {
+        type: 'p',
+        text: `Texas A&M Transportation Services runs twelve off-campus routes covering Bryan and College Station, in addition to its on-campus circulators. The buses are fare-free at the point of boarding. Riders board with a Texas A&M or Blinn College ID, or with a Brazos Transit District ID for members of the general public, and someone without an approved ID is still allowed to ride and given information on how to get one.`,
+      },
+      {
+        type: 'p',
+        text: `Off-campus routes are grouped by the parts of town they serve, broadly a South College Station group and a College Station/Bryan group. Nearly all of them now originate at the Centralized Bus Hub near the Memorial Student Center, with two notable exceptions: route 07 (Airport) and route 48 (the RELLIS Circulator), which connects to the RELLIS Campus up the Highway 47 corridor in Bryan.`,
+      },
+      {
+        type: 'p',
+        text: `That last one matters more every year. RELLIS has been growing steadily, and a dedicated circulator means a Bryan address on the northwest side of town is not automatically cut off from the main campus.`,
+      },
+      { type: 'h2', text: 'Service hours are the part people miss' },
+      {
+        type: 'p',
+        text: `The single biggest misunderstanding about Aggie Spirit is assuming it runs like a city bus system, all day, every day. It does not. Service is built around the academic calendar, and the differences are significant:`,
+      },
+      {
+        type: 'ul',
+        items: [
+          'Fall and Spring service: Monday through Friday, 7:00 a.m. to 7:00 p.m., then it transitions to Night Service.',
+          'Night service: Monday through Friday, 7:00 p.m. to midnight. This includes all off-campus routes plus two combined on-campus routes.',
+          'Weekend service: Saturdays and Sundays, 9:00 a.m. to 5:00 p.m. during Fall and Spring, excluding home football gamedays.',
+          'Break service: Monday through Friday only, 7:00 a.m. to 6:00 p.m., with no night or weekend service during breaks.',
+        ],
+      },
+      {
+        type: 'p',
+        text: `The practical translation: a student who works a closing shift, has a lab that runs past midnight, or stays in town over the summer or winter break needs a car or a rideshare budget regardless of how close the bus stop is. That is a fair question to raise with anyone who is buying a property specifically because it sits on a route. Transit access is a strong amenity, not a substitute for parking.`,
+      },
+      {
+        type: 'p',
+        text: `One quirk worth knowing about, because it comes up in conversation constantly: the Downtown Bryan First Friday shuttle. On the first Friday of each month the university runs a free shuttle between the MSC and the Roy Kelly Parking Garage in Downtown Bryan, departing from Old Main Drive starting at 6:00 p.m., running every 30 minutes, with the last return trip leaving downtown at 9:30 p.m. It is a small thing, but it tells you something about how connected the two halves of the Brazos Valley have become.`,
+      },
+      { type: 'h2', text: 'What this means if you are buying near Texas A&M' },
+      {
+        type: 'p',
+        text: `For an owner-occupant buyer, a nearby route is mostly a convenience question, and a real one if anyone in the household is a student, faculty, or staff member. Parking on the College Station campus is limited and permitted, and plenty of A&M employees living in older College Station neighborhoods along Holleman, Southwest Parkway, or Wellborn Road ride in rather than fight for a space.`,
+      },
+      {
+        type: 'p',
+        text: `For an investor, the calculation is more direct. Properties within a short walk of a stop have historically been easier to lease to students, and they are easier to describe honestly in a listing. But route alignments are not permanent. Texas A&M adjusts service, and the shift to the Centralized Bus Hub is a reminder that the system gets restructured. Underwriting a purchase on the assumption that a stop will exist at the same corner in five years is a risk, not a certainty. Buy the location and the fundamentals first; treat the bus stop as a bonus.`,
+      },
+      { type: 'h2', text: 'How to check a specific address before you commit' },
+      {
+        type: 'p',
+        text: `This takes about ten minutes and it is worth doing on every property you are seriously considering:`,
+      },
+      {
+        type: 'ul',
+        items: [
+          'Pull up the official Leave Times & Maps page on the Transportation Services site and find the nearest stop to the address, not just the nearest route line.',
+          'Time the actual walk from the front door to that stop. Half a mile looks trivial on a map and feels very different in a Brazos Valley August.',
+          'Check the leave times, not just the route. Frequency during the middle of the day varies a lot between routes.',
+          'Note whether the walk crosses a major arterial like Texas Avenue, Harvey Mitchell Parkway, or Wellborn Road, and whether there is a signalized crossing.',
+          'Confirm the schedule for breaks and summer, especially for a twelve-month lease.',
+          'Look at where the route terminates on campus and how far that is from the buildings the rider will actually use.',
+        ],
+      },
+      {
+        type: 'p',
+        text: `Schedules and route maps change, so always verify against the current Transportation Services listings rather than a secondhand map or an old listing description.`,
+      },
+      { type: 'h2', text: 'The bigger picture for the Brazos Valley' },
+      {
+        type: 'p',
+        text: `Transit access is one of the reasons the housing market in Bryan-College Station behaves differently than a town of similar size elsewhere in Texas. A free, university-run system that reaches twelve off-campus routes into both cities effectively widens the pool of viable student and employee addresses well beyond the blocks immediately surrounding campus. That is part of why neighborhoods several miles out still see demand from A&M-affiliated renters and buyers.`,
+      },
+      {
+        type: 'p',
+        text: `It also means transit is one more layer of local knowledge that does not show up in an MLS listing. A house two streets apart from another can have a meaningfully different daily experience depending on which side of a route it falls on.`,
+      },
+      {
+        type: 'p',
+        text: `If you are weighing a specific College Station or Bryan address and want help thinking through the commute, the leasing picture, or how a property fits the way you actually plan to use it, reach out to Rick. Knowing the Brazos Valley street by street is the part that makes these decisions easier.`,
+      },
+    ],
+    sources: [
+      {
+        label: `Texas A&M Transportation Services — AggieSpirit Bus Service`,
+        url: `https://transport.tamu.edu/transit/service.aspx`,
+      },
+      {
+        label: `Texas A&M Transportation Services — About Aggie Spirit Transit`,
+        url: `https://aggiespirit.tamu.edu/transit/about.aspx`,
+      },
+      {
+        label: `Texas A&M Transportation Services — Centralized Bus Hub`,
+        url: `https://aggiespirit.tamu.edu/About/campusprojects/2025-bushub.aspx`,
+      },
+    ],
+  },
+  {
+    slug: 'selling-student-rental-college-station-lease-cycle-timing',
+    title: 'Selling a Student Rental in College Station: How the Aggieland Lease Cycle Should Drive Your Timing',
+    category: 'Seller Tips',
+    date: 'August 19, 2026',
+    readTime: '7 min read',
+    excerpt:
+      'A rental house near Texas A&M does not sell like a regular College Station home. Your lease dates, your tenants, and the October-through-February pre-leasing window largely decide what your property is worth to a buyer.',
+    metaDescription:
+      'How to time the sale of a student rental in College Station, TX: lease dates, the Aggieland pre-leasing window, tenant access, and pricing for investor buyers.',
+    image: '/assets/images/blog-covers/selling-student-rental-college-station-lease-cycle-timing.jpg',
+    content: [
+      {
+        type: 'p',
+        text: `If you own a rental house near Texas A&M, selling it is a different exercise than selling the home you live in. A student rental in College Station is priced off its income and its lease paperwork as much as its countertops, and the calendar that governs that income has almost nothing to do with the traditional spring selling season. Get the timing right and you hand a buyer a clean, fully leased asset. Get it wrong and you are asking someone to buy a vacant house in a town where the leasing window has already closed for the year.`,
+      },
+      { type: 'h2', text: 'The Aggieland leasing calendar, in plain terms' },
+      {
+        type: 'p',
+        text: `Nearly all off-campus housing in College Station runs on an August-to-July cycle tied to the Texas A&M academic year. A typical 2026–2027 lease at a purpose-built property begins in mid-August 2026 and ends in late July 2027. What surprises a lot of owners is how early those leases get signed: pre-leasing for the following August routinely starts in October and November, nearly ten months ahead of move-in, and the bulk of the signing happens over the winter and early spring.`,
+      },
+      {
+        type: 'p',
+        text: `That creates a predictable rhythm for anyone selling a student rental in College Station:`,
+      },
+      {
+        type: 'ul',
+        items: [
+          'October–February: pre-leasing is active. This is when you sign next year\'s tenants and when a leased-for-next-year property is easiest to prove out on paper.',
+          'March–May: the strongest renters are largely committed. Units still open here are competing for what is left.',
+          'June–July: turnover, make-ready, and the tail end of the leasing season. Anything unleased by now is at real risk of sitting vacant for a full year.',
+          'August: move-in. Occupancy for the next twelve months is essentially locked.',
+        ],
+      },
+      {
+        type: 'p',
+        text: `Scale matters here too. Texas A&M reported more than 74,000 students on the College Station campus as of fall 2025, and that demand is what makes the small-house rental market near campus work at all. But it arrives on a schedule, not continuously.`,
+      },
+      { type: 'h2', text: 'The best window to list is usually with next year\'s lease already signed' },
+      {
+        type: 'p',
+        text: `The most valuable thing you can hand an investor buyer is certainty. A property listed in, say, February with signed leases running through July 2027 is a known quantity: the buyer can underwrite twelve months of income they do not have to go find. A property listed in the same month with leases expiring in July and nothing signed after that is a very different conversation, because the buyer is inheriting your leasing risk right as the window is closing.`,
+      },
+      {
+        type: 'p',
+        text: `In practice, that argues for doing your pre-leasing first and your listing second. If you know you want out, work the October-through-January window to get next year signed, then bring the property to market in late winter or spring with the lease in hand. You are effectively selling a year of secured income alongside the house, and that shows up in both price and buyer confidence.`,
+      },
+      {
+        type: 'p',
+        text: `The alternative window is the vacancy gap. Some sellers prefer to list in June or July as a lease winds down, betting on a wider buyer pool that includes owner-occupants who cannot close on a tenant-occupied house. That can work, particularly for properties in areas like Southwood Valley or the neighborhoods off Holleman and Anderson where the house appeals to families as readily as to students. Just be honest with yourself that you are trading income certainty for access and flexibility.`,
+      },
+      { type: 'h2', text: 'Showings, tenants, and the Texas lease you already signed' },
+      {
+        type: 'p',
+        text: `This is where student rental sales in College Station go sideways. Your tenants have possession rights under the lease, and your right to show the property is limited to whatever that document actually says. Before you do anything else, pull the lease and read the access provisions. The standard TAR residential lease addresses entry and showing, but terms vary, and month-to-month or renewal paperwork can change them.`,
+      },
+      {
+        type: 'ul',
+        items: [
+          'Confirm in writing what notice you owe before entry, and follow it every single time.',
+          'Give tenants as much lead time as you can and cluster showings into blocks rather than scattering them across a week.',
+          'Expect the property to show in lived-in condition. Photos taken before the current tenancy, plus an accurate current-condition disclosure, often serve you better than fighting over tidiness.',
+          'Consider a modest rent concession or gift card for cooperation. It is cheaper than weeks of blocked access.',
+          'Tell your tenants early what a sale means for them: their lease survives the sale, and the buyer steps into your shoes as landlord.',
+        ],
+      },
+      {
+        type: 'p',
+        text: `Also gather your paperwork before you list. Investor buyers will ask for the current lease and any signed pre-lease, a rent roll, security deposit accounting, the last two years of expenses, HOA documents, and your Brazos County tax statement. Having that packet ready has a real effect on how quickly a deal comes together.`,
+      },
+      { type: 'h2', text: 'Pricing an income property in a slower Brazos Valley market' },
+      {
+        type: 'p',
+        text: `The broader Bryan-College Station market has loosened. Community Impact reported that June 2026 saw roughly 26% more listings than June 2025 while closed sales volume fell about 12%, and Redfin data showed College Station homes spending a median of 71 days on market in July 2026. More inventory and slower absorption means a rental priced on 2022 assumptions will sit.`,
+      },
+      {
+        type: 'p',
+        text: `Two things follow from that. First, your comparables should lean toward other tenant-occupied sales near campus rather than owner-occupied homes in the same subdivision — the buyer pools are different and so are the prices they support. Second, be prepared for a buyer to run the numbers as an investment, which means your actual rent, actual taxes, actual insurance, and actual maintenance history all get scrutinized. Deferred maintenance that a homeowner might overlook gets converted directly into a price reduction by someone building a spreadsheet. Nothing about a past price trend guarantees a future one, so price to today's data rather than to what the house might have fetched two years ago.`,
+      },
+      { type: 'h2', text: 'A simple sequence that works' },
+      {
+        type: 'p',
+        text: `If you are thinking about selling a College Station student rental in the next year, the order of operations matters more than any single decision. Start by reading your lease and mapping your exact expiration date. Decide whether you are selling leased or selling vacant. If leased, pre-lease for next year during the fall window before you list. Assemble the financial packet. Handle the obvious deferred maintenance, especially anything a lender or inspector will flag. Then take it to market with a price built on current Brazos Valley data.`,
+      },
+      {
+        type: 'p',
+        text: `Every rental is a little different, and the right answer depends on your lease dates, your equity position, and how much longer you want to be a landlord. If you own a property near campus and want a straight read on what it would bring today and when to bring it to market, reach out and we can look at the numbers together.`,
+      },
+    ],
+    sources: [
+      {
+        label: 'Texas A&M Off-Campus Housing — AggieSearch',
+        url: 'https://aggiesearch.tamu.edu/housing/neighborhood-College+Station_2p2pvzb',
+      },
+      {
+        label: 'Community Impact — More homes sold in Bryan, College Station in June compared to same month last year',
+        url: 'https://communityimpact.com/bryan-college-station/real-estate/more-homes-sold-in-bryan-college-station-in-june-compared-to-same-month-last-year/',
+      },
+      {
+        label: 'Redfin — College Station, TX Housing Market',
+        url: 'https://www.redfin.com/city/4134/TX/College-Station/housing-market',
+      },
+    ],
+  },
+  {
     slug: 'neighborhood-spotlight-midtown-college-station',
     title: 'Neighborhood Spotlight: Midtown in College Station, TX',
     category: 'Neighborhood Spotlight',
