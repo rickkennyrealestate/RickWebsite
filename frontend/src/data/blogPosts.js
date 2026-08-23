@@ -1,5 +1,96 @@
 export const blogPosts = [
   {
+    slug: 'college-station-occupancy-rules-rental-property-investors',
+    title: 'Occupancy Rules and the College Station Rental Investor: What "No More Than Four" Does to Your Numbers',
+    category: 'Investing',
+    date: 'August 22, 2026',
+    readTime: '7 min read',
+    excerpt:
+      'College Station limits how many unrelated people can share most dwelling units, and overlay districts change that number block by block. For anyone buying a rental near Texas A&M, that single rule can be the difference between a property that pencils and one that does not.',
+    metaDescription:
+      'How College Station occupancy rules and the ROO and HOO overlays affect rental property investors near Texas A&M, and how to verify a home before you buy.',
+    image: null,
+    content: [
+      {
+        type: 'p',
+        text: `Most people who buy their first rental property in College Station run the numbers the ordinary way: purchase price, taxes, insurance, management, and a rent figure pulled from comparable listings. Then they discover the thing that makes this market different from almost anywhere else in Texas. College Station regulates how many unrelated people may occupy a dwelling unit, and that limit does not apply uniformly across the city. Get it wrong and the four-bedroom house you underwrote at four rents legally holds two tenants.`,
+      },
+      {
+        type: 'p',
+        text: `This is not an obscure technicality. It is enforced, it carries fines, and it can attach to the property owner and manager, not only to the tenants. If you are considering a rental in College Station, understanding occupancy before you write an offer is as fundamental as checking the tax rate.`,
+      },
+      { type: 'h2', text: 'The citywide baseline in College Station' },
+      {
+        type: 'p',
+        text: `College Station has restricted unrelated occupancy since 1939. The city's current standard limits a single dwelling unit to no more than four unrelated persons. The ordinance defines a family as any number of people occupying one dwelling unit, so long as a household of more than four is related by blood, adoption, guardianship, or marriage, or falls under a narrow set of exceptions such as an authorized caretaker or a group home for persons with disabilities.`,
+      },
+      {
+        type: 'p',
+        text: `The rule reaches further than most investors expect. It covers detached houses, townhomes, duplexes, and some apartment communities. Properties zoned multi-family may be treated differently. Enforcement carries administrative penalties in the range of $250 to $500, and the city's ordinance includes a rebuttable presumption tied to vehicles parked at or near the property over a thirty-day window, which is a practical way of saying that six cars in the driveway every night invites a look from Code Enforcement.`,
+      },
+      { type: 'h2', text: 'Two overlays that move the number up or down' },
+      {
+        type: 'p',
+        text: `On top of the citywide standard, College Station has used two overlay zoning districts that change the limit for specific areas:`,
+      },
+      {
+        type: 'ul',
+        items: [
+          `Restricted Occupancy Overlay (ROO) — a single-family overlay intended to hold occupancy to no more than two unrelated persons. It applies to individual single-family dwellings and accessory living quarters inside the overlay boundary. Neighborhoods near campus pursued these to reduce the density of student rentals on residential streets.`,
+          `High Occupancy Overlay (HOO) — allows occupancy above the four-person citywide standard, but not automatically. A property in an HOO area still needs approval of a "shared housing" use through a minor site plan application, with additional requirements attached.`,
+        ],
+      },
+      {
+        type: 'p',
+        text: `The gap between two and four unrelated tenants is enormous in a by-the-bedroom rental market. A house that can lease four rooms at Aggieland per-bedroom rates and one that can lease two are not the same asset, even if they sit on the same street and look identical from the curb.`,
+      },
+      { type: 'h2', text: 'Why you have to verify the address, not the neighborhood' },
+      {
+        type: 'p',
+        text: `Occupancy boundaries in College Station follow overlay lines and original subdivision boundaries, not general impressions of an area. Two houses a few hundred feet apart off Holleman, Southwest Parkway, or Old Wellborn Road can carry different limits. The city publishes an Occupancy Difference Map that lets you search by address, and that map, not a listing agent's recollection, is the source of truth.`,
+      },
+      {
+        type: 'p',
+        text: `Occupancy policy in Texas has also been an active subject at the state legislature, and College Station's ordinances have been amended more than once in recent years in response. That is one more reason to confirm the current rule for a specific address at the time you are under contract rather than relying on what was true a season or two ago, or on a pro forma a seller prepared.`,
+      },
+      { type: 'h2', text: 'How occupancy limits change the underwriting' },
+      {
+        type: 'p',
+        text: `Practically, occupancy affects four lines in your model. Gross rent, obviously, because per-bedroom leasing is the norm near campus and the maximum legal headcount caps it. Vacancy risk, because a two-person limit narrows your tenant pool from groups of four to couples, small households, and non-student renters, which is a different marketing problem with a different leasing calendar. Exit value, because the next buyer will underwrite the same constraint you did. And risk, because an over-occupied property can generate citations against the owner and can complicate insurance and financing conversations.`,
+      },
+      {
+        type: 'p',
+        text: `None of this makes College Station a poor rental market. Texas A&M anchors demand in a way few college towns can match, and plenty of investors here do well. It does mean that the spread between a well-researched purchase and a careless one is wider than in a city with uniform rules.`,
+      },
+      { type: 'h2', text: 'A short pre-offer checklist' },
+      {
+        type: 'ul',
+        items: [
+          `Look the exact address up on the City of College Station Occupancy Difference Map and note the permitted number of unrelated occupants.`,
+          `Confirm the zoning classification and whether any overlay applies to that parcel.`,
+          `If the property is in Bryan rather than College Station, check Bryan's own rules separately. The two cities are not interchangeable on this point.`,
+          `Ask for existing leases and the current tenant count, and compare them against the legal limit before you inherit a problem at closing.`,
+          `Check any HOA restrictions on leasing, which can be more limiting than city code.`,
+          `Re-run your rent assumption at the legal occupancy, not the bedroom count.`,
+        ],
+      },
+      {
+        type: 'p',
+        text: `Rick has worked the Brazos Valley for years and knows how these boundaries fall street by street, along with the Aggie network that runs through much of the local rental business. If you are evaluating a rental property in College Station or Bryan, reach out before you write the offer. Ten minutes spent confirming occupancy at the front end is far cheaper than discovering the limit after you own the house.`,
+      },
+    ],
+    sources: [
+      {
+        label: `City of College Station — Occupancy Restrictions`,
+        url: `https://www.cstx.gov/living-here/housing/occupancy-restrictions/`,
+      },
+      {
+        label: `City of College Station — Unified Development Ordinance`,
+        url: `https://www.cstx.gov/business-development/unified-development-ordinance/`,
+      },
+    ],
+  },
+  {
     slug: 'texas-option-period-checklist-bryan-college-station-buyers',
     title: 'Making the Texas Option Period Count in Bryan-College Station: A Local Due Diligence Checklist',
     category: 'Working With Rick',
