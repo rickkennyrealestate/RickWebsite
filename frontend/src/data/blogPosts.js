@@ -1,5 +1,968 @@
 export const blogPosts = [
   {
+    slug: 'neighborhood-spotlight-edelweiss-gartens-college-station',
+    title: 'Neighborhood Spotlight: Edelweiss Gartens in College Station, TX',
+    category: 'Neighborhood Spotlight',
+    date: 'September 2026',
+    readTime: '7 min read',
+    excerpt:
+      'Edelweiss Gartens sits on the south side of College Station off Victoria Avenue and Graham Road, with sidewalk-lined streets, a 14-acre city park, and one of the more attainable price points close to Texas A&M.',
+    metaDescription:
+      'A factual guide to Edelweiss Gartens in College Station, TX: location off Victoria Avenue and Graham Road, home sizes, price range, the city park, HOA, and commute times.',
+    image: null,
+    content: [
+      {
+        type: 'p',
+        text: `If you are shopping for a home in College Station in the $300,000s, Edelweiss Gartens keeps showing up on the list — and there is a reason for that. This south-side College Station neighborhood sits off Victoria Avenue and Graham Road, roughly five miles from the Texas A&M campus, and it delivers a combination that is getting harder to find in the Brazos Valley: relatively young brick homes, sidewalks on both sides of the street, a real city park inside the neighborhood, and a price point that still works for a first-time buyer, a young professional, or a Texas A&M employee who wants a short drive to campus.`,
+      },
+      {
+        type: 'p',
+        text: `Here is a straightforward look at what Edelweiss Gartens actually is, what it costs, how you get in and out of it, and what deserves a closer look before you write an offer.`,
+      },
+      { type: 'h2', text: 'Where Edelweiss Gartens sits on the south side of College Station' },
+      {
+        type: 'p',
+        text: `Edelweiss Gartens is bounded loosely by Victoria Avenue on the east and Graham Road on the north, tucked into the corridor between Wellborn Road and Highway 6. That location is the neighborhood's main structural advantage. You are south of the campus congestion, but you are not out in the county — city water, city sewer, city trash, and College Station Utilities all serve the area, and you are minutes from the Rock Prairie Road retail and medical corridor.`,
+      },
+      {
+        type: 'p',
+        text: `It is worth keeping the two Edelweiss names straight, because buyers mix them up constantly. Edelweiss Gartens and the older Edelweiss Estates are separate subdivisions with separate homeowners associations and separate deed restrictions. Edelweiss Estates has its own association with its own dues and rules. Confirm which subdivision a specific address belongs to before you assume anything about HOA cost or restrictions — the title commitment and the survey will tell you.`,
+      },
+      { type: 'h2', text: 'The housing stock: what you actually find here' },
+      {
+        type: 'p',
+        text: `Edelweiss Gartens is a platted, builder-developed neighborhood of just over 400 homes, put up by a mix of local Brazos Valley builders rather than one national production company. That shows up in the streetscape: elevations vary house to house, but the underlying product is consistent.`,
+      },
+      {
+        type: 'ul',
+        items: [
+          `Mostly three- and four-bedroom single-family homes, with a smaller number of townhomes.`,
+          `Average home size lands in the neighborhood of 1,650 square feet, so this is a mid-size home market rather than an acreage or estate market.`,
+          `Predominantly brick exteriors, attached garages, and modest, low-maintenance lots.`,
+          `Sidewalks along the streets, which is not universal in College Station and matters more than people expect for walkability and resale.`,
+        ],
+      },
+      {
+        type: 'p',
+        text: `Because the homes are relatively similar in size and vintage, appraisals here tend to be more predictable than in mixed-vintage neighborhoods like Southwood Valley — there are usually real comparable sales within a few blocks. That cuts both ways: it makes financing smoother, and it also means an over-improved home can have a hard time appraising above the pack.`,
+      },
+      { type: 'h2', text: 'Price range and how it compares in the Brazos Valley' },
+      {
+        type: 'p',
+        text: `Homes in Edelweiss Gartens have historically traded in the roughly $300,000 to $400,000 band, with recent twelve-month average sale prices reported around the high $320,000s by neighborhood data aggregators. Treat any single average as a starting point rather than a valuation — averages move with the mix of homes that happened to sell, and a 1,400-square-foot townhome and a 2,100-square-foot four-bedroom are both inside that number.`,
+      },
+      {
+        type: 'p',
+        text: `What that price band means in practice is that Edelweiss Gartens competes directly with Castlegate's entry-level product, parts of Southwood Valley, and newer inventory further out toward Greens Prairie. Against those, Edelweiss Gartens usually wins on drive time to campus and loses on square footage. Which trade you want is the whole decision.`,
+      },
+      { type: 'h2', text: 'Edelweiss Gartens Park and what is close by' },
+      {
+        type: 'p',
+        text: `The neighborhood has a genuine amenity, not just a strip of mowed grass. Edelweiss Gartens Park is a 14-acre City of College Station park, roughly 60 percent wooded, with a tributary of Lick Creek running through it west to east. City park information lists a playground, swing set, basketball court, jogging trail, picnic shelter, bridges, and a boardwalk over the creek section.`,
+      },
+      {
+        type: 'p',
+        text: `Beyond the park, the practical daily-life geography looks like this:`,
+      },
+      {
+        type: 'ul',
+        items: [
+          `Rock Prairie Road, a few minutes north, carries most of the area's grocery, pharmacy, and medical services, including the hospital corridor east of Highway 6.`,
+          `Wellborn Road gives you a direct north-south run toward campus without touching Highway 6.`,
+          `William D. Fitch Parkway is the southern arterial, connecting Victoria Avenue over to Highway 6 and out toward the Greens Prairie growth area.`,
+          `Central Park and the Stephen C. Beachy Central Park Office on Krenek Tap Road handle city parks and recreation programming for the area.`,
+        ],
+      },
+      { type: 'h2', text: 'The commute, and the road work you should know about' },
+      {
+        type: 'p',
+        text: `From Edelweiss Gartens, the Texas A&M campus is a straightforward drive up Wellborn Road — typically in the 12 to 18 minute range outside of peak class-change times, longer on a football Saturday. That is the number most buyers care about, and it holds up well against neighborhoods further south.`,
+      },
+      {
+        type: 'p',
+        text: `The bigger variable right now is construction. The City of College Station has been rehabilitating William D. Fitch Parkway in sections, with lane closures and temporary signals in the work zones, and the Rock Prairie Road east widening between Town Lake Drive and William D. Fitch Parkway is still in design with completion estimated in 2029. TxDOT's long-running Highway 6 "Big 6" reconstruction continues to reshape the frontage roads and interchanges across Bryan-College Station. None of this is permanent, but if you are buying here in 2026 and 2027, drive your actual commute at your actual commute time before you commit.`,
+      },
+      { type: 'h2', text: 'What to check before you buy in Edelweiss Gartens' },
+      {
+        type: 'p',
+        text: `A few items belong on your option-period list specifically for this neighborhood:`,
+      },
+      {
+        type: 'ul',
+        items: [
+          `Which subdivision and which HOA. Get the correct association name, current dues, transfer fees, and a copy of the deed restrictions in writing.`,
+          `Proximity to the Lick Creek tributary. Lots backing onto or near the creek corridor deserve a floodplain check and a look at drainage during a heavy rain, not just a map review.`,
+          `Foundation and soil. Brazos County's expansive clay soil moves seasonally. Look for typical movement indicators and consider a structural inspection on any home showing them.`,
+          `School attendance zoning. The area is served by College Station ISD, but attendance boundaries are periodically redrawn — verify the current assignment for the specific address directly with the district.`,
+          `Rental concentration. Proximity to campus means some homes here are investor-owned rentals. If that matters to you either way, ask your agent to look at the ownership and leasing picture on the block.`,
+        ],
+      },
+      {
+        type: 'p',
+        text: `Edelweiss Gartens is not the flashiest neighborhood in College Station, and that is largely the point. It is a well-located, consistently built, moderately priced pocket of the south side with a real park in the middle of it — the kind of place that holds interest from both owner-occupants and investors, which tends to support liquidity when it is time to sell.`,
+      },
+      {
+        type: 'p',
+        text: `If you are weighing Edelweiss Gartens against other College Station neighborhoods, or you want to know what a specific street or floor plan there has actually been selling for, reach out to Rick. Walking a few of these homes side by side usually answers the question faster than another hour on a search portal.`,
+      },
+    ],
+    sources: [
+      { label: `City of College Station — Parks and Recreation`, url: `https://www.cstx.gov/your-government/departments/parks-and-recreation/` },
+      { label: `City of College Station — Rock Prairie Road East Widening Project`, url: `https://www.cstx.gov/news/what_s_new/rock_prairie_road_east_widening_project` },
+      { label: `City of College Station — William D. Fitch Parkway Rehabilitation`, url: `https://www.cstx.gov/news/posts/second-section-of-william-d-fitch-parkway-rehabilitation-begins-monday/` },
+      { label: `Edelweiss Estates Homeowners Association`, url: `https://www.eehoa.org/home/` },
+      { label: `HAR.com — Edelweiss Gartens Neighborhood`, url: `https://www.har.com/neighborhoods/edelweiss-gartens-realestate/4851` },
+    ],
+  },
+  {
+    slug: 'setting-up-utilities-bryan-college-station-guide',
+    title: 'Setting Up Utilities in Bryan-College Station: Who Provides Your Power, Water, and Trash',
+    category: 'Local Guide',
+    date: 'September 2026',
+    readTime: '7 min read',
+    excerpt:
+      'Electricity, water, sewer, and trash in Bryan-College Station are handled by a patchwork of city utilities, special utility districts, and rural co-ops. Here is how to figure out who serves your address before you close.',
+    metaDescription:
+      'A Bryan-College Station guide to utilities: College Station Utilities, BTU, Wellborn SUD, city trash, rural wells and septic, and how to start service by address.',
+    image: null,
+    content: [
+      {
+        type: 'p',
+        text: `One of the quiet surprises of buying a home in Bryan-College Station is that there is no single utility company. Depending on which side of a road your house sits on, your electricity might come from a city-owned utility in College Station, a city-owned utility in Bryan, or a rural cooperative. Your water might come from the same place as your power, from a special utility district, or from a well in your own back yard. Two houses a quarter-mile apart in the Brazos Valley can have completely different utility bills and completely different providers, and nothing on the listing sheet is guaranteed to tell you which is which.`,
+      },
+      {
+        type: 'p',
+        text: `This guide walks through how utilities actually work here, who the providers are, and what to verify during your option period so there are no surprises the week you move in.`,
+      },
+      { type: 'h2', text: 'The first rule: providers in Bryan-College Station are set by address, not by city name' },
+      {
+        type: 'p',
+        text: `A College Station mailing address does not automatically mean College Station Utilities. Bryan Texas Utilities notes that its electric service area includes homes inside Bryan city limits, homes outside Bryan city limits but within the BTU service area, and even some addresses inside College Station city limits that fall within BTU territory. Water is similarly split, with Wellborn Special Utility District serving a defined area on the south and west side of College Station and into Brazos County.`,
+      },
+      {
+        type: 'p',
+        text: `So the correct move is never to assume. Take the exact street address — not the subdivision, not the ZIP code — and confirm each service individually before your option period runs out. Sellers and listing agents are usually happy to hand over their last twelve months of bills, and that single request answers most of these questions at once.`,
+      },
+      { type: 'h2', text: 'Inside College Station city limits' },
+      {
+        type: 'p',
+        text: `College Station Utilities is a city-owned operation that bundles electric, water, and wastewater on one bill, with residential solid waste service handled by the city as well. That bundling is convenient — one account, one autopay, one phone number at 979-764-3535 — and it is a meaningful difference from most of Texas, where residents shop deregulated retail electric plans and juggle separate providers. In College Station, you do not choose your electric provider. You take the city rate.`,
+      },
+      {
+        type: 'p',
+        text: `Practically, that means a few things for buyers:`,
+      },
+      {
+        type: 'ul',
+        items: [
+          `There is no plan-shopping season and no promotional rate to chase, which makes budgeting simpler but removes a lever some buyers are used to pulling.`,
+          `Deposits and account setup go through the city rather than a retail provider, so build a few business days into your move-in timeline.`,
+          `Trash and recycling carts come with the address; confirm your collection day and cart status rather than assuming service continues automatically after a closing.`,
+        ],
+      },
+      { type: 'h2', text: 'Inside Bryan and the BTU service area' },
+      {
+        type: 'p',
+        text: `In Bryan, electricity comes from Bryan Texas Utilities, which is the city-owned electric provider. Water, wastewater, and solid waste are operated by the City of Bryan, which sets those rates, but the services are connected through your BTU account — so trash service in Bryan is tied to the same account that handles your power. BTU's office sits at 2611 N. Earl Rudder Freeway, and service can be started online or in person.`,
+      },
+      {
+        type: 'p',
+        text: `Residential garbage collection in Bryan runs Monday through Thursday, with each household receiving one 95-gallon cart and once-a-week pickup. If you are moving from a metro area with twice-weekly pickup or valet trash at an apartment, that is worth knowing before you plan your first big move-in cleanout.`,
+      },
+      { type: 'h2', text: 'Wellborn, Wickson Creek, and the unincorporated Brazos County houses' },
+      {
+        type: 'p',
+        text: `The part of the Brazos Valley that trips up the most buyers is the acreage and semi-rural inventory — Wellborn, the Highway 47 and RELLIS corridor, the stretches out toward Millican, and the pockets of unincorporated Brazos County that carry College Station or Bryan mailing addresses. Out there, the utility picture changes:`,
+      },
+      {
+        type: 'ul',
+        items: [
+          `Water may come from Wellborn Special Utility District, another rural district, or a private well on the property. Wellborn SUD's office is at 6784 Victoria Avenue in College Station, and it handles new service requests for its defined service area.`,
+          `Wastewater is frequently a septic system — often an aerobic system with spray heads, which requires an ongoing maintenance contract and periodic inspections in Texas.`,
+          `Trash may not be a city service at all. Many county residents contract privately with a hauler, and pricing and pickup days vary.`,
+          `Propane may replace natural gas for heat, cooking, and water heating, which means a tank on the property that is either owned or leased. Find out which before closing.`,
+          `Internet options thin out quickly. Fiber and cable coverage that is solid in Midtown or Castlegate can drop to fixed wireless or satellite a few miles out.`,
+        ],
+      },
+      {
+        type: 'p',
+        text: `None of this is a reason to avoid rural Brazos County property — plenty of buyers here happily trade a city trash cart for five acres. It just needs to be priced in. A well and an aerobic septic system are real assets with real maintenance costs and real inspection needs, and they belong on your due diligence list alongside the roof and the foundation.`,
+      },
+      { type: 'h2', text: 'What to do during your option period' },
+      {
+        type: 'p',
+        text: `The Texas option period is the window where all of this gets settled. A tight, practical utility checklist for a Bryan-College Station purchase looks like this:`,
+      },
+      {
+        type: 'ul',
+        items: [
+          `Ask the seller for twelve months of utility bills. Summer bills in the Brazos Valley are the ones that matter — a June through September average tells you far more than a mild March.`,
+          `Confirm each provider by exact address: electric, water, wastewater, and solid waste, one at a time.`,
+          `If the home is on a well or septic, order the appropriate inspection and ask for maintenance records and any existing service contract.`,
+          `If there is a propane tank, determine ownership, lease terms, and current fill level, and get it in writing.`,
+          `Check internet serviceability at the address directly with providers rather than relying on coverage maps.`,
+          `Schedule transfers a few business days before closing so you are not without power or water on move-in day.`,
+        ],
+      },
+      { type: 'h2', text: 'Why a local agent makes this part easier' },
+      {
+        type: 'p',
+        text: `Utility boundaries in the Brazos Valley are not intuitive, and they are not printed on the sign in the front yard. Knowing that a particular stretch of Wellborn Road changes water districts, or that an acreage listing with a College Station address is actually on a well and an aerobic septic system, is the kind of thing that comes from working here rather than from a national search portal.`,
+      },
+      {
+        type: 'p',
+        text: `If you are buying or selling in College Station, Bryan, or anywhere in the Brazos Valley and want someone local walking the details with you — utilities included — reach out to Rick. Getting these questions answered before you are under contract is a lot easier than sorting them out the week you move in.`,
+      },
+    ],
+    sources: [
+      { label: `City of College Station — Utilities`, url: `https://www.cstx.gov/living-here/utilities/` },
+      { label: `Bryan Texas Utilities — Residential Rates and Service Area`, url: `https://btutilities.com/for-home/residential-rates` },
+      { label: `City of Bryan — Trash / Garbage Collection`, url: `https://www.bryantx.gov/solid-waste/trash-collection-services/` },
+      { label: `Wellborn Special Utility District — Contact`, url: `https://wellbornsud.com/contact-us` },
+    ],
+  },
+  {
+    slug: 'texas-am-faculty-staff-relocation-guide-bryan-college-station',
+    title: 'Relocating to Bryan-College Station for a Texas A&M Job: A Housing Guide for New Faculty and Staff',
+    category: 'Aggieland Life',
+    date: 'September 2026',
+    readTime: '7 min read',
+    excerpt:
+      'Starting a position at Texas A&M and figuring out where to live? A practical Bryan-College Station housing guide built around the academic calendar, real commutes to campus, and the local costs new hires do not see coming.',
+    metaDescription:
+      'Moving to Bryan-College Station for a Texas A&M faculty or staff job? A local guide to timing, commutes to campus, neighborhoods, and Brazos Valley housing costs.',
+    image: null,
+    content: [
+      {
+        type: 'p',
+        text: `Most people who move to College Station for a Texas A&M job get about six weeks of warning. The offer lands in June, the appointment starts in the fall, and somewhere in between you are supposed to find a place to live in a town you may have only visited once, during an interview, in a rental car, in August. It is a lot. This guide is written for that person — a new faculty member, a research staffer, a department administrator, a Health Science Center or Extension hire — and it covers the Bryan-College Station housing decisions that actually matter, in the order you will face them.`,
+      },
+      {
+        type: 'p',
+        text: `Texas A&M employs more than 26,000 people across faculty, staff, graduate assistants, and student workers, which makes the university and its system the gravitational center of the Brazos Valley economy. That scale is good news for you: there is a well-worn path here, plenty of housing stock, and a rental and resale market that is used to people arriving on an academic timetable. But it also means you are competing for housing against the same calendar as roughly 74,000 students. Timing is the first thing to understand.`,
+      },
+      { type: 'h2', text: 'The Aggieland calendar decides your options more than your budget does' },
+      {
+        type: 'p',
+        text: `Bryan-College Station runs on an August-to-July housing cycle. Student leases overwhelmingly start in August and end in July, and pre-leasing for the following August often opens the previous fall. For a new Texas A&M employee, that produces two very different experiences depending on when you land.`,
+      },
+      {
+        type: 'ul',
+        items: [
+          `Arriving in July or August: the tightest, most expensive, most chaotic window of the year. Movers, cleaners, and contractors in Brazos County are all booked, and rental inventory near campus has largely been claimed since the previous fall.`,
+          `Arriving in January for a spring start: usually easier. There is a genuine mid-year sublease and short-term market in College Station created by graduating students and study-abroad semesters.`,
+          `Arriving in May or June: a reasonable middle. You will see summer inventory, but the August wave is already forming behind you.`,
+        ],
+      },
+      {
+        type: 'p',
+        text: `A pattern I see work well: rent for the first twelve months, buy in year two once you know your department, your commute, and whether your spouse or partner has landed work here. That is not a hedge against the town — it is a hedge against buying in the wrong part of it. AggieSearch, the university's off-campus housing database, is open to faculty and staff as well as students and is a reasonable first look at what rental product exists and roughly what it costs.`,
+      },
+      { type: 'h2', text: 'Where you actually work on campus changes the answer' },
+      {
+        type: 'p',
+        text: `"Texas A&M" is not one destination. The main campus alone spans a long north-south run, and several thousand employees never set foot on it day to day. Before you draw a search radius, find out which building you report to.`,
+      },
+      {
+        type: 'ul',
+        items: [
+          `Main campus, academic core near Ross Street and Bizzell — parking is the constraint, not distance. Look at the Northgate side, the Eastgate area of College Station, and central Bryan neighborhoods off Texas Avenue.`,
+          `West Campus, including the veterinary school, engineering buildings, and the Agriculture and Life Sciences complex off Raymond Stotzer Parkway — the Wellborn corridor and southwest College Station reach it without crossing the whole campus.`,
+          `The RELLIS Campus in Bryan, up Highway 47 — a completely different commute. Northwest Bryan and the Highway 47 corridor are far more convenient than anything in south College Station.`,
+          `Health Science Center and clinical facilities in Bryan — central and east Bryan put you close, and housing there typically costs less per square foot than comparable College Station product.`,
+          `Riverside Campus and outlying research facilities — these sit well outside the built-up area, and a Bryan address usually beats a College Station one.`,
+        ],
+      },
+      {
+        type: 'p',
+        text: `The practical local truth is that Bryan-College Station commutes are short by any big-city standard — most are fifteen to twenty-five minutes — but they are not uniform, because everything funnels onto a few roads. Texas Avenue, Wellborn Road, University Drive, and Highway 6 carry most of the load, and Highway 6 has been under an extended widening program. Drive your prospective route at 7:45 a.m. on a Tuesday during the semester before you sign anything. The August version of a road is not the October version.`,
+      },
+      { type: 'h2', text: 'Renting first: what to ask that you would not ask elsewhere' },
+      {
+        type: 'p',
+        text: `A lot of the rental stock in College Station was purpose-built for undergraduates, and some of it will not suit a household with a full-time job and early mornings. That is a fit question, not a judgment about anyone. When you tour, ask directly whether the complex leases by the bed or by the unit, what share of the property is student-occupied, and whether leases are all synchronized to the August cycle. Ask whether the landlord will write a twelve-month lease starting in a non-August month, because many will not, and a ten-month or fourteen-month bridge lease is a normal thing to negotiate here.`,
+      },
+      {
+        type: 'ul',
+        items: [
+          `Confirm what utilities are included; owner-paid water is common in older duplexes and rare in newer builds.`,
+          `Ask about assigned parking, and about guest parking if you will have visitors.`,
+          `Ask what the property's policy is on early termination if your appointment location changes.`,
+          `Check the address against the City of Bryan or City of College Station boundary — they are separate cities with different utilities, tax rates, and services.`,
+        ],
+      },
+      { type: 'h2', text: 'Buying here: the Brazos Valley line items that surprise transplants' },
+      {
+        type: 'p',
+        text: `If you are coming from California, the Northeast, or the Midwest, the sticker price on a Bryan-College Station house will probably feel like a relief. The carrying costs are where Texas surprises people. There is no state income tax, and the trade is that property taxes do the work instead — Brazos County combined rates are meaningful, and they are assessed on appraised value, which is reassessed annually. Homeowners insurance across Texas has risen sharply in recent years. Budget both from real quotes, not from a mortgage calculator's default percentages.`,
+      },
+      {
+        type: 'p',
+        text: `Two more local specifics worth knowing before you write an offer. First, this area sits on expansive clay soil, which moves with moisture and is hard on slab foundations; older homes here frequently show cosmetic evidence of it and sometimes more than cosmetic. A foundation-aware inspection is standard practice locally, not paranoia. Second, parts of Bryan-College Station sit in mapped floodplain along Carters Creek, Wolf Pen Creek, and the Navasota and Brazos river bottoms. Flood zone status affects insurance cost and lender requirements, and it is checkable before you fall for a house.`,
+      },
+      {
+        type: 'p',
+        text: `Finally, if you are buying, file for your Texas homestead exemption once you own and occupy the home. It is a straightforward filing with the Brazos Central Appraisal District and it meaningfully affects your annual tax bill. New arrivals miss it constantly.`,
+      },
+      { type: 'h2', text: 'Settling in beyond the closing table' },
+      {
+        type: 'p',
+        text: `A few things nobody puts in the offer letter. Bryan and College Station are separate municipalities with separate utility providers, so set up service with the right one. Downtown Bryan's First Friday and the Brazos Valley Farmers Market are the easiest low-effort way to meet people outside your department. The Aggie Spirit bus system runs off-campus routes that some employees use to skip the campus parking question entirely. And game-day Saturdays reshape traffic across the whole city roughly seven times a fall — worth knowing before you schedule a moving truck.`,
+      },
+      {
+        type: 'p',
+        text: `If you have accepted a position at Texas A&M and are trying to figure out where in the Brazos Valley to land, I am glad to help you think it through — including the parts that are not a transaction, like which areas actually match your campus commute and whether renting first makes more sense for your situation. I know this market and the university calendar that drives it. Reach out anytime, and I will give you a straight answer.`,
+      },
+    ],
+    sources: [
+      {
+        label: `Texas A&M University — Work Life and Benefits, Jobs at Texas A&M`,
+        url: `https://jobs.tamu.edu/work-life-and-benefits.html`,
+      },
+      {
+        label: `AggieSearch — Texas A&M Off-Campus Housing Search`,
+        url: `https://aggiesearch.tamu.edu/`,
+      },
+      {
+        label: `Texas A&M University — Housing resources`,
+        url: `https://www.tamu.edu/campus-community/housing.html`,
+      },
+    ],
+  },
+  {
+    slug: 'small-multifamily-duplex-fourplex-investing-bryan-college-station',
+    title: 'Duplexes and Fourplexes in Bryan-College Station: How Small Multifamily Near Texas A&M Really Pencils Out',
+    category: 'Investing',
+    date: 'September 2026',
+    readTime: '7 min read',
+    excerpt:
+      'A practical look at buying a duplex, triplex, or fourplex in Bryan-College Station — where they are, how the Aggieland lease calendar drives the numbers, and the local costs new investors underestimate.',
+    metaDescription:
+      'Buying a duplex or fourplex in Bryan-College Station? A local look at small multifamily near Texas A&M: locations, lease-cycle timing, financing, and real costs.',
+    image: null,
+    content: [
+      {
+        type: 'p',
+        text: `Small multifamily is one of the oldest investment stories in Bryan-College Station. Long before the big purpose-built student towers went up along Holleman and University, the rental stock in this town was duplexes — thousands of them, built in waves through the 1970s, 80s, and 2000s, mostly in a ring around Texas A&M. They are still here, they still rent, and they still show up on the market every month. But a duplex or fourplex in College Station is a very different asset from a duplex in a normal Texas city, because almost everything about it is tied to one university's calendar.`,
+      },
+      {
+        type: 'p',
+        text: `Here is a practical, local walkthrough of how small multifamily actually works in the Brazos Valley: where the product is, how the Aggieland lease cycle drives your income, what financing looks like, and the costs first-time investors here consistently underestimate. Nothing below is a projection or a promise — every property underwrites differently, and you should run your own numbers with your lender and CPA.`,
+      },
+      { type: 'h2', text: 'Why demand exists here at all' },
+      {
+        type: 'p',
+        text: `The demand driver is not a mystery. Texas A&M's preliminary fall enrollment topped 81,000 across all locations, with more than 74,000 in College Station — an increase of more than 2,200 from the prior fall, according to WTAW's reporting on the university's early count. Only about a fifth of undergraduates live on campus, which means the overwhelming majority of students find housing somewhere in Bryan or College Station.`,
+      },
+      {
+        type: 'p',
+        text: `The other half of that story matters just as much for anyone underwriting a long hold. Texas A&M leadership has moved to pause or slow undergraduate enrollment growth at the College Station campus, citing crowding and infrastructure strain including housing. Read that carefully: it suggests demand is not disappearing, but it also means an investor should not underwrite on an assumption of endless enrollment growth. Historically, tenant demand here has been unusually steady through broader economic cycles because the university anchors it — but past patterns are not a guarantee of future results.`,
+      },
+      { type: 'h2', text: 'Where the small multifamily actually is in Bryan-College Station' },
+      {
+        type: 'p',
+        text: `The duplex and fourplex stock in the Brazos Valley clusters in identifiable pockets, and the pocket matters more than the pro forma spreadsheet. A few of the areas where this product concentrates:`,
+      },
+      {
+        type: 'ul',
+        items: [
+          `The Northgate and Eastgate side of College Station — older, closest to campus, walk-or-bike distance, generally the smallest units and the oldest systems.`,
+          `The Holleman Drive and Southwest Parkway corridor — heavy duplex density, well served by Aggie Spirit off-campus bus routes.`,
+          `Southwood Valley and the Welsh Avenue area — a mix of small multifamily and single-family rentals, with more parking and yard than the near-campus product.`,
+          `Central and south Bryan, including areas near Villa Maria and the Texas Avenue corridor — lower entry prices, a broader non-student tenant pool, longer commutes to campus.`,
+          `The Highway 47 and RELLIS corridor in Bryan — newer construction, more workforce and graduate-student demand than undergraduate.`,
+        ],
+      },
+      {
+        type: 'p',
+        text: `The trade-off is consistent across those areas: proximity to Texas A&M generally supports higher per-bedroom rent but costs more per door up front, while Bryan product typically buys cheaper with a tenant base that is less tied to the academic calendar. One published comparison of the two markets put gross yields in the rough neighborhood of 5.8 percent in Bryan versus 6.4 percent in College Station — useful as a directional illustration, not as a number to underwrite from. Your actual figures depend entirely on the specific building, its condition, and its rent roll.`,
+      },
+      { type: 'h2', text: 'The lease calendar is the whole ballgame' },
+      {
+        type: 'p',
+        text: `In most rental markets, a lease can start any month. In College Station, the student-oriented market runs on an August-to-July cycle, and pre-leasing for the following August often begins in the fall — a full year ahead. That single fact reshapes how you buy.`,
+      },
+      {
+        type: 'p',
+        text: `If you close on a duplex in March, you are usually inheriting leases that run through July and stepping into a pre-leasing season that has already largely happened. If you close in May or June on a building that has not been pre-leased, you may be looking at a scramble to fill units before the wave passes, and a unit that misses August can sit. Ask for the rent roll, the actual signed leases, and the pre-lease status for next year before you write an offer — not after the option period starts.`,
+      },
+      {
+        type: 'ul',
+        items: [
+          `Get the full rent roll with lease start and end dates, not just a monthly income figure.`,
+          `Ask whether leases are by-the-bed or by-the-unit — it changes your vacancy exposure and your turnover work completely.`,
+          `Ask about parental guarantees, which are common in this market and materially affect collections.`,
+          `Confirm whether utilities are tenant-paid or owner-paid, and get twelve months of actual bills.`,
+          `Budget for a real turnover every single summer on student units — paint, carpet or flooring, and a deep clean in a compressed window when every vendor in Brazos County is busy.`,
+        ],
+      },
+      { type: 'h2', text: 'Local rules and costs people underestimate' },
+      {
+        type: 'p',
+        text: `College Station enforces occupancy limits on dwelling units in most residential zoning, which restricts the number of unrelated occupants per unit. That rule is applied per dwelling unit, so a fourplex is not a workaround for cramming a single house — each side or unit stands on its own. Verify the specific zoning and occupancy status of any property with the City of College Station before you underwrite the bedroom count, and confirm parking requirements while you are at it.`,
+      },
+      {
+        type: 'p',
+        text: `On the cost side, the items that surprise new Brazos Valley investors are usually these: property taxes, which in Texas run high and do not carry a homestead exemption on an investment property; insurance, which has risen sharply statewide; and foundation and drainage work, because our expansive clay soils are hard on slabs and older duplexes here often show it. Financing is its own conversation — one-to-four unit properties can qualify for residential financing, but investment-property loans typically require larger down payments and carry different terms than an owner-occupied loan. Five units and up moves into commercial lending entirely.`,
+      },
+      { type: 'h2', text: 'Self-managing versus hiring a manager' },
+      {
+        type: 'p',
+        text: `Bryan-College Station has a deep bench of local property management companies, most of them fluent in the student lease cycle, and management fees are a real line item you should put in the model from day one rather than discovering later. Self-managing is genuinely feasible if you live here and own one or two buildings. It is much harder from Houston or Dallas, especially in August, when turnover, move-ins, and maintenance calls all land in the same two weeks.`,
+      },
+      {
+        type: 'p',
+        text: `Whichever route you pick, decide before you buy. The management plan changes your net numbers by enough that a deal which works one way may not work the other.`,
+      },
+      {
+        type: 'p',
+        text: `If you are weighing a duplex or fourplex somewhere in Bryan-College Station and want an honest read on the rent roll, the neighborhood, and what the building is likely to need in the next five years, I am happy to walk it with you and pull real local comps. I have spent my career in this market and I would rather help you pass on a bad building than sell you one. Reach out anytime.`,
+      },
+    ],
+    sources: [
+      {
+        label: `WTAW — Preliminary Fall Enrollment Numbers At Texas A&M`,
+        url: `https://wtaw.com/preliminary-fall-enrollment-numbers-at-texas-am/`,
+      },
+      {
+        label: `Houston Chronicle — Texas A&M to pause undergraduate enrollment growth in College Station`,
+        url: `https://www.houstonchronicle.com/news/houston-texas/education/article/texas-a-m-pause-enrollment-growth-college-station-20053886.php`,
+      },
+      {
+        label: `The Battalion — A&M to limit undergraduate enrollment growth, implement campus-wide development plans`,
+        url: `https://thebatt.com/news/am-to-limit-undergraduate-enrollment-growth-implement-development-plans-across-campus/`,
+      },
+    ],
+  },
+  {
+    slug: 'brazos-county-property-tax-protest-guide-bryan-college-station',
+    title: 'Protesting Your Brazos County Appraisal: A Bryan-College Station Homeowner’s Guide to the May 15 Deadline',
+    category: 'Seller Tips',
+    date: 'August 31, 2026',
+    readTime: '7 min read',
+    excerpt:
+      'Your Brazos CAD notice of appraised value is not a final number. Here is how the protest process actually works in Bryan-College Station — the dates, the evidence that moves the needle, and why it matters when you eventually sell.',
+    metaDescription:
+      'How to protest your Brazos County property appraisal: Brazos CAD deadlines, informal vs. ARB hearings, and what evidence works for Bryan-College Station homeowners.',
+    image: null,
+    content: [
+      {
+        type: 'p',
+        text: `Every spring, an envelope from the Brazos Central Appraisal District lands in mailboxes across Bryan-College Station and gets treated like a bill. It is not a bill. It is an opinion of value, produced by a mass-appraisal model that has never walked through your house, and Texas law gives you a specific, free process for disagreeing with it. A surprising number of Brazos County homeowners never use that process — and then carry the higher number forward for years, because next year's value is built on top of this year's.`,
+      },
+      {
+        type: 'p',
+        text: `This is a plain-English walkthrough of how the protest works here in Brazos County: the dates, the two kinds of hearings, the evidence that actually tends to move an appraiser, and the connection between your appraised value and what happens when you eventually sell. None of this is legal or tax advice — it is the practical version I end up explaining to clients most springs.`,
+      },
+      { type: 'h2', text: 'The Brazos County calendar you need to know' },
+      {
+        type: 'p',
+        text: `Brazos CAD mails notices of appraised value in the spring, and the protest deadline is May 15 or 30 days from the date the notice was mailed, whichever is later. Brazos CAD has run informal meetings on a first-come, first-served basis starting in late April and continuing through the deadline, with formal Appraisal Review Board hearings beginning shortly after. The district's own site publishes the current year's dates, and they are worth checking rather than assuming.`,
+      },
+      {
+        type: 'ul',
+        items: [
+          `Notices mail in spring — read yours the day it arrives instead of setting it aside.`,
+          `File the protest by May 15 (or 30 days after the notice was mailed, if that is later). You can file online through the Brazos CAD portal.`,
+          `Informal meetings with an appraiser typically run from late April through the deadline.`,
+          `Formal ARB hearings follow in the weeks after. Most Brazos County homeowners never get this far, because the informal resolves it.`,
+        ],
+      },
+      {
+        type: 'p',
+        text: `The single most common mistake I see in Bryan-College Station is a missed deadline, not a lost argument. Filing costs nothing and takes a few minutes. Under Texas Tax Code Section 41.43, the ARB cannot raise your value because you filed a protest — the worst realistic outcome is that the number stays where it was.`,
+      },
+      { type: 'h2', text: 'Informal meeting vs. ARB hearing: what actually happens' },
+      {
+        type: 'p',
+        text: `The informal is a conversation with a staff appraiser. You show what you have, they show what they have, and they may offer a settlement value on the spot. If you accept, you are done — no hearing, no board. Most protests in Texas end here, and it is by far the lowest-friction path for a working homeowner.`,
+      },
+      {
+        type: 'p',
+        text: `If you do not reach agreement, your protest goes to the Appraisal Review Board — a panel of local citizens, not appraisal district employees. It is more formal: you present evidence, the district presents its evidence, and the panel decides. You are entitled to the district's evidence packet before the hearing, and you should request it. Knowing which comparable sales the district leaned on is most of the battle.`,
+      },
+      { type: 'h2', text: 'What evidence works in a Bryan-College Station protest' },
+      {
+        type: 'p',
+        text: `The two arguments available to you are market value (the district's number is higher than what your home would actually sell for) and unequal appraisal (your home is valued higher than comparable properties in your neighborhood). Around here, the second one is often the easier win, because Brazos County has so many subdivisions built in tight phases — Southwood Valley, Castlegate, the Greens Prairie corridor, the newer sections off Highway 47 near RELLIS — where near-identical floor plans sit side by side. If three homes on your street with the same builder plan are appraised meaningfully lower than yours, that is a clean, factual argument.`,
+      },
+      {
+        type: 'ul',
+        items: [
+          `Recent comparable sales from your own subdivision, ideally closed near January 1 of the tax year. A local agent can pull these for you.`,
+          `Photographs and contractor bids for real condition issues: foundation movement, roof age, drainage problems, dated systems. Brazos County's expansive clay soils make foundation and drainage evidence particularly relevant here.`,
+          `Errors in the district's property record — wrong square footage, a garage conversion counted twice, a pool that does not exist, an incorrect year built. Pull your property record card from the Brazos CAD site and read it line by line.`,
+          `Neighborhood-specific factors: backing to Wellborn Road or Highway 6, an easement, a drainage way, or a lot that floods where neighbors do not.`,
+          `An equity comparison showing per-square-foot appraised values for similar nearby homes.`,
+        ],
+      },
+      {
+        type: 'p',
+        text: `What does not work: telling the district you cannot afford the taxes, comparing yourself to a neighbor in a different subdivision, or citing an asking price rather than a closed sale. The process is about value, and value arguments need closed, comparable, local data.`,
+      },
+      { type: 'h2', text: 'Why this matters when you sell your Brazos Valley home' },
+      {
+        type: 'p',
+        text: `Appraised value and market value are different animals, and buyers know it — a low appraised value does not lower what your home is worth on the open market. But the tax number shows up in the transaction in two concrete ways.`,
+      },
+      {
+        type: 'p',
+        text: `First, your annual tax bill is one of the numbers a buyer's lender uses to qualify them. In a market where Bryan-College Station buyers are already stretching on payment, an inflated tax estimate can shrink your buyer pool. Second, taxes are prorated at closing, so an appraised value you never challenged follows you right into the settlement statement. And because the 10% homestead cap limits how fast your appraised value can climb but is calculated off the prior year, an unchallenged high number compounds year after year rather than resetting.`,
+      },
+      {
+        type: 'p',
+        text: `Also worth confirming while you are in the file: that your homestead exemption is actually on the property. The mandatory school district homestead exemption in Texas rose to $140,000, with an additional amount for homeowners 65 and older or disabled. Exemptions are not automatic on a home you bought recently — plenty of Brazos County owners find out at closing that theirs was never filed.`,
+      },
+      { type: 'h2', text: 'Doing it yourself vs. hiring it out' },
+      {
+        type: 'p',
+        text: `You can file and argue a residential protest yourself, and many Bryan-College Station homeowners do. The time cost is real but modest: an hour to gather evidence, and a short informal meeting. The alternative is a property tax consultant who works on contingency, typically taking a percentage of the first-year savings. That can make sense for a complex property, a commercial parcel, or an owner who simply will not get to it before May 15. For a straightforward single-family home in a subdivision with plenty of comps, the do-it-yourself route is very manageable.`,
+      },
+      {
+        type: 'p',
+        text: `Either way, the deadline is the deadline. Protest outcomes vary and nothing here guarantees a reduction — but a protest you never file has a guaranteed outcome, and it is not the one you want.`,
+      },
+      {
+        type: 'p',
+        text: `If you are a Brazos Valley homeowner trying to figure out whether your appraised value is out of line, I am glad to pull recent closed sales from your specific subdivision so you have real local comps in hand before you meet with the district. And if that conversation turns into a broader one about what your home would bring on the market today, we can look at that too. Reach out anytime.`,
+      },
+    ],
+    sources: [
+      {
+        label: `Brazos Central Appraisal District — Notice of Appraised Value and Protest Deadline`,
+        url: `https://brazoscad.org/notice-of-appraised-value-to-hit-mail-soon-protest-deadline-may-15th/`,
+      },
+      {
+        label: `Brazos Central Appraisal District — Appraisal Review Board`,
+        url: `https://brazoscad.org/arb/`,
+      },
+      {
+        label: `KBTX — Property tax protest deadline is Friday`,
+        url: `https://www.kbtx.com/2026/05/13/property-tax-protest-deadline-is-friday/`,
+      },
+    ],
+  },
+  {
+    slug: 'bryan-college-station-inventory-shift-market-update-late-2026',
+    title: 'The Inventory Shift in Bryan-College Station: What More Listings and Slower Sales Mean Heading Into Late 2026',
+    category: 'Market Update',
+    date: 'August 26, 2026',
+    readTime: '7 min read',
+    excerpt:
+      'Active listings in the College Station-Bryan market are up sharply year over year while closed sales have slipped. Here is what that combination actually means for a Brazos Valley buyer or seller this fall — in plain numbers, with sources.',
+    metaDescription:
+      'A late-2026 Bryan-College Station market update: rising inventory, slower closed sales, longer days on market, and what the shift means for Brazos Valley buyers and sellers.',
+    image: null,
+    content: [
+      {
+        type: 'p',
+        text: `If you have been half-watching the Bryan-College Station housing market this year, you have probably picked up two contradictory signals: friends telling you houses are sitting, and headlines telling you Texas prices are basically flat. Both are true at once, and the reason is inventory. The number of homes actively for sale in the College Station-Bryan market has climbed hard over the past twelve months while the number of homes actually closing has drifted down. That gap — more supply, fewer sales — is the single most important thing happening in Brazos Valley real estate right now, and it changes what a smart move looks like for both sides of the table.`,
+      },
+      {
+        type: 'p',
+        text: `This post is a plain-English read on that shift, using local data rather than national talking points. Every figure below is sourced, and where the sources disagree — and in this market they do — I say so.`,
+      },
+      { type: 'h2', text: 'What the Bryan-College Station numbers actually show' },
+      {
+        type: 'p',
+        text: `Reporting on the local market this summer described a June 2026 that had roughly 26% more active listings than June 2025, with closed sales volume down about 12% over the same stretch. Other summaries of the College Station-Bryan MSA put the active-listing increase even higher. Statewide, the Texas Real Estate Research Center at Texas A&M had Texas sitting near a 5.4-month supply of inventory in June — historically the range people describe as a balanced market rather than a seller's market.`,
+      },
+      {
+        type: 'p',
+        text: `Days on market tell the same story from a different angle. Depending on which portal you check, Bryan homes in mid-2026 were spending somewhere between roughly 44 and 92 days from list to contract or close. That spread is wide because each site measures a different thing — days to pending versus days to closing, all property types versus single-family only, city limits versus the whole MSA. The takeaway is not the exact number. It is the direction: every one of those measures is longer than it was a year ago.`,
+      },
+      {
+        type: 'p',
+        text: `Prices, meanwhile, have been the least dramatic part of the picture. Value estimates for Bryan have moved roughly a percentage point or so year over year — essentially flat in nominal terms. In a market with this much added supply, flat prices are the market absorbing pressure through time on market and negotiation rather than through headline price cuts.`,
+      },
+      { type: 'h2', text: 'Why the Brazos Valley behaves differently than the rest of Texas' },
+      {
+        type: 'p',
+        text: `Two local forces make Bryan-College Station its own animal. The first is Texas A&M. A large share of demand here is tied to an academic calendar, which compresses buying and leasing decisions into spring and early summer and thins them out in the fall. That seasonality is much sharper here than in Houston or Dallas.`,
+      },
+      {
+        type: 'p',
+        text: `The second is new construction. The growth corridors — Castlegate and the Greens Prairie area on the south side, the Highway 47 and RELLIS side of Bryan, the stretch north along Highway 6 — have added rooftops steadily. New inventory does not wait for the resale market to be ready. When builders keep delivering into a slower-selling season, the effect on active listing counts is immediate, and resale sellers end up competing with incentive packages, rate buydowns, and move-in-ready finishes.`,
+      },
+      { type: 'h2', text: 'What this means if you are buying in College Station or Bryan' },
+      {
+        type: 'p',
+        text: `The practical change is leverage. In 2021 and 2022, a Brazos Valley buyer was often choosing between waiving things. In late 2026, a buyer with a clean pre-approval and reasonable timing has room to ask for things again. Specifically:`,
+      },
+      {
+        type: 'ul',
+        items: [
+          `A real option period instead of a token one. Longer market times mean sellers are far less likely to balk at 7 to 10 days for inspections, which matters here given local foundation and drainage considerations.`,
+          `Seller-paid closing costs or a rate buydown. With more competing listings, contributions toward your costs are frequently a more achievable ask than an equivalent price reduction.`,
+          `Time to compare resale against new construction. Ask the builder what the incentive is worth in dollars, then compare that to what the same money buys you in an established neighborhood with mature trees and a known tax picture.`,
+          `Attention to days on market. A listing that has been active 60-plus days is a very different negotiation than one that came on last Thursday. Ask for the full listing history, including any prior expirations or price changes.`,
+        ],
+      },
+      {
+        type: 'p',
+        text: `One caution: more inventory does not mean every price point is soft. Well-priced, well-maintained homes in established areas with short commutes to campus still move quickly. The slowdown is concentrated in overpriced listings and in segments with heavy new-build competition.`,
+      },
+      { type: 'h2', text: 'What this means if you are selling in the Brazos Valley this fall' },
+      {
+        type: 'p',
+        text: `Pricing is doing almost all of the work right now. When buyers have visibly more options, the first two weeks on market are your real marketing campaign — after that, showing traffic falls off and the conversation shifts from price to concessions. Sellers who list at last year's number and plan to reduce later typically end up chasing the market down and netting less than sellers who priced correctly on day one.`,
+      },
+      {
+        type: 'p',
+        text: `Presentation matters more than it did too. With this many comparable options a buyer can tour in a single Saturday, deferred maintenance is no longer something a buyer overlooks to win a bidding war. A pre-listing inspection, addressing obvious repair items, and honest photography tend to pay for themselves in this kind of market. And if your timeline is flexible, remember the local calendar — spring, when Texas A&M families and relocating staff are house-hunting, has historically been the deeper buyer pool in this market.`,
+      },
+      { type: 'h2', text: 'How to read the next few months' },
+      {
+        type: 'p',
+        text: `If you want to follow the Bryan-College Station market yourself rather than take anyone's word for it, watch three things: months of inventory for the College Station-Bryan MSA, median days on market, and the ratio of closed sales to new listings. The Texas Real Estate Research Center publishes local housing activity data for the MSA and for Bryan specifically, and it is free. When months of inventory starts falling again and closed sales catch up to new listings, the leverage begins moving back toward sellers.`,
+      },
+      {
+        type: 'p',
+        text: `Market conditions are not guarantees, and none of the above predicts what any individual home will sell for. What local data can do is tell you which questions to ask and where you have room to negotiate.`,
+      },
+      {
+        type: 'p',
+        text: `If you are weighing a move in College Station, Bryan, or anywhere in the Brazos Valley this fall, I am happy to walk through the numbers for your specific neighborhood and price point — what has actually sold, what is sitting, and what that means for your timing. Reach out and we will look at it together.`,
+      },
+    ],
+    sources: [
+      {
+        label: `Texas Real Estate Research Center — College Station-Bryan Housing Activity`,
+        url: `https://trerc.tamu.edu/housing-activity-data/msa/college-station-bryan/`,
+      },
+      {
+        label: `KBTX — What has changed in the Bryan-College Station housing market (July 2026)`,
+        url: `https://www.kbtx.com/2026/07/31/heres-what-has-changed-bryan-college-station-housing-market/`,
+      },
+      {
+        label: `Texas Real Estate Research Center — Texas Housing Insight, August 2026`,
+        url: `https://trerc.tamu.edu/reports/texas-housing-insight-august-2026/`,
+      },
+    ],
+  },
+  {
+    slug: 'fall-weekends-brazos-valley-first-friday-farmers-market-day-trips',
+    title: 'Fall Weekends in the Brazos Valley: First Friday, the Farmers Market, and Day Trips Within an Hour of College Station',
+    category: 'Local Guide',
+    date: 'August 25, 2026',
+    readTime: '8 min read',
+    excerpt:
+      'Once the heat finally breaks, the Brazos Valley opens up. Here is a practical guide to First Friday in Downtown Bryan, the Saturday farmers market, and the short drives — Washington-on-the-Brazos, Independence, Lake Somerville, Brenham — that make fall weekends here worth staying home for.',
+    metaDescription:
+      'A local guide to fall weekends in the Brazos Valley: First Friday in Downtown Bryan, the Saturday farmers market, and day trips within an hour of College Station.',
+    image: null,
+    content: [
+      {
+        type: 'p',
+        text: `Ask anyone who has lived in the Brazos Valley through a full year and they will tell you the same thing: fall is when this place earns its keep. The August heat that makes you question your life choices finally lets go sometime in October, and what is left is a stretch of weekends that are genuinely pleasant — football Saturdays, open-window evenings, and a countryside within an hour of College Station that is a lot more interesting than the drive down Highway 6 suggests. If you have just moved to Aggieland, or you have lived here a while and default to the same three restaurants, this is a guide to the fall weekend rhythm that locals actually keep.`,
+      },
+      {
+        type: 'p',
+        text: `None of this requires a plane ticket or a hotel. Everything below is inside a comfortable radius of Bryan-College Station, and most of it is free or close to it.`,
+      },
+      { type: 'h2', text: 'Friday night: First Friday in Downtown Bryan' },
+      {
+        type: 'p',
+        text: `On the first Friday of every month, Downtown Bryan closes down and turns into a street festival. It runs roughly from late afternoon into the night — the published window is 4 p.m. to 11 p.m., with the vendor booths and live music generally hitting their stride between 5 and 10 p.m. Main Street fills with artists, makers, food trucks, and vendors from The Farmers' Market in Brazos County, and the shops and restaurants along the strip stay open late.`,
+      },
+      {
+        type: 'p',
+        text: `A few practical notes if you have never gone. Parking gets tight after about six o'clock, so the surface lots a block or two off Main — around Bryan and 26th — are usually a better bet than circling. The Palace Theater marquee is the landmark most people use to orient themselves. And it is a walking event: the sidewalks between roughly 24th and 27th on Main are where most of it happens, so wear shoes you can stand in for a couple of hours.`,
+      },
+      {
+        type: 'p',
+        text: `First Friday is also, quietly, one of the best ways to get a feel for the Historic Downtown Bryan area if you are house-hunting. You will see who is out, what is open, what is under renovation, and how the district actually functions on a busy night — information you will never get from a Tuesday afternoon showing.`,
+      },
+      { type: 'h2', text: 'Saturday morning: the farmers market and the campus lull' },
+      {
+        type: 'p',
+        text: `The Farmers' Market in Brazos County runs Saturday mornings, rain or shine, from 8 a.m. to noon at Travis Bryan Midtown Park. Fall is the good season here — the summer tomato-and-peach rush gives way to greens, sweet potatoes, citrus coming up from South Texas, pecans from local orchards, and a lot more baked goods and prepared food than you get in July. Go early if you want the produce; go at ten if you mostly want coffee, kolaches, and a slow walk.`,
+      },
+      {
+        type: 'p',
+        text: `A tip that experienced locals will confirm: on home football Saturdays, plan your morning around kickoff, not the clock. A late-morning or noon kick turns the entire Wellborn Road and George Bush Drive corridor into a parking problem by mid-morning, while a 6 p.m. or 7 p.m. kick leaves you a wide-open morning to run errands anywhere in town. Checking the Texas A&M football schedule before you plan a Saturday is not overkill in this town — it is basic logistics.`,
+      },
+      { type: 'h2', text: 'Day trips within an hour of College Station' },
+      {
+        type: 'p',
+        text: `This is the part newcomers consistently underrate. Bryan-College Station sits in the middle of a genuinely scenic stretch of Texas, and the drives themselves — FM 50 north toward Independence, OSR heading west, FM 60 out to Somerville — are two-lane farmland roads with almost no traffic. A short list worth working through this fall:`,
+      },
+      {
+        type: 'ul',
+        items: [
+          `Washington-on-the-Brazos State Historic Site (about 30 minutes southeast) — the site where the Texas Declaration of Independence was signed. Independence Hall, the Star of the Republic Museum, and the Barrington Living History Farm sit on a large riverside park with hiking trails and picnic grounds. Easily a half day, and a genuinely good stop when family visits.`,
+          `Lake Somerville State Park & Trailway (about 45 minutes west) — the closest real lake. Boating, bass fishing, kayaking, camping, and a long trailway connecting the Birch Creek and Nails Creek units. Fall is comfortable hiking weather here in a way that June absolutely is not.`,
+          `Brenham (about 45 minutes southeast) — the Blue Bell Creamery visitor center is the obvious draw, but the downtown square, antique shops, and surrounding back roads are the real reason to make the drive.`,
+          `Independence (about 30 minutes northwest) — a tiny historic community with the Old Baylor ruins and the Antique Rose Emporium nearby. A short, low-key drive that pairs well with a late lunch in Brenham.`,
+          `Millican Reserve and the Navasota River bottoms (about 25 minutes south) — trails and open country much closer to town than most people realize, straight down Highway 6.`,
+        ],
+      },
+      {
+        type: 'p',
+        text: `Two of these can be strung together in a single day. Washington-on-the-Brazos and Brenham are a natural pair; so are Independence and the rose gardens. Fill the tank before you head out — service stations thin out quickly once you are past the county line.`,
+      },
+      { type: 'h2', text: 'Staying in town: the Brazos Valley fall calendar' },
+      {
+        type: 'p',
+        text: `If you would rather not drive, the fall calendar in Bryan-College Station fills in fast. Wolf Pen Creek Amphitheater hosts outdoor events once the evenings cool off. Lake Bryan on the north side of town is the closest place to get on the water without leaving Brazos County. Century Square in College Station runs regular outdoor programming on the green, and the Bush Library grounds on West Campus are one of the more underused walking spots in town — the surrounding trails and pond loop are open to the public regardless of whether you go into the museum.`,
+      },
+      {
+        type: 'p',
+        text: `And if you are new to the area and trying to figure out where you fit, this kind of weekend wandering is worth more than it sounds. Spending a Friday night in Downtown Bryan, a Saturday morning in Midtown, and an afternoon driving FM 50 will teach you more about how the Brazos Valley is laid out — and which part of it you actually want to live in — than any amount of scrolling listings.`,
+      },
+      { type: 'h2', text: 'Using your weekends to scout the market' },
+      {
+        type: 'p',
+        text: `Buyers who move here from a larger metro often assume Bryan-College Station is one undifferentiated place. It is not. Downtown Bryan, Midtown, Southwood, Castlegate, Wellborn, and the Highway 47 corridor near RELLIS each have a different price range, a different commute to campus or to the hospitals, and a different mix of housing stock and age. Driving them on a Saturday, when people are out and traffic is normal, tells you things a weekday tour will not.`,
+      },
+      {
+        type: 'p',
+        text: `If you are heading into a fall or winter home search here, I am happy to help you turn that casual scouting into a real short list — what each area typically runs, how the commute actually works from there, and what to watch for in the housing stock. Reach out anytime and we will start with a conversation about what your weekends need to look like, and work backward to the map.`,
+      },
+    ],
+    sources: [
+      {
+        label: `Destination Bryan — First Friday in Bryan, TX`,
+        url: `https://www.destinationbryan.com/firstfriday/`,
+      },
+      {
+        label: `The Farmers' Market in Brazos County`,
+        url: `https://tfmibc.com/`,
+      },
+      {
+        label: `Texas Parks & Wildlife — Lake Somerville State Park & Trailway`,
+        url: `https://tpwd.texas.gov/state-parks/lake-somerville`,
+      },
+      {
+        label: `Texas Parks & Wildlife — Washington-on-the-Brazos State Historic Site`,
+        url: `https://tpwd.texas.gov/state-parks/washington-on-the-brazos`,
+      },
+    ],
+  },
+  {
+    slug: 'flood-zones-floodplain-buying-home-bryan-college-station',
+    title: 'Flood Zones in Bryan-College Station: What Buyers Should Check Before They Fall in Love With a House',
+    category: 'Buyer Tips',
+    date: 'August 24, 2026',
+    readTime: '8 min read',
+    excerpt:
+      'Carters Creek, Bee Creek, Wolf Pen Creek, and Burton Creek shape more of the Bryan-College Station map than most buyers realize. Here is how to check a property flood zone, what Texas sellers must now disclose, and the questions worth asking before the option period runs out.',
+    metaDescription:
+      'A practical guide to flood zones and floodplains when buying a home in Bryan-College Station, TX: how to check FEMA maps, Texas flood disclosure rules, and what to verify.',
+    image: null,
+    content: [
+      {
+        type: 'p',
+        text: `Bryan-College Station is not a coastal market, and that fact lulls a lot of buyers into skipping the flood question entirely. It should not. The Brazos Valley sits in a part of Texas that can take a very large amount of rain in a very short window, and the creek system that drains this area — Carters Creek, Bee Creek, Wolf Pen Creek, Burton Creek, and the Navasota and Brazos rivers on either side of the county — runs through and behind more established neighborhoods than most people expect. Flood zones in Bryan-College Station are a real line item in a purchase, and they are one of the easier things to get wrong late, when you are already emotionally committed to a house.`,
+      },
+      {
+        type: 'p',
+        text: `The good news is that this is a checkable question, not a guessing game. Both cities publish floodplain information, the federal maps are public, and Texas law now requires sellers to answer a fairly detailed set of flood questions in writing. Here is how to work through it in the order that actually protects you.`,
+      },
+      { type: 'h2', text: 'Understand what the FEMA maps for Brazos County actually say' },
+      {
+        type: 'p',
+        text: `Flood risk in Brazos County is mapped on FEMA Flood Insurance Rate Maps, usually shortened to FIRMs. These are the maps lenders and insurers use to decide whether flood insurance is required and what it costs. The current effective FIRM panels for Brazos County and its incorporated areas carry an effective date of May 9, 2014, and that update folded in revised engineering studies for Carters Creek and Bee Creek along with the Bee Creek channelization work.`,
+      },
+      {
+        type: 'p',
+        text: `A few terms you will run into, and what they mean in plain English:`,
+      },
+      {
+        type: 'ul',
+        items: [
+          `Special Flood Hazard Area (SFHA) — the high-risk zone, commonly labeled A or AE on the map. If any structure sits here and you have a federally backed mortgage, flood insurance is generally mandatory, not optional.`,
+          `100-year floodplain — shorthand for an area with roughly a one percent chance of flooding in any given year. Over a thirty-year loan, that adds up to a meaningfully higher cumulative chance than the name suggests.`,
+          `500-year floodplain — roughly a 0.2 percent annual chance. Usually shown as Zone X shaded. Insurance is typically not required here, but it is often inexpensive, and plenty of Texas homes that flooded in recent decades were outside the 100-year line.`,
+          `Base Flood Elevation (BFE) — the modeled water surface elevation for the 100-year event. What matters for insurance pricing is how your finished floor sits relative to that number, which is documented on an Elevation Certificate.`,
+        ],
+      },
+      {
+        type: 'p',
+        text: `One important nuance: the mapped line follows terrain, not lot lines. It is entirely normal in this market for the back third of a lot along a creek to sit in an SFHA while the house itself sits well above it. That is a different situation from a house whose slab is in the zone, and the difference shows up directly in your insurance quote.`,
+      },
+      { type: 'h2', text: 'Where the creeks run in Bryan and College Station' },
+      {
+        type: 'p',
+        text: `You do not need to memorize the drainage system, but it helps to know the names so you recognize them on a plat or a survey. Carters Creek is the major drainage corridor running southeast through the middle of the area toward the Navasota River, and Burton Creek, Wolf Pen Creek, Bee Creek, and Lick Creek all feed into that system. Wolf Pen Creek in particular runs right through the Harvey Road corridor near Post Oak Mall, and the city built a park and amphitheater district around it — a good reminder that in this market, greenbelt and drainage way are frequently the same piece of ground.`,
+      },
+      {
+        type: 'p',
+        text: `Practically, that means older and mid-century neighborhoods with attractive wooded backyards deserve a closer look, not a lighter one. A creek behind the fence is a genuine amenity. It is also a hydrologic feature with a mapped floodplain, and both things can be true at once.`,
+      },
+      { type: 'h2', text: 'Use the free city tools before you write an offer' },
+      {
+        type: 'p',
+        text: `Both cities will help you with this at no cost, and very few buyers take them up on it.`,
+      },
+      {
+        type: 'ul',
+        items: [
+          `City of College Station — Planning and Development Services maintains floodplain information, and physical FIRM copies are available for review at the Planning and Development Services office and at Larry J. Ringer Library.`,
+          `City of Bryan — the Engineering Department at the Municipal Building, 300 S. Texas Avenue, provides property flood-zone determinations relative to FEMA Special Flood Hazard Areas and the 100-year floodplain free of charge, and FIRMs are also kept at the Bryan Public Library.`,
+          `FEMA Flood Map Service Center — the national map viewer, searchable by address, useful for a first-pass answer in about two minutes.`,
+          `The Bryan/College Station Unified Design Guidelines site, which publishes the local FEMA map information the two cities share.`,
+        ],
+      },
+      {
+        type: 'p',
+        text: `Do this before the option period, if you can. A determination that takes a phone call is a poor reason to burn three days of a ten-day window.`,
+      },
+      { type: 'h2', text: 'Read the Texas Seller Disclosure flood section carefully' },
+      {
+        type: 'p',
+        text: `Texas tightened its flood disclosure requirements after Hurricane Harvey. Legislation effective September 1, 2019 expanded the Seller Disclosure Notice so that a seller must address, among other items, whether the property is located wholly or partly in a 100-year floodplain, whether it is in a 500-year floodplain, whether it sits in a flood pool or reservoir or within five miles downstream of a reservoir, whether it has previously flooded, and whether the seller has filed a flood insurance claim or received federal assistance for flood damage. The form is also required to include definitions of those terms so buyers are not left decoding jargon.`,
+      },
+      {
+        type: 'p',
+        text: `Two things to take from that. First, the disclosure is a real source of information, not boilerplate — read the flood block line by line, and treat a blank or an "unknown" as a question rather than a no. Second, the statute gives buyers remedies: if the required disclosure is not delivered before the contract is signed, a buyer generally has a window to terminate after receiving it, and a seller with actual knowledge who fails to disclose can face a misrepresentation claim. That is a legal question for an attorney, not for your agent, but knowing the protection exists changes how seriously you should treat the form.`,
+      },
+      { type: 'h2', text: 'The practical checklist during your option period' },
+      {
+        type: 'ul',
+        items: [
+          `Pull the flood zone for the specific address and, if it is anywhere near a mapped line, ask whether the structure or only part of the lot is affected.`,
+          `Get an actual flood insurance quote rather than an estimate. Since FEMA moved to Risk Rating 2.0, premiums are priced on property-specific characteristics, so the zone label alone will not tell you your number.`,
+          `Ask the seller for an Elevation Certificate. If one exists, it can meaningfully affect pricing and it saves you paying for a new survey.`,
+          `Ask the seller directly about drainage history — where water stands after a heavy rain, whether the street ponds, whether the yard drains toward or away from the slab.`,
+          `Look at the lot with your inspector for grading that slopes toward the foundation, downspouts that dump next to the slab, and any French drain or sump that suggests a past problem someone already tried to solve.`,
+          `If the home is in a subdivision with detention ponds, ask who maintains them — the HOA, a MUD, or the city — because deferred maintenance on drainage infrastructure eventually becomes somebody's assessment.`,
+        ],
+      },
+      { type: 'h2', text: 'What a flood zone does and does not mean for value' },
+      {
+        type: 'p',
+        text: `Being in or near a mapped floodplain is not automatically a reason to walk away. Plenty of well-located Bryan-College Station homes sit adjacent to mapped areas and hold their appeal precisely because of the open space behind them. What it does mean is that you are taking on a carrying cost and a disclosure obligation you will inherit when you eventually sell. Both are manageable when you price them in on the front end, and both are unpleasant surprises when you do not. Historically, buyers who priced the insurance before closing rather than after have had far fewer regrets — but no one can promise you what any individual property will do, and you should base your decision on your own quotes and your own risk tolerance.`,
+      },
+      {
+        type: 'p',
+        text: `If you are shopping Bryan-College Station and want someone who knows which corridors to check twice, Rick is happy to pull the flood-zone information on a specific address and walk the drainage with you before you commit. Reach out and he will help you get a clear answer early, while you still have every option open.`,
+      },
+    ],
+    sources: [
+      {
+        label: `City of College Station — Floodplains`,
+        url: `https://www.cstx.gov/business-development/engineering/floodplains/`,
+      },
+      {
+        label: `City of Bryan — Flooding and Floodplain Information`,
+        url: `https://www.bryantx.gov/engineering-services/flooding/`,
+      },
+      {
+        label: `Bryan/College Station Unified Design Guidelines — FEMA Flood Maps for Bryan, College Station and Brazos County`,
+        url: `https://www.bcsunited.net/fema/`,
+      },
+      {
+        label: `Texas Tribune — Texas will require homeowners to disclose more flood risks to buyers`,
+        url: `https://www.texastribune.org/2019/08/22/texas-law-requires-buyers-to-disclose-flood-risks/`,
+      },
+    ],
+  },
+  {
+    slug: 'neighborhood-spotlight-wellborn-college-station',
+    title: 'Neighborhood Spotlight: Wellborn in College Station, TX',
+    category: 'Neighborhood Spotlight',
+    date: 'August 23, 2026',
+    readTime: '7 min read',
+    excerpt:
+      'Wellborn is the oldest community inside College Station and still the least suburban part of it — bigger lots, its own zoning districts, and a highway widening that will reshape the corridor. Here is what buyers should understand before shopping there.',
+    metaDescription:
+      'A factual guide to the Wellborn neighborhood in College Station, TX: location, lot sizes, Wellborn District zoning, FM 2154 widening, commutes, and what buyers should check.',
+    image: null,
+    content: [
+      {
+        type: 'p',
+        text: `Most of College Station reads as a modern university town: master-planned subdivisions, wide arterials, and rooftops that arrived in the last twenty-five years. Wellborn does not read that way. It sits at the southwestern edge of College Station along FM 2154, better known as Wellborn Road, and it was a settled community with a rail stop, a store, and a cemetery decades before College Station was ever incorporated as a city. If you are shopping the Brazos Valley for something with more land and fewer neighbors within arm's reach, Wellborn is usually the first place a local agent will point you.`,
+      },
+      {
+        type: 'p',
+        text: `It is also one of the more complicated corners of the market to buy in, because the rules that govern land use out there are different from the rest of the city, and a major state highway project is moving through the middle of it. Here is a plain look at the area.`,
+      },
+      { type: 'h2', text: 'Where Wellborn is and how it became part of College Station' },
+      {
+        type: 'p',
+        text: `Wellborn runs along Wellborn Road south of the Texas A&M campus, roughly between William D. Fitch Parkway (SH 40) and the Brazos County line, with Royder Road, Greens Prairie Road West, and Koppe Bridge Road forming the familiar cross-streets. The community grew up around the Houston and Texas Central rail line in the 1860s and 1870s; the Wellborn Cemetery, with graves dating to the 1870s, is still there.`,
+      },
+      {
+        type: 'p',
+        text: `The area was unincorporated for most of its history. Residents pursued incorporation as their own municipality, that effort did not succeed, and College Station annexed Wellborn in 2011 as part of a broader series of annexations in that corridor. That history matters to a buyer for a practical reason: much of Wellborn was developed under county rules rather than city subdivision standards, so lot sizes, road frontage, septic systems, and water service vary far more from property to property than they do inside a platted College Station subdivision.`,
+      },
+      { type: 'h2', text: 'The Wellborn zoning districts and what they protect' },
+      {
+        type: 'p',
+        text: `When College Station annexed the area, it did not simply drop standard suburban zoning on top of it. The city created Wellborn-specific zoning districts and adopted the Wellborn Community Plan, later updated and rebranded as the Wellborn District Plan. Those districts exist to preserve the character residents identified in public engagement: larger residential lots, retained open space, and commercial buildings that echo the ranch and homestead architecture already in the area.`,
+      },
+      {
+        type: 'p',
+        text: `For a buyer, this cuts both ways and you should know which side you are on:`,
+      },
+      {
+        type: 'ul',
+        items: [
+          `Minimum lot sizes in the Wellborn districts are generally larger than standard College Station residential zoning, which is exactly why acreage-style properties still exist this close to campus.`,
+          `Commercial land-use changes in Wellborn get scrutinized closely. The City Council has both approved and denied requests to change land-use designations there in recent years, so the vacant tract across from a home you are considering is not a settled question.`,
+          `The city's planning work has pointed toward making Wellborn a design district within the Unified Development Ordinance, which means building and site standards can carry requirements you would not face elsewhere in town.`,
+          `If you plan to build, add a shop or barn, run a business from the property, or keep animals, verify the specific zoning on that parcel with the city before you go under contract. Assumptions based on what a neighbor has done are unreliable, because some uses predate annexation.`,
+        ],
+      },
+      { type: 'h2', text: 'The Wellborn Road widening you should know about' },
+      {
+        type: 'p',
+        text: `TxDOT, working with the City of College Station and the Bryan/College Station Metropolitan Planning Organization, has proposed widening FM 2154 (Wellborn Road) from SH 40 (William D. Fitch Parkway) south to Greens Prairie Road. The stated goals are safety, added capacity for projected traffic, and bicycle and pedestrian accommodations. The project has drawn organized opposition from area residents, largely over right-of-way impacts and the change in character a wider highway brings.`,
+      },
+      {
+        type: 'p',
+        text: `Whatever your view of the project, treat it as a factual input to your purchase. Ask where the proposed right-of-way falls relative to the property line, what the schedule looks like as of the day you are shopping, and how construction staging might affect access. TxDOT publishes project pages with current status and public-meeting materials, and those are the source to check rather than a listing remark or a secondhand summary.`,
+      },
+      { type: 'h2', text: 'Commutes, services, and daily practicalities' },
+      {
+        type: 'p',
+        text: `Wellborn's central appeal is that you get rural-feeling lots while staying on a direct route into town. Wellborn Road runs straight north into the campus area and the University Drive corridor, and William D. Fitch Parkway connects east toward Highway 6 and the retail around Tower Point. Depending on where in Wellborn you are and what time you leave, campus is commonly a fifteen-to-twenty-five-minute drive — with the caveat that Wellborn Road carries game-day and rail-crossing traffic, and construction timelines can change that number.`,
+      },
+      {
+        type: 'p',
+        text: `Things to verify property by property, because they genuinely differ across Wellborn:`,
+      },
+      {
+        type: 'ul',
+        items: [
+          `Water and sewer — some properties are on city or Wellborn Special Utility District water, some on wells, and septic systems are common. A septic inspection and a look at the permit records are worth doing.`,
+          `Internet service — availability varies noticeably by road out there, and it is worth confirming with providers at the exact address if you work from home.`,
+          `Road frontage and easements — pipeline, utility, and access easements are more common on larger tracts. Read the survey and the title commitment carefully.`,
+          `Agricultural valuation — some acreage carries an ag or wildlife exemption through the Brazos Central Appraisal District. If it does, understand what maintaining it requires and what a rollback would cost if you change the use.`,
+          `Floodplain — several Wellborn-area tracts touch creek drainage. Check the FEMA map for the parcel, not the neighborhood.`,
+        ],
+      },
+      { type: 'h2', text: 'Who tends to look at Wellborn' },
+      {
+        type: 'p',
+        text: `In practice, buyers who land in Wellborn are usually after one of three things: acreage within a reasonable commute of Texas A&M, a place to keep horses or livestock, or a lot large enough to build a custom home with a shop. Price ranges are wide because the inventory is wide — modest older homes on a couple of acres, mid-range newer builds in the small subdivisions along Royder and Greens Prairie West, and custom homes on ten-plus acres all trade in the same general area. Because comparable sales are thinner and less uniform than in a tract subdivision, valuation takes more work, and appraisals on acreage properties can be less predictable than buyers expect.`,
+      },
+      {
+        type: 'p',
+        text: `Wellborn is the part of College Station that still looks like the Brazos Valley did before the university's growth reached it, and there is real demand for that. It also carries more variables per transaction than almost anywhere else in town.`,
+      },
+      {
+        type: 'p',
+        text: `If Wellborn is on your list, Rick knows the corridor, the zoning quirks, and the questions worth asking before you write an offer on acreage here. Reach out and he will walk the specifics of a property with you — zoning, utilities, the highway project, and what the comparable sales actually support.`,
+      },
+    ],
+    sources: [
+      {
+        label: `City of College Station — Wellborn District Plan`,
+        url: `https://www.cstx.gov/business-development/planning-and-development-services/small-area-plans/wellborn-district-plan_old/`,
+      },
+      {
+        label: `TxDOT — FM 2154 (Wellborn Road) Widening Project`,
+        url: `https://www.txdot.gov/projects/projects-studies/bryan/fm2154-wellborn-road-widening.html`,
+      },
+      {
+        label: `KBTX — City of College Station shares 10-year Wellborn District Plan`,
+        url: `https://www.kbtx.com/2023/09/13/city-college-station-shares-10-year-wellborn-district-plan/`,
+      },
+    ],
+  },
+  {
     slug: 'college-station-occupancy-rules-rental-property-investors',
     title: 'Occupancy Rules and the College Station Rental Investor: What "No More Than Four" Does to Your Numbers',
     category: 'Investing',
