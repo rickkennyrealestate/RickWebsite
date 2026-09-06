@@ -1,5 +1,234 @@
 export const blogPosts = [
   {
+    slug: 'texas-sellers-disclosure-notice-bryan-college-station-guide',
+    title: 'Filling Out the Texas Seller’s Disclosure Notice in Bryan-College Station: The Local Questions That Trip Sellers Up',
+    category: 'Seller Tips',
+    date: 'September 2026',
+    readTime: '8 min read',
+    excerpt:
+      'The Texas Seller’s Disclosure Notice changed on July 1, 2026 — and several of its questions land differently in Bryan-College Station than anywhere else in the state. Here is how to answer them accurately.',
+    metaDescription:
+      'A Bryan-College Station guide to the Texas Seller’s Disclosure Notice: the 2026 form updates, floodplain and MUD questions, foundation repairs, wells, and how to answer honestly.',
+    image: null,
+    content: [
+      {
+        type: 'p',
+        text: `Of all the paperwork a Bryan-College Station seller signs, the Texas Seller’s Disclosure Notice is the one most likely to come back and cause trouble months after closing. It is also the one most sellers fill out fastest — at the kitchen table, in fifteen minutes, checking boxes from memory. That mismatch is the problem. Nearly every disclosure dispute in the Brazos Valley traces back to a box someone checked "No" on because they were not sure, rather than "Unknown" because they honestly were not.`,
+      },
+      {
+        type: 'p',
+        text: `The form itself is required by Section 5.008 of the Texas Property Code for sellers of a previously occupied single-family home, and the Texas Real Estate Commission adopted a meaningfully updated version (Form 55-0) effective July 1, 2026. If you last sold a house here in 2021, the document in front of you is not the one you remember. Below is what changed, plus the questions that carry extra weight specifically because the house is in Brazos County.`,
+      },
+      { type: 'h2', text: 'What changed on the 2026 Texas Seller’s Disclosure Notice' },
+      {
+        type: 'p',
+        text: `TREC’s July 2026 revision added several disclosure items that did not exist on the older form. None of them are hard to answer, but they are easy to skip if you are pattern-matching against a version you have seen before.`,
+      },
+      {
+        type: 'ul',
+        items: [
+          `Homeowners insurance history — sellers now disclose whether they have been unable to obtain coverage on the property. Given how much Texas insurance pricing and underwriting has shifted, this one matters to buyers doing their own quote shopping during the option period.`,
+          `Water rights — a new standalone form, TREC No. 61-0, covers groundwater and surface water: whether the property sits in a groundwater conservation district and whether there are water wells on it.`,
+          `Permanently installed generators — a separate line item now, rather than something buried in a general systems question.`,
+          `Private roads — relevant on acreage and on some of the older county tracts around the edges of Bryan and out toward Wellborn.`,
+          `Above-ground storage tanks over 500 gallons and conservation easements — again, mostly a rural-tract issue, but the Brazos Valley has plenty of those.`,
+        ],
+      },
+      {
+        type: 'p',
+        text: `Your agent should be handing you the current version. If the form you are looking at does not mention insurance availability or generators, ask before you sign it.`,
+      },
+      { type: 'h2', text: 'The floodplain and flooding questions in Bryan-College Station' },
+      {
+        type: 'p',
+        text: `The disclosure asks separately about whether the property is in a floodplain, whether it has flooded, and whether you have flood insurance. Sellers often conflate all three and answer as if they were one question. They are not, and in the Brazos Valley the distinction is real.`,
+      },
+      {
+        type: 'p',
+        text: `Carters Creek, Burton Creek, Wolf Pen Creek, and Still Creek run through developed parts of Bryan and College Station, and the mapped flood fringe along them catches back yards and corners of lots in neighborhoods where nobody thinks of themselves as living near water. A house can sit in a mapped Special Flood Hazard Area at the rear property line while the structure itself has never taken an inch. That is a "yes" on the floodplain question and a truthful "no" on the flooding question, with an explanation in the comments.`,
+      },
+      {
+        type: 'p',
+        text: `The reverse also happens. Street ponding during a heavy Brazos Valley rain that pushed water into a garage is water penetration you knew about, whether or not FEMA has your lot shaded. Disclose it, describe it, and note what you did about it. Buyers forgive a documented past problem with a documented fix far more readily than they forgive discovering it themselves in July.`,
+      },
+      { type: 'h2', text: 'Foundation work, soil movement, and the "previous repairs" line' },
+      {
+        type: 'p',
+        text: `Bryan-College Station sits on expansive clay soils that swell and shrink with our wet-dry cycles. Slab movement here is common enough that experienced local buyers are not automatically scared off by a repaired foundation — they are scared off by an undisclosed one, because it makes them wonder what else you left out.`,
+      },
+      {
+        type: 'p',
+        text: `If piers were installed, say so, and pull the paperwork. Many foundation companies working this market issue transferable lifetime warranties, and a transferable warranty turns a red flag into a selling point. Same logic applies to plumbing done after a repair, sewer line work, and any engineer’s letter you have. If you bought the house with existing repairs and never got the documents, disclose what you know and mark the rest "Unknown" — that is what the column is there for.`,
+      },
+      {
+        type: 'p',
+        text: `One more local note: cosmetic drywall cracking and doors that stick seasonally are extremely common here. You are not required to be a structural engineer. You are required to report what you actually know.`,
+      },
+      { type: 'h2', text: 'MUDs, PIDs, wells, and septic in the Brazos Valley' },
+      {
+        type: 'p',
+        text: `The disclosure asks whether the property is located in a Municipal Utility District. In a market where a good deal of the newer inventory around College Station and out along the Highway 47 and Wellborn corridors sits inside special districts, this is not a throwaway question — it changes the buyer’s monthly payment. If you are not certain, your closing documents from when you bought, or the tax entities listed on your Brazos County appraisal notice, will tell you.`,
+      },
+      {
+        type: 'p',
+        text: `The new water rights form matters more here than in a purely urban market. Brazos County falls within the Brazos Valley Groundwater Conservation District, so properties with wells have a real answer to give. And once you get outside city utility service — the county tracts, parts of Wellborn, land toward Millican and Kurten — you are often on well water, an aerobic or conventional septic system, or both. For septic, buyers will want to know the system type, the last pump-out, and whether there is a maintenance contract in place, because aerobic systems in Texas typically require one.`,
+      },
+      { type: 'h2', text: 'How to answer without creating liability for yourself' },
+      {
+        type: 'p',
+        text: `The disclosure asks what you know. It does not ask you to inspect, investigate, or guarantee. A few habits keep sellers out of trouble:`,
+      },
+      {
+        type: 'ul',
+        items: [
+          `Use "Unknown" honestly. It is a legitimate answer and it is safer than a guess dressed up as a fact.`,
+          `Fill in the comment lines. A one-sentence explanation next to a checked box is worth more than the box itself.`,
+          `Attach the paper. Warranties, receipts, permits, engineer reports, prior inspection reports you received as a buyer — all of it reduces the room for later argument.`,
+          `Remember that selling "as-is" limits your duty to repair, not your duty to disclose. That is a common and expensive misunderstanding.`,
+          `Update the notice if something changes between listing and closing — a new leak, a failed AC compressor in August, a hail claim.`,
+          `Do not describe neighborhoods, neighbors, or who lives nearby. Stick strictly to the physical condition and history of the property.`,
+        ],
+      },
+      {
+        type: 'p',
+        text: `A handful of transfers are exempt from the Section 5.008 requirement altogether — foreclosure and trustee sales, certain court-ordered transfers, and some estate sales where the executor never lived in the home, among others. Exemptions are narrower than people assume, and an executor who did occupy the property generally does not qualify. If you think you might be exempt, confirm it with a real estate attorney rather than assuming.`,
+      },
+      { type: 'h2', text: 'Working through it with someone who knows the market' },
+      {
+        type: 'p',
+        text: `The practical value of a local agent on this form is not filling it out for you — the disclosure is yours, in your words, from your knowledge. It is knowing which questions carry weight in Bryan-College Station and asking you about them before a buyer’s inspector does. Rick works this market every day, has seen how Brazos Valley buyers react to foundation history and floodplain lines, and would rather spend an extra hour with you on the disclosure than spend a week renegotiating after an inspection.`,
+      },
+      {
+        type: 'p',
+        text: `This article is general information, not legal advice — for questions about your specific situation, talk with a Texas real estate attorney. If you are thinking about listing a home in College Station, Bryan, or anywhere in the Brazos Valley this fall, reach out to Rick and let’s go through your disclosure together before the sign goes in the yard.`,
+      },
+    ],
+    sources: [
+      {
+        label: `Texas Real Estate Commission — Seller’s Disclosure Notice`,
+        url: `https://www.trec.texas.gov/forms/sellers-disclosure-notice`,
+      },
+      {
+        label: `Texas Property Code Section 5.008 — Seller’s Disclosure of Property Condition`,
+        url: `https://texas.public.law/statutes/tex._prop._code_section_5.008`,
+      },
+      {
+        label: `Texas REALTORS® — Disclosure Requirements`,
+        url: `https://www.texasrealestate.com/members/legal-and-ethics/resources/legal-faq/disclosure-requirements/`,
+      },
+    ],
+  },
+  {
+    slug: 'how-rick-prices-a-bryan-college-station-home-cma-process',
+    title: 'How a Bryan-College Station Listing Gets Priced: Inside the CMA Rick Runs Before Your Home Hits the Market',
+    category: 'Working With Rick',
+    date: 'September 2026',
+    readTime: '7 min read',
+    excerpt:
+      'A look at how a comparative market analysis actually works in Bryan-College Station — which comps count, which adjustments matter locally, and why a 90-day market changes the pricing math.',
+    metaDescription:
+      'How a comparative market analysis works in Bryan-College Station: choosing real local comps, adjusting for lot and finish, and pricing a Brazos Valley home in a slower 2026 market.',
+    image: null,
+    content: [
+      {
+        type: 'p',
+        text: `Almost every seller in Bryan-College Station starts the same way: they look up their address on a national home-value site, get a number, and anchor to it. Then a local agent runs a comparative market analysis and lands somewhere else — sometimes higher, often lower, almost never identical. That gap is not a sales tactic. It is the difference between an algorithm working off county records and a person who has walked the streets between Wellborn Road and Highway 6 and knows why the house on Deacon sells differently than the one on Rock Prairie.`,
+      },
+      {
+        type: 'p',
+        text: `Here is what actually happens inside a CMA for a Brazos Valley home, in the order Rick works through it, so you know what you are looking at when the pricing conversation starts.`,
+      },
+      { type: 'h2', text: 'Step one: defining the real comp set for your Bryan-College Station neighborhood' },
+      {
+        type: 'p',
+        text: `The single biggest driver of a good CMA is which sales get counted. Automated valuations pull a radius. A local agent pulls a market. In College Station and Bryan those are rarely the same thing, because the submarkets here are small and they do not blend.`,
+      },
+      {
+        type: 'p',
+        text: `A house in Southwood Valley and a house a mile away in Edelweiss Gartens can be within the same radius and still be poor comparables — different vintage, different lot sizes, different buyer pools. Same story between Castlegate and older Bryan neighborhoods off Villa Maria. So the first pass is narrowing to sales that a buyer would have genuinely cross-shopped against yours.`,
+      },
+      {
+        type: 'ul',
+        items: [
+          `Same subdivision first, then adjacent subdivisions with similar build era and price band.`,
+          `Closed sales, weighted heaviest — pending sales as a directional signal, active listings only as evidence of what you are competing against.`,
+          `A recency window that matches how fast the market is moving. In a slower stretch, older comps get used with more caution because conditions shifted underneath them.`,
+          `Same school attendance zone where it changes the buyer pool, and same side of the major roads — Highway 6, Wellborn Road, and Texas Avenue all function as real dividing lines for commute patterns.`,
+          `Similar utility provider and tax situation, since a home in a MUD or PID carries a different monthly payment than an identical home inside city limits.`,
+        ],
+      },
+      { type: 'h2', text: 'Step two: the adjustments that actually move the number in the Brazos Valley' },
+      {
+        type: 'p',
+        text: `Once the comp set exists, each one gets adjusted toward your home. Square footage and bedroom count are the obvious ones, and they are also the ones the algorithms already handle. The adjustments that separate a useful CMA from a guess are the local ones.`,
+      },
+      {
+        type: 'ul',
+        items: [
+          `Foundation history. Brazos County sits on expansive clay, and a documented repair with a transferable warranty prices very differently than an undocumented one — or than visible movement with no paperwork at all.`,
+          `Flood zone and elevation. Two homes on the same street can fall on opposite sides of a floodplain line, and the one requiring flood insurance carries a different effective payment.`,
+          `Roof age and insurance history. Central Texas hail means roof age is a live underwriting question, not a cosmetic detail.`,
+          `Lot specifics — greenbelt or pond backing, cul-de-sac position, mature trees, and whether the backyard is usable or a drainage easement.`,
+          `Finish level versus the neighborhood ceiling. A heavily renovated kitchen in a subdivision of consistent 1,650-square-foot homes recovers some of its cost, not all of it, because the appraisal has to find support in nearby sales.`,
+          `HOA dues and restrictions, which vary meaningfully even between subdivisions with similar-sounding names.`,
+        ],
+      },
+      {
+        type: 'p',
+        text: `Every adjustment gets a dollar figure and a reason. If an agent cannot tell you why a comp was adjusted eleven thousand dollars, the number is decoration.`,
+      },
+      { type: 'h2', text: 'Step three: pricing into the market you have, not the one from two years ago' },
+      {
+        type: 'p',
+        text: `This is where 2026 matters. The Bryan-College Station market has visibly shifted. Texas A&M's Texas Real Estate Research Center data reported by KBTX showed local inventory running roughly 30 percent above the prior year by the end of July, sales down close to 12 percent year over year in June, and homes that sold in July averaging around 90 days on market. That is a different environment than the one many neighbors sold into, and it changes strategy rather than just the price tag.`,
+      },
+      {
+        type: 'p',
+        text: `Practically, more standing inventory means your listing is being compared side by side against more alternatives, and a price set above the supported range does not simply sit — it ages. Buyers watch days on market, and a listing that has been up for two months invites a lower opening offer than the same house priced correctly on day one. Historically, the first two to three weeks generate the most showing traffic a listing will ever see, so the pricing decision is really a decision about whether you get that window or waste it.`,
+      },
+      {
+        type: 'p',
+        text: `None of this is a prediction. Nobody can guarantee what your home will sell for, and any agent who does is selling confidence rather than analysis. What a CMA produces is a supported range, plus a plan for what happens if the market answers differently than expected.`,
+      },
+      { type: 'h2', text: 'Step four: net sheets, not just list price' },
+      {
+        type: 'p',
+        text: `List price is the headline. What you keep is the actual question. A complete listing presentation in Bryan-College Station should include a seller net sheet that walks from gross sale price down to proceeds: payoff, title and closing costs, prorated Brazos County property taxes through the closing date, any HOA transfer fees, negotiated buyer concessions, and commission.`,
+      },
+      {
+        type: 'p',
+        text: `Tax proration surprises people here more than anything else. Texas property taxes are billed in arrears, so at closing you credit the buyer for your share of the year already elapsed. Seeing that line before you list is far better than seeing it on a settlement statement three days before funding.`,
+      },
+      { type: 'h2', text: 'What a local Aggieland agent adds that a national estimate cannot' },
+      {
+        type: 'p',
+        text: `Rick lives and works in the Brazos Valley, and the value of that is not sentimental — it is informational. It is knowing which streets flooded, which builders were active in which years, how the Texas A&M academic calendar and the student lease cycle pull buyer traffic through the spring, how Highway 6 construction is affecting perceived commute times right now, and which recent sales had concessions baked in that never show up in a public price.`,
+      },
+      {
+        type: 'p',
+        text: `A CMA is only as good as the local detail behind it. That is the whole argument for working with someone who is here.`,
+      },
+      {
+        type: 'p',
+        text: `If you are weighing a move in College Station, Bryan, or anywhere in the Brazos Valley and want to see what the comps actually say about your address — with the adjustments shown and a net sheet attached — reach out to Rick. No obligation, and you will leave the conversation knowing your range and the reasoning behind it.`,
+      },
+    ],
+    sources: [
+      {
+        label: `Texas Real Estate Research Center — College Station-Bryan Housing Activity`,
+        url: `https://trerc.tamu.edu/housing-activity-data/msa/college-station-bryan/`,
+      },
+      {
+        label: `KBTX — New Texas A&M data reveals a turning point for local housing market`,
+        url: `https://www.kbtx.com/2026/08/25/texas-am-data-reveals-turning-point-local-housing-market/`,
+      },
+      {
+        label: `KBTX — Here's what has changed in the Bryan-College Station housing market`,
+        url: `https://www.kbtx.com/2026/07/31/heres-what-has-changed-bryan-college-station-housing-market/`,
+      },
+    ],
+  },
+  {
     slug: 'neighborhood-spotlight-edelweiss-gartens-college-station',
     title: 'Neighborhood Spotlight: Edelweiss Gartens in College Station, TX',
     category: 'Neighborhood Spotlight',
