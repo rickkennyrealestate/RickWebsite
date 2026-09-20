@@ -1,5 +1,119 @@
 export const blogPosts = [
   {
+    slug: 'academic-calendar-rhythm-college-station-bryan-year-round',
+    title: 'The Rhythm of the Year in Aggieland: How the Texas A&M Calendar Shapes Daily Life in College Station and Bryan',
+    category: 'Aggieland Life',
+    date: 'September 2026',
+    readTime: '8 min read',
+    excerpt:
+      'College Station is a city whose population swings by tens of thousands twice a year. Here is what each stretch of the academic calendar actually feels like on the ground — and why it matters for when you buy, sell, or move.',
+    metaDescription:
+      'How the Texas A&M calendar shapes life in College Station and Bryan month by month, and what the seasonal population swing means for buyers and sellers.',
+    image: null,
+    content: [
+      {
+        type: 'p',
+        text: `Most cities have seasons. College Station has a calendar. If you are moving to Aggieland from Houston, Dallas, or somewhere out of state, this is the single biggest adjustment nobody warns you about: the rhythm of daily life here — traffic, restaurant waits, grocery store parking, when houses come on the market, when apartments turn over — is set less by the weather than by whether Texas A&M is in session. Understanding that rhythm before you move makes the first year here dramatically less confusing, and it quietly affects how you should time a home purchase or a listing in College Station and Bryan.`,
+      },
+      { type: 'h2', text: 'A university roughly the size of the city it sits in' },
+      {
+        type: 'p',
+        text: `The scale is what makes this so pronounced. The U.S. Census Bureau estimated the City of College Station at 127,472 residents as of July 1, 2025. Texas A&M's own preliminary fall headcount, reported after five class days in the fall of 2025, put enrollment in College Station at more than 74,000 students, with the university topping 81,000 across all locations. Add Bryan's population, faculty and staff, and Blinn College — whose Bryan campus counted 3,764 students in spring 2026, according to figures presented to its board of trustees — and you get a metro where a very large share of the people on the road in October are simply not here in July.`,
+      },
+      {
+        type: 'p',
+        text: `That is not a criticism of the place. It is the defining feature of it. Bryan-College Station is a real city with its own hospitals, employers, and long-time residents, layered over a student population that arrives and leaves on a schedule. Both things are true at once, and the calendar is where they meet.`,
+      },
+      { type: 'h2', text: 'Mid-August: the three busiest weeks in Bryan-College Station' },
+      {
+        type: 'p',
+        text: `Starting in early to mid-August, tens of thousands of people move into the same handful of square miles over a couple of weekends. Apartment complexes along Holleman, Luther, Southwest Parkway, and University Drive turn over almost simultaneously, because the standard student lease cycle runs roughly August to July. Moving trucks stack up. Wellborn Road, Texas Avenue, and the George Bush Drive corridor slow down noticeably. The local school districts start back around the same stretch, and campus staff return ahead of classes.`,
+      },
+      {
+        type: 'p',
+        text: `Practical advice for newcomers: if you have any flexibility, do not schedule your own move-in, your furniture delivery, or your utility connections for the two weeks around the start of the fall semester. Movers, storage units, handymen, and contractors are all booked, and the same is true of restaurants on that first weekend. If you are closing on a house in August in College Station, build a buffer into your plans.`,
+      },
+      { type: 'h2', text: 'Fall: seven Saturdays that reorganize the map' },
+      {
+        type: 'p',
+        text: `From September through late November, home football Saturdays at Kyle Field bring a crowd larger than the permanent population of either city into a few blocks of campus. Roads close, parking lots fill hours early, and the area bounded roughly by Wellborn Road, George Bush Drive, and Texas Avenue becomes something you plan around rather than drive through. Locals learn the workarounds quickly — errands on Friday, Harvey Mitchell Parkway instead of the inner roads, and a standing rule about which side of town you stay on.`,
+      },
+      {
+        type: 'p',
+        text: `Fall is also when the town is at its fullest and most energetic. Downtown Bryan's First Friday, the Brazos Valley Farmers Market, Northgate, and the Century Square area all run at peak. If you are house hunting in the fall, showings compete with all of that, and weekend open houses on a home game Saturday can be sparsely attended for reasons that have nothing to do with the house.`,
+      },
+      { type: 'h2', text: 'Late November through February: the quiet stretch' },
+      {
+        type: 'p',
+        text: `Between the Thanksgiving break and the end of finals in mid-December, the student population thins out and stays thin through the winter break. For about three weeks, Bryan-College Station feels like a mid-sized Texas town of roughly 60,000 people who all know where the good parking is. It is many long-time residents' favorite time of year here.`,
+      },
+      {
+        type: 'p',
+        text: `For real estate, this is historically the slowest stretch for listings and showings, which cuts both ways. Fewer buyers are looking, but the ones who are tend to be serious and often have a deadline — a job start date, a transfer, a lease ending. Inventory is usually thinner too, so a well-prepared home can get a disproportionate share of attention in January when the competition has taken the holidays off.`,
+      },
+      { type: 'h2', text: 'Spring: the busiest housing months of the year' },
+      {
+        type: 'p',
+        text: `The spring semester brings everyone back in mid-January and runs to commencement in May, with Spring Break in March creating a one-week lull. Spring is generally the heart of the traditional Bryan-College Station selling season: more listings, more showings, more competition, and more buyers trying to close in time to move before the next school year.`,
+      },
+      {
+        type: 'p',
+        text: `Spring is also when the student rental market for the following August is decided. Pre-leasing for the next academic year typically starts months ahead, which is why an investor's decisions about a College Station rental property are effectively made in the fall and winter, not in the summer when the unit is empty.`,
+      },
+      { type: 'h2', text: 'May through July: the other College Station' },
+      {
+        type: 'p',
+        text: `After May commencement, the town exhales. Summer session enrollment is a fraction of fall. Traffic on Wellborn and Texas Avenue drops off. You can get a table. This is when Lake Bryan, Lick Creek Park, the Bryan pools, and the day-trip destinations within an hour — Washington-on-the-Brazos, Somerville Lake, the Navasota and Brenham area — do their best business with locals.`,
+      },
+      {
+        type: 'p',
+        text: `Summer is also peak relocation season. Faculty and staff starting in the fall, medical residents, military and corporate transfers, and families timing a move between school years all tend to be under contract between May and July. If you are selling a home here, that is a meaningful pool of motivated buyers, and it is the reason many Bryan-College Station sellers aim to be on the market before Memorial Day rather than after the Fourth of July.`,
+      },
+      { type: 'h2', text: 'What the calendar means for your move' },
+      {
+        type: 'ul',
+        items: [
+          `If you are relocating for a Texas A&M or Blinn job, start your home search two to three months before your start date — inventory in early summer is typically better than what is left in August.`,
+          `Avoid scheduling a closing, a move, or major contractor work in the two weeks around the start of the fall semester if you can help it.`,
+          `If you are selling, understand that showing traffic on a home football Saturday is unpredictable; a Sunday or a weeknight showing window often performs better in the fall.`,
+          `If you are buying an investment property, the August-to-July lease cycle governs your cash flow calendar — a unit purchased in spring is usually already leased for the next year.`,
+          `If you value the quiet version of this town, spend a weekday in June here and a Saturday in October here before you decide where you want to live relative to campus.`,
+          `Budget more drive time than the map suggests during the fall, and less than you expect in the summer — the same trip across town can differ by fifteen or twenty minutes depending on the month.`,
+        ],
+      },
+      {
+        type: 'p',
+        text: `None of this should scare anyone off. Plenty of people move to Bryan-College Station for a job or a degree and simply never leave, precisely because the town has both gears: a full, loud, interesting fall and a slow, open summer. But a house that feels perfectly located in June can feel very different on the third Saturday in October, and vice versa — and that is the kind of thing a map and a listing photo will never tell you.`,
+      },
+      {
+        type: 'p',
+        text: `If you are weighing neighborhoods and want an honest read on what a specific street feels like in each stretch of the year — drive times, game-day access, proximity to the student rental corridors — reach out to Rick. Knowing the calendar is half of knowing the Brazos Valley, and it is worth working through before you pick a house, not after.`,
+      },
+    ],
+    sources: [
+      {
+        label: `U.S. Census Bureau QuickFacts — College Station city, Texas population estimate`,
+        url: `https://www.census.gov/quickfacts/fact/table/collegestationcitytexas/PST045225`,
+      },
+      {
+        label: `Texas A&M Academic and Business Performance Analytics — preliminary enrollment data`,
+        url: `https://abpa.tamu.edu/data-and-insights/enrollment/preliminary-enrollment-profile.html`,
+      },
+      {
+        label: `WTAW — Preliminary Fall Enrollment Numbers At Texas A&M`,
+        url: `https://wtaw.com/preliminary-fall-enrollment-numbers-at-texas-am/`,
+      },
+      {
+        label: `WTAW — Blinn College spring enrollment and Bryan campus headcount`,
+        url: `https://wtaw.com/spring-enrollment-at-blinn-college-is-the-highest-since-the-pandemic-declining-numbers-continues-on-the-bryan-campus/`,
+      },
+      {
+        label: `Texas A&M Office of the Registrar — Fall 2026 academic calendar`,
+        url: `https://registrar.tamu.edu/academic-calendar/fall-2026.html`,
+      },
+    ],
+  },
+  {
     slug: 'buying-acreage-brazos-county-septic-water-well-ag-valuation',
     title: 'Buying Acreage Outside Bryan-College Station: Septic, Water Wells, and the Ag Rollback That Catches Buyers',
     category: 'Buyer Tips',
