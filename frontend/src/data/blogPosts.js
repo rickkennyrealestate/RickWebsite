@@ -1,5 +1,105 @@
 export const blogPosts = [
   {
+    slug: 'home-not-selling-bryan-college-station-listing-reset-plan',
+    title: 'Your Bryan-College Station Home Has Not Sold in 60 Days: A Seller Reset Plan for a 90-Day Market',
+    category: 'Seller Tips',
+    date: 'September 2026',
+    readTime: '8 min read',
+    excerpt:
+      'Homes sold in Bryan-College Station in July sat on the market an average of 90 days. Here is how to tell whether your listing is stalled or simply on pace — and what to change first if it really is stuck.',
+    metaDescription:
+      'Your Bryan-College Station listing has not sold? A local seller guide to diagnosing showings, price bands, concessions, and photos in a 90-day market.',
+    image: null,
+    content: [
+      {
+        type: 'p',
+        text: `The hardest phone call in this business is the one that starts with, "It has been two months and we have had four showings." If your Bryan-College Station home has not sold, the first thing worth doing is not a price cut. It is a diagnosis. The market here in 2026 is genuinely slower than the one people remember from a few years ago, and a listing that would have looked stalled in 2021 may be running right on pace today. Knowing which of those you are dealing with changes every decision that comes next.`,
+      },
+      { type: 'h2', text: 'First, know what normal looks like in Bryan-College Station right now' },
+      {
+        type: 'p',
+        text: `Texas A&M Real Estate Research Center economist Yanling Mayer told KBTX that homes sold in Bryan-College Station in July sat on the market for an average of 90 days. Inventory was up 26 percent year over year in June and roughly 30 percent above the prior year by the end of July, while closed sales in June fell nearly 12 percent from a year earlier, with 349 homes sold. Local agents interviewed in the same coverage described the metro as reaching about six months of inventory for the first time in years — the rough dividing line economists use between a seller-favored and a buyer-favored market.`,
+      },
+      {
+        type: 'p',
+        text: `Read that against your own listing before you panic. Thirty-five days without an offer is not, by itself, evidence that anything is wrong. Sixty days with almost no showing activity is a different story, and it is the one this post is about.`,
+      },
+      { type: 'h2', text: 'Let your showing traffic tell you what is actually broken' },
+      {
+        type: 'p',
+        text: `Showing data is the cheapest diagnostic you have, and most sellers never look at it in a structured way. The pattern of traffic usually points at one specific problem:`,
+      },
+      {
+        type: 'ul',
+        items: [
+          `Almost no showings in two to three weeks — this is nearly always price or online presentation, not the house. Buyers are screening you out on a phone screen before anyone ever drives over.`,
+          `Steady showings, no second showings — something inside is losing people quickly: condition, odor, a layout that photographs better than it lives, or visible deferred maintenance.`,
+          `Second showings but no offers — buyers like it and chose something else. Ask your agent to pull what actually sold in your price range in the last 30 days and compare terms, not just price.`,
+          `Strong traffic for two weeks, then a cliff — you have worked through the buyers already searching at your number. New eyes require a new search bracket.`,
+          `Offers that die in the option period — this is an inspection problem. A pre-listing inspection costs a few hundred dollars and stops the same finding from killing three contracts in a row.`,
+        ],
+      },
+      {
+        type: 'p',
+        text: `Written buyer feedback is worth collecting too, though take it with salt. One comment about the kitchen is noise. The same comment from six of eight showings is your listing telling you what it costs to compete.`,
+      },
+      { type: 'h2', text: 'The price band matters more than the price' },
+      {
+        type: 'p',
+        text: `Buyers do not browse in smooth increments. They set a filter on the portals, and those filters cluster at round numbers. A home at 415,000 dollars and a home at 399,900 dollars are functionally 15,000 dollars apart in payment terms but sit in two entirely different buyer pools, because a large share of shoppers cap their search at 400,000. If you are sitting just above a bracket, moving to the top of the band below it can put you in front of an audience that has never seen your house at all.`,
+      },
+      {
+        type: 'p',
+        text: `For scale on what local sellers have actually been doing: Mayer told KBTX that the average seller price cut has reached about 3 percent of the initial asking price, which in the College Station market works out to roughly 9,000 to 10,000 dollars. That is the local benchmark for a meaningful adjustment. A 2,000 dollar trim signals hesitation and rarely changes who sees the listing.`,
+      },
+      { type: 'h2', text: 'A price cut and a concession are not the same thing to a buyer' },
+      {
+        type: 'p',
+        text: `Suppose you have 10,000 dollars of room. Taken as a price reduction on a home in the high 300s, it moves a buyer's monthly payment by a modest amount. Applied instead as a seller-paid rate buydown or toward closing costs, that same money can change the payment far more noticeably, because it is working against the interest rate rather than the balance. Neither approach is automatically better, and the math depends on the loan type, the buyer's rate, and lender limits on seller contributions — which are real and vary by program. Run both versions with your lender and your agent before you decide, rather than defaulting to the price cut because it is simpler to explain.`,
+      },
+      {
+        type: 'p',
+        text: `Other terms carry weight in a market where buyers have options: covering the survey, offering a one-year residential service contract, or giving a flexible closing date to a buyer who has a house to sell or a lease that ends in August.`,
+      },
+      { type: 'h2', text: 'Fix the presentation before you cut a second time' },
+      {
+        type: 'p',
+        text: `If your Bryan-College Station listing went live in June and it is now late September, your photos are showing a different house than the one buyers will walk into. Heat-stressed grass, a faded front door, and a pool of hard shadow across the elevation all read as neglect on a listing page. Re-shooting the exterior after the first real cool front, and reordering the gallery so the three strongest images lead, is the cheapest lever in this entire post.`,
+      },
+      {
+        type: 'p',
+        text: `Two local items also deserve documentation rather than silence. Foundation questions come up constantly here because of the expansive clay soils across Brazos County — if you have had work done or an engineer's evaluation, have the paperwork in the listing. And because roof age drives wind-and-hail underwriting in this part of Texas, a dated roof with no documentation invites buyers to assume the worst about their future insurance premium.`,
+      },
+      { type: 'h2', text: 'Think carefully before you withdraw and relist' },
+      {
+        type: 'p',
+        text: `Pulling a listing and putting it back on later can reset the days-on-market counter in the MLS, but the price history typically remains visible to buyer agents, and an obvious reset can undercut your credibility more than the original number did. There are legitimate reasons to take a break — finishing repairs, a seasonal repositioning, or a genuine change in plans — but do it because you have something to change, not to hide the calendar.`,
+      },
+      {
+        type: 'p',
+        text: `Timing is also local. Activity here historically thins out from Thanksgiving through the holidays, then picks up in January when relocation buyers with a spring or summer start date at Texas A&M, the hospitals, or RELLIS begin looking in earnest. If you are weighing whether to push through the fall or regroup for a January relaunch, that calendar should be part of the conversation, along with your own deadlines.`,
+      },
+      {
+        type: 'p',
+        text: `A stalled listing in the Brazos Valley usually has one fixable cause, not five. If you would like a straight read on yours — the showing pattern, what has actually closed near you in the last 30 days, and whether the answer is price, presentation, or terms — reach out to Rick. It is a conversation worth having before the next reduction, not after it.`,
+      },
+    ],
+    sources: [
+      {
+        label: `KBTX — New Texas A&M data reveals a turning point for local housing market (Aug. 25, 2026)`,
+        url: `https://www.kbtx.com/2026/08/25/texas-am-data-reveals-turning-point-local-housing-market/`,
+      },
+      {
+        label: `KBTX — Here's what has changed in the Bryan-College Station housing market (Jul. 30, 2026)`,
+        url: `https://www.kbtx.com/2026/07/31/heres-what-has-changed-bryan-college-station-housing-market/`,
+      },
+      {
+        label: `Texas Real Estate Research Center — College Station-Bryan housing activity data`,
+        url: `https://trerc.tamu.edu/housing-activity-data/msa/college-station-bryan/`,
+      },
+    ],
+  },
+  {
     slug: 'academic-calendar-rhythm-college-station-bryan-year-round',
     title: 'The Rhythm of the Year in Aggieland: How the Texas A&M Calendar Shapes Daily Life in College Station and Bryan',
     category: 'Aggieland Life',
