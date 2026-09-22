@@ -1,5 +1,101 @@
 export const blogPosts = [
   {
+    slug: 'hoa-deed-restrictions-bryan-college-station-buyers-guide',
+    title: 'HOAs and Deed Restrictions in Bryan-College Station: The Documents to Read Before You Buy',
+    category: 'Buyer Tips',
+    date: 'September 2026',
+    readTime: '8 min read',
+    excerpt:
+      'Most newer subdivisions in Bryan-College Station come with an HOA, and Texas law gives you a specific window to review its documents. Here is what the resale certificate contains, what to look for, and how to check an association before you write an offer.',
+    metaDescription:
+      'A Bryan-College Station buyer guide to HOAs and deed restrictions: Texas resale certificate rules, dues and transfer fees, and how to research an association.',
+    image: null,
+    content: [
+      {
+        type: 'p',
+        text: `If you are shopping for a home in Bryan-College Station, there is a good chance the one you fall for comes with a homeowners association attached. Most of the subdivisions built here since the 1990s — Castlegate and Castlegate II, Creek Meadows, Edelweiss Gartens, Pebble Creek, Miramont, Traditions, and nearly every new section going in along Greens Prairie Road and the Wellborn corridor — are governed by recorded deed restrictions and an association that enforces them. Those documents are not boilerplate. They set your monthly cost, what you may park in the driveway, whether you can lease the house, and what happens if you and the board disagree. Texas law gives you a defined window to read them, and most buyers spend that window doing something else.`,
+      },
+      { type: 'h2', text: 'Why deed restrictions carry extra weight in the Brazos Valley' },
+      {
+        type: 'p',
+        text: `Two local facts make this more consequential here than a buyer moving from a big-city suburb might assume. First, Brazos County does not have county zoning — Texas counties generally lack that authority — so in unincorporated areas between Bryan, College Station, and Wellborn, recorded restrictions are often the only thing governing what a neighbor can build or operate next door. If a tract outside the city limits has no restrictions, that is a real piece of information, not a footnote.`,
+      },
+      {
+        type: 'p',
+        text: `Second, this is a university market with a large rental component. Many BCS associations have provisions aimed at leasing: minimum lease terms, registration of tenants with the association, caps on the number of leased homes in a section, or outright prohibitions on short-term rentals. If you are buying a home you may eventually rent out — including a place for a student — the leasing article of the restrictions matters as much as the price.`,
+      },
+      { type: 'h2', text: 'What the resale certificate is, and when you are entitled to it' },
+      {
+        type: 'p',
+        text: `Texas Property Code Section 207.003 requires a property owners association to deliver a packet of subdivision information after a proper written request. The association has until the tenth business day after receiving the request and verifying the requester's authority. The packet must include a current copy of the restrictions, a current copy of the bylaws and rules, and a resale certificate prepared no earlier than 60 days before delivery.`,
+      },
+      {
+        type: 'p',
+        text: `The statute caps what the association can charge: a reasonable and necessary fee of no more than 375 dollars to assemble, copy, and deliver the information, and no more than 75 dollars for an update to a certificate already issued. An update must be delivered within seven business days, and update requests have to be made within 180 days of the original certificate. The association may not charge the fee at all if it misses the delivery deadline in Subsection (a).`,
+      },
+      {
+        type: 'p',
+        text: `Practically, the request usually goes out through the title company early in the contract. The timing problem is obvious: a ten-business-day clock does not fit neatly inside a seven- or ten-day Texas option period. Ask your agent to get the request started the day the contract is executed, and if the packet is going to land late, address it in writing rather than letting the option period quietly expire.`,
+      },
+      { type: 'h2', text: 'What to actually look for in the packet' },
+      {
+        type: 'p',
+        text: `The resale certificate has a statutory content list, and several of those items are worth reading closely rather than skimming:`,
+      },
+      {
+        type: 'ul',
+        items: [
+          `The frequency and amount of regular assessments, plus any special assessment already approved and coming due after the certificate is delivered. A special assessment that has been voted on but not yet billed is a cost you are inheriting.`,
+          `Every fee tied to the transfer itself — the certificate must list each one, who it is paid to, and the amount. Transfer and administrative fees can add several hundred dollars at closing and are negotiable between buyer and seller.`,
+          `Reserves for capital expenditures and the association's current operating budget and balance sheet. Thin reserves in a community with a pool, gates, or private streets is how future special assessments get made.`,
+          `Any condition on the property that the board knows is in violation of the restrictions. If the seller's shed, fence, or paint color was never approved, that becomes your problem on closing day.`,
+          `Whether the restrictions allow foreclosure of the association's lien for unpaid assessments, plus any unsatisfied judgments or pending lawsuits involving the association.`,
+          `The architectural control process in the restrictions themselves — who approves exterior changes, how long they have, and whether the builder or developer still controls the board.`,
+        ],
+      },
+      {
+        type: 'p',
+        text: `Read the rules document too, not just the certificate. That is where parking, RV and boat storage, fence materials, roof shingle type, satellite dishes, and yard maintenance standards usually live, and those are the provisions that turn into friction later.`,
+      },
+      { type: 'h2', text: 'Dues, and how BCS associations actually vary' },
+      {
+        type: 'p',
+        text: `Assessments in the Bryan-College Station area span a wide range, and the spread tracks what the association maintains. A simple subdivision HOA that mows an entrance island and a detention pond sits at the low end. Communities with amenity centers, pools, splash pads, trails, or private gated streets sit meaningfully higher, and golf or club communities may layer optional club membership on top of mandatory dues. Some newer sections also carry a second layer — a master association plus a neighborhood association — so confirm you are looking at the total, not one line of it.`,
+      },
+      {
+        type: 'p',
+        text: `Dues are only part of the picture. In several newer College Station and Bryan developments, a municipal utility district or public improvement district also affects the tax rate on the property, which is a separate question from HOA assessments and worth pricing out alongside them before you settle on a monthly number.`,
+      },
+      { type: 'h2', text: 'How to research an association before you write an offer' },
+      {
+        type: 'p',
+        text: `You do not have to wait for a contract to learn something. Texas associations are required to record a management certificate with the county clerk and file it electronically with the Texas Real Estate Commission, and TREC hosts a public search at hoa.texas.gov. That lookup gives you the association's name, its managing agent, and the website where its dedicatory instruments are posted — often enough to read the restrictions themselves before you ever make an offer. The recorded documents are also in the Brazos County Clerk's real property records.`,
+      },
+      {
+        type: 'p',
+        text: `It is also worth knowing your protections on the back end. Under Chapter 209 of the Property Code, a Texas association generally cannot foreclose an assessment lien without going through expedited judicial foreclosure unless the owner waives that right in writing, cannot foreclose solely for unpaid fines, and must give notice and an opportunity to cure. Associations of a certain size must offer a payment plan on delinquent assessments. None of that is a reason to be casual about dues, but it is useful context if you hear horror stories.`,
+      },
+      {
+        type: 'p',
+        text: `Nothing here is legal advice, and the specifics always come down to the documents recorded for your particular section. If you are looking at a home in a Bryan-College Station subdivision and want help getting the resale certificate ordered on time, reading what comes back, and understanding how the dues and any MUD or PID rate affect your real monthly cost, reach out to Rick. Reviewing the restrictions before you are emotionally committed to the house is a much better position to be in.`,
+      },
+    ],
+    sources: [
+      {
+        label: `Texas Property Code Sec. 207.003 — Delivery of Subdivision Information to Owner`,
+        url: `https://law.justia.com/codes/texas/property-code/title-11/chapter-207/section-207-003/`,
+      },
+      {
+        label: `Texas Real Estate Commission — HOA management certificate requirements and public search`,
+        url: `https://www.hoa.texas.gov/hoa-management-certificate-requirements`,
+      },
+      {
+        label: `Texas State Law Library — Property Owners' Associations: Assessments and Foreclosure`,
+        url: `https://guides.sll.texas.gov/property-owners-associations/assessments-foreclosure`,
+      },
+    ],
+  },
+  {
     slug: 'home-not-selling-bryan-college-station-listing-reset-plan',
     title: 'Your Bryan-College Station Home Has Not Sold in 60 Days: A Seller Reset Plan for a 90-Day Market',
     category: 'Seller Tips',
