@@ -1,5 +1,518 @@
 export const blogPosts = [
   {
+    slug: 'neighborhood-spotlight-greens-prairie-reserve-college-station',
+    title: 'Neighborhood Spotlight: Greens Prairie Reserve in South College Station, TX',
+    category: 'Neighborhood Spotlight',
+    date: 'October 2026',
+    readTime: '5 min read',
+    excerpt:
+      `Greens Prairie Reserve is a master-planned community in South College Station known for larger lots, miles of trails, and an amenity center. Here is a factual look at where it sits, what homes there tend to cost, and what to weigh before you buy.`,
+    metaDescription:
+      `Greens Prairie Reserve in South College Station: location, home sizes, lot sizes, trails, amenities, HOA, and pricing context for Brazos Valley buyers.`,
+    image: null,
+    content: [
+      { type: 'p', text: `If you have driven south of the main campus area in College Station toward Greens Prairie Road and Arrington Road, you have probably passed the entrances to Greens Prairie Reserve. It is one of the larger master-planned communities in South College Station, and it tends to come up when buyers ask about newer construction, bigger lots, and walkable green space. This spotlight lays out the basics of the neighborhood, with the caveat that conditions change and every property is different.` },
+      { type: 'h2', text: `Where Greens Prairie Reserve Sits in College Station` },
+      { type: 'p', text: `The community is in South College Station, in the 77845 ZIP code, along Greens Prairie Road and Arrington Road, with access to Wellborn Road and William D. Fitch Parkway (State Highway 40). Development began in the late 2010s and has continued in phases, so the neighborhood includes a mix of established streets and sections where building is still underway. If you tour on a weekday, expect to see active construction in places.` },
+      { type: 'p', text: `For commute planning, the area sits several miles from the Texas A&M main campus and from Midtown, and a drive to Kyle Field, the Northgate district, or medical facilities depends on your route and the hour. Test the drive yourself at the times you would actually travel rather than relying on map estimates, especially on game weekends. Our commute guide on this site covers Highway 6, Wellborn Road, and the Big 6 construction.` },
+      { type: 'h2', text: `Homes, Lots, and Price Context` },
+      { type: 'p', text: `Greens Prairie Reserve is generally positioned at the upper end of the College Station market. Reported listing information describes custom and semi-custom homes, commonly in the 2,800 to 5,000-plus square foot range, on lots that are often between about a quarter and four-tenths of an acre, larger than many in-town subdivisions. Builders active in the community have included Reece Homes, among others.` },
+      { type: 'p', text: `On price, one local brokerage market summary reported listings ranging from roughly $485,000 to more than $2 million, and a median sale price of about $711,000 for the trailing 12 months through August 2026, with a median of 114 days on market. Treat those as a snapshot from a single third-party source, not a forecast; sample sizes in one subdivision are small, and a few large sales can move a median. Historically, prices in any neighborhood can rise or fall, and nothing here is a promise about future value. A current comparative market analysis for a specific address is the right tool for real decisions.` },
+      { type: 'h2', text: `Trails, Amenities, and the HOA` },
+      { type: 'p', text: `The community is built around open space. Published descriptions mention preserved greenbelts, stocked ponds, pocket parks, event lawns, restored prairie areas, and roughly 12 miles of trails and pathways. The builder's community page also describes an amenity center with a pool, fitness area, splash pad, and a cafe. Amenity details can change, so confirm what is open and what the fees cover before you rely on any of it.` },
+      { type: 'p', text: `There is an active homeowners association that maintains common areas and trails and enforces architectural standards. Before you write an offer, ask for the resale certificate, the declaration of covenants, and the current dues schedule. Our guide to HOAs and deed restrictions walks through exactly which documents to read, and why architectural review matters if you plan a pool, fence, or addition.` },
+      { type: 'h2', text: `Questions to Ask Before Buying in Greens Prairie Reserve` },
+      { type: 'ul', items: [
+        `What is the total annual tax rate for the specific address? Taxing units and special districts can differ by section, so check the listing's tax breakdown and the Brazos Central Appraisal District record rather than assuming.`,
+        `Is the home resale or new construction? New builds come with builder contracts and warranties worth reading closely; our new construction guide covers the clauses that surprise buyers.`,
+        `What are the lot and drainage conditions? Larger lots and ponds make it worth reviewing the survey, any easements, and flood-zone status on FEMA's map service.`,
+        `How does the soil behave? Expansive clay is common across the Brazos Valley, so a foundation inspection and a look at past repairs are sensible on any age of home.`,
+        `What is still being built nearby? Ask the builder or HOA which phases and commercial parcels are planned, since construction noise and traffic patterns can shift as sections finish.`
+      ] },
+      { type: 'p', text: `Is Greens Prairie Reserve the right fit? That depends on your budget, commute, and how much yard and trail access matters to you compared with proximity to campus. It is one option among many across College Station and Bryan, from Southwood Valley and Pebble Creek to Castlegate and Wellborn. If you would like to compare it side by side with other areas, or see current listings and recent sales, Rick Kenny would be glad to walk through the numbers with you and set up tours, with no pressure.` }
+    ],
+    sources: [
+      { label: `Greens Prairie Reserve in College Station TX (Aggieland Expert)`, url: `https://aggielandexpert.com/college-station-tx-real-estate/greens-prairie-reserve-in-college-station-tx/` },
+      { label: `Greens Prairie Reserve in College Station, TX (NewHomeSource)`, url: `https://www.newhomesource.com/basiccommunity/community-178840/greens-prairie-reserve-college-station-tx-77845` }
+    ]
+  },
+  {
+    slug: 'rellis-campus-bryan-texas-am-growth-what-it-means-for-housing',
+    title: 'RELLIS Campus in Bryan: What Texas A&M\'s Research Hub Means for Housing in the Brazos Valley',
+    category: 'Aggieland Life',
+    date: 'October 2026',
+    readTime: '5 min read',
+    excerpt:
+      `Texas A&M's RELLIS campus in Bryan has grown from a World War II airfield into a research and education hub that now hosts a youth-development headquarters and a STEM center. Here is what it is, what has opened recently, and what it may mean for people choosing where to live in the Brazos Valley.`,
+    metaDescription:
+      `Texas A&M's RELLIS campus in Bryan keeps growing. See what has opened, who works there, and what it may mean for Brazos Valley housing and commutes.`,
+    image: null,
+    content: [
+      { type: 'p', text: `If you spend any time driving around the Brazos Valley, you will hear people mention RELLIS in the same breath as Texas A&M, even though it sits on the Bryan side of the area rather than beside Kyle Field. For anyone relocating to College Station or Bryan for a university, research, or industry job, understanding what RELLIS is and where it fits can make a real difference in how you think about commute and location.` },
+      { type: 'h2', text: `What RELLIS Actually Is` },
+      { type: 'p', text: `RELLIS is a Texas A&M University System campus in Bryan focused on applied research, technology development, and workforce education. Its roots go back to World War II, when the site served as Bryan Army Air Base and hundreds of pilots trained there. After the war the property sat largely dormant until Texas A&M acquired it in 1962. It was long known as the Riverside Campus before being rebranded as RELLIS.` },
+      { type: 'p', text: `The idea behind the campus is to put researchers, students, and private-sector partners in the same place so that research can move toward real-world use more quickly. It is a different feel from the main campus in College Station: more open space, more testing and demonstration facilities, and fewer undergraduate classrooms.` },
+      { type: 'h2', text: `What Has Opened or Been Announced Recently` },
+      { type: 'p', text: `The campus keeps adding to its footprint. A few items worth knowing about from public reporting this year:` },
+      { type: 'ul', items: [
+        `Texas 4-H held a ribbon-cutting on April 30, 2026 for its first permanent headquarters in the organization's 100-year history, located on the RELLIS campus. The building includes classrooms, labs, and outdoor space (KBTX).`,
+        `RELLIS reported the opening of its STEM Education and Research Center in March 2026, described as a collaborative facility where students, researchers, and industry partners can work together.`,
+        `In April 2026, RELLIS announced a partnership with the Unmanned Safety Institute to expand access to professional drone and unmanned aircraft systems training.`,
+        `RELLIS also lists an academic alliance and Blinn College offerings on campus, which gives the Bryan site a role in workforce and transfer pathways.`
+      ] },
+      { type: 'p', text: `Earlier planning documents from the Texas A&M University System described a long list of research buildings, including a Center for Infrastructure Renewal, transportation-technology and cyber-physical research facilities, and an education center that was projected to eventually serve far more students than it did at the start. Building timelines change, so check the RELLIS news page for what is current rather than relying on older announcements.` },
+      { type: 'h2', text: `What It May Mean for Where You Live in the Brazos Valley` },
+      { type: 'p', text: `A campus like this employs researchers, engineers, technicians, extension staff, and support personnel, and it brings visiting partners and short-term project teams. Some of those workers will choose College Station, some Bryan, and some will look to the smaller communities around the area. We cannot predict how many, and it would be a mistake to treat any single campus as a guarantee of demand for a specific neighborhood. What can be said factually is that people who work at RELLIS tend to ask about commute first.` },
+      { type: 'p', text: `A few practical considerations if RELLIS is your workplace or a possible one:` },
+      { type: 'ul', items: [
+        `Test the actual drive at the hours you would travel. Route options depend on where you start, and construction on Highway 6 and other corridors has changed commute patterns in recent years. Our commute guide on this site covers the main roads.`,
+        `Compare Bryan and College Station on price and lot size. Bryan neighborhoods have historically offered a different mix of price points and lot sizes than many College Station subdivisions, though this varies block by block.`,
+        `Look at the property tax picture. Rates differ by taxing unit, so the same price point can carry different annual costs depending on the address. Our homestead exemption guide explains how to read the numbers.`,
+        `If you are renting first, remember that a short-term project assignment and a permanent relocation call for different decisions. A lease can give you time to learn the area before you buy.`
+      ] },
+      { type: 'h2', text: `Planning a Move Tied to RELLIS or Texas A&M` },
+      { type: 'p', text: `Moving for a research or university job often comes with a deadline and limited time to visit. It helps to line up a short list of areas, a realistic commute test, and a clear picture of financing before you arrive. Because the Brazos Valley housing market has shifted this year, with more listings and longer marketing times in many price ranges, buyers often have more room to compare than they did a couple of years ago, although conditions vary by price point and location.` },
+      { type: 'p', text: `If you are weighing a move connected to RELLIS, Texas A&M, or another Brazos Valley employer, Rick Kenny would be glad to talk through neighborhoods, commute tradeoffs, and timing with no pressure. As a local agent with Aggie ties, he can walk you through both the Bryan and College Station sides of the area so you can choose based on facts that fit your situation.` }
+    ],
+    sources: [
+      { label: `Texas 4-H opens first-ever headquarters after more than a century (KBTX)`, url: `https://www.kbtx.com/2026/05/01/texas-4-h-opens-first-ever-headquarters-after-more-than-century/` },
+      { label: `News - Texas A&M RELLIS Technology & Innovation Campus`, url: `https://rellis.tamus.edu/about/news/` },
+      { label: `RELLIS Campus is an Exciting Project for Texas A&M, This Community`, url: `https://paid.tamu.edu/rellis-campus-is-an-exciting-project-for-texas-am-this-community/` }
+    ]
+  },
+  {
+    slug: 'fall-holiday-calendar-brazos-valley-college-station-bryan-newcomers',
+    title: 'Fall and Holiday Season in the Brazos Valley: A College Station and Bryan Calendar for Newcomers',
+    category: 'Local Guide',
+    date: 'September 2026',
+    readTime: '6 min read',
+    excerpt:
+      `From October festivals in Downtown Bryan to December parades, here is how the fall and holiday season typically unfolds in College Station and Bryan, and how to use it to explore neighborhoods before you buy.`,
+    metaDescription:
+      `A College Station and Bryan fall and holiday calendar for newcomers: festivals, game-day weekends, parades, and how the season can inform where you live.`,
+    image: null,
+    content: [
+      { type: 'p', text: `If you're moving to College Station or Bryan, or you've lived in the Brazos Valley for years and never looked at the calendar, the fall and holiday stretch is when the area shows off its personality. The season runs from the first Aggie home game through the Christmas parades, and it changes traffic, parking, dining, and even how you might think about where to live. This College Station guide is a seasonal orientation drawn from local visitor calendars, meant to help you see what the months between now and New Year's tend to look like.` },
+      { type: 'p', text: `A note before we start: event dates, venues, and ticketing change every year, so treat everything below as a pattern to plan around and confirm specifics with the organizers before you go.` },
+      { type: 'h2', text: `Where to check for the current calendar` },
+      { type: 'p', text: `Rather than relying on word of mouth, bookmark the official sources. Visit College Station (the city's visitor site) publishes seasonal roundups with parks and events, and Visit Aggieland keeps a year-round annual events list that groups happenings by month. Destination Bryan covers Downtown Bryan events, and the Brazos Valley Fair and Rodeo publishes its own schedule each year. Local news outlets such as The Eagle and Community Impact also run weekend roundups.` },
+      { type: 'h2', text: `October: festivals, film, and Downtown Bryan` },
+      { type: 'p', text: `According to Visit Aggieland's annual events list, October in the area typically includes the Red Wasp Film Festival, a Wacky Wicked Weekend in Downtown Bryan, Trick or Treat at Werewolf Creek, and the start of the Texas Renaissance Festival season, which runs into November at its grounds outside the immediate BCS area. Visit College Station has also listed a seasonal biergarten with live music on The Green at Century Square on weekends through the fall.` },
+      { type: 'p', text: `From a practical point of view, October is a good month to test-drive neighborhoods. Weather is comfortable for walking, so it's easier to judge what a street feels like on foot, how close a home is to trails, and how long the drive to campus or to Downtown Bryan really takes on a busy weekend.` },
+      { type: 'ul', items: [
+        `Downtown Bryan: walkable blocks around Main Street with restaurants, shops, and event weekends. Parking and street closures can change on event days.`,
+        `Century Square and the Northgate District: two very different College Station gathering spots, one a planned shopping and dining center, the other a historic entertainment district next to campus.`,
+        `Wolf Pen Creek: a park and amphitheater area that Visit College Station lists for live music and festivals.`,
+        `Lick Creek Park and Central Park: wooded trails in one, open recreation space and community events in the other.`,
+      ] },
+      { type: 'h2', text: `Game-day weekends shape the fall` },
+      { type: 'p', text: `Texas A&M home football weekends are the biggest driver of how the fall feels in College Station. Hotels fill, restaurants run long waits, and roads near Kyle Field and Wellborn Road move slowly before and after kickoff. If you live near campus, plan errands around it; if you live farther out, you may barely notice except on major Saturdays. Our separate guide on Aggie game-day weekends goes deeper on what that means for daily life.` },
+      { type: 'p', text: `For anyone considering a home purchase, this is worth experiencing at least once before you decide. A home on a route many fans use will feel different on a home-game Saturday than one on a quiet interior street, and some owners around campus choose to rent parking or host gatherings on those weekends. That is a lifestyle detail and a possible income consideration, not something to assume.` },
+      { type: 'h2', text: `November: harvest, veterans events, and races` },
+      { type: 'p', text: `Visit Aggieland's calendar places Brazos Valley Worldfest, a Veterans Day program at the Museum of the American G.I., a Turkey Trot, and the Royalty Pecan Harvest Festival in November. Visit College Station has also highlighted seasonal programming at the Museum of the American G.I. in early November. The BCS Marathon and Half Marathon appears on the annual list in December.` },
+      { type: 'p', text: `November is also when Thanksgiving break empties the student-heavy parts of town for several days. If you're house hunting, that quieter week can be a good time to visit properties near campus and see how they feel without the usual crowds, though showings around the holiday depend on sellers' schedules.` },
+      { type: 'h2', text: `December: lights, parades, and Christmas in the park` },
+      { type: 'p', text: `The annual events list for December includes Santa's Wonderland, Christmas in the Park, Lights On in Downtown Bryan, and separate Christmas parades in Downtown Bryan and in College Station. Downtown Bryan events in particular tend to draw crowds to a compact area, so arriving early and walking in from a nearby lot is a common approach.` },
+      { type: 'p', text: `Fall semester finals and the December commencement period also bring a wave of moves in and out of student housing, which we cover in our piece on the academic calendar's rhythm in Aggieland.` },
+      { type: 'h2', text: `How the season can inform a housing decision` },
+      { type: 'p', text: `A seasonal calendar isn't just entertainment. It's a way to gather real information about a place before you commit to it. Consider using the next few weekends to check a few things.` },
+      { type: 'ul', items: [
+        `Drive your likely commute at rush hour and again on a game day or event weekend, and note the difference.`,
+        `Visit a neighborhood on a Saturday morning and a weeknight to see traffic, lighting, and activity levels for yourself.`,
+        `Note how far you'd be from the parks, trails, and gathering places above, and whether you'd actually use them.`,
+        `If you're an investor or a buyer near campus, ask about how game days and academic breaks affect the property, and confirm any parking or rental rules with the City of College Station.`,
+      ] },
+      { type: 'h2', text: `Talk it through with Rick` },
+      { type: 'p', text: `If you're planning a move to the Brazos Valley, or wondering how a particular neighborhood fits your routine through the fall and holiday season, Rick Kenny would be glad to talk it through. As a local agent with Aggie ties, Rick can point you toward the areas that match your commute, budget, and lifestyle, and help you plan showings on days that give you an honest picture. Reach out anytime to start the conversation.` },
+    ],
+    sources: [
+      { label: `Visit College Station: Fall Activities`, url: `https://visit.cstx.gov/blog/discover-the-best-of-fall-in-college-station/` },
+      { label: `Visit Aggieland: Annual Events`, url: `https://visitaggieland.com/annual-events/` },
+      { label: `Destination Bryan: Brazos Valley Fair and Rodeo`, url: `https://www.destinationbryan.com/events/annual/the-brazos-valley-fair-rodeo/` },
+    ],
+  },
+  {
+    slug: 'texas-listing-agreement-explained-bryan-college-station-sellers',
+    title: 'The Listing Agreement, Explained: What Bryan-College Station Sellers Are Actually Signing',
+    category: 'Seller Tips',
+    date: 'September 2026',
+    readTime: '7 min read',
+    excerpt:
+      `Before your home shows up on the Bryan-College Station Regional MLS, you'll sign a listing agreement that spells out commission, term length, and what happens if the listing expires or you want out early. Here's what that document actually says.`,
+    metaDescription:
+      `A Bryan-College Station seller's guide to the Texas listing agreement: commission, listing term, the protection period, and cancellation, explained plainly.`,
+    image: null,
+    content: [
+      {
+        type: 'p',
+        text: `Most sellers in Bryan-College Station sign a listing agreement without reading past the signature line, and most of the time that's fine, but it's still the document that governs your entire sale: how long your broker has the right to sell the home, what you owe if it sells, and what happens if the listing runs out before a buyer shows up. Whether you're preparing to list a house near Texas A&M for the summer turnover crowd or a family home on the other side of Bryan, it helps to know what you're actually agreeing to before you sign, not after a question comes up mid-transaction.`,
+      },
+      { type: 'h2', text: 'What a Texas Listing Agreement Actually Is' },
+      {
+        type: 'p',
+        text: `Unlike a lot of the paperwork in a Texas real estate transaction, a listing agreement is not a government form. The Texas Real Estate Commission does not promulgate one, it's a private contract negotiated directly between you and your broker, typically built from a template the broker's association provides. That means the specific language can vary somewhat from one Bryan-College Station brokerage to another, and it's worth actually reading the copy you're being asked to sign rather than assuming it matches a form you saw once online.`,
+      },
+      { type: 'h2', text: 'Commission Is Negotiable, By Law' },
+      {
+        type: 'p',
+        text: `Broker compensation in Texas has never been set by any government body, MLS, or trade association, it's negotiated between you and your broker on every single listing. That principle got a lot more visible in 2026: as of January 1, Texas now requires written representation agreements before an agent can show a residential buyer a home, and those agreements have to include a conspicuous statement that broker compensation "is not set by law and is fully negotiable." The same is true on the listing side. What you pay your listing broker, and whether that figure includes compensation offered to a buyer's agent or is structured separately, is something to discuss and settle before you sign, not something to assume is fixed.`,
+      },
+      { type: 'h2', text: 'Term Length and the Protection Period' },
+      {
+        type: 'p',
+        text: `Every listing agreement has a start date and an end date, and in Texas that term is commonly somewhere between three and six months, though it's negotiable with your broker rather than fixed by any rule. What catches sellers off guard more often is the protection period, sometimes called a carryover clause, that typically runs another 30 to 90 days after the listing expires. If a buyer your agent introduced to the property during the listing ends up purchasing it during that window, commission can still be owed, even though the listing itself has ended. The usual exception: if you re-list with another licensed Texas broker and owe that new broker a commission on the sale, the old carryover obligation typically falls away. It's worth asking your agent to walk through exactly how the protection period in your agreement is worded before you sign, since the details aren't identical from one brokerage's form to the next.`,
+      },
+      { type: 'h2', text: 'Exclusive Right to Sell vs. Other Listing Types' },
+      {
+        type: 'p',
+        text: `Most agreements Bryan-College Station brokers use are "exclusive right to sell" listings, which means your broker earns the commission if the home sells during the term, regardless of who actually finds the buyer, including if you find the buyer yourself. That's different from an exclusive agency listing, where you keep the right to sell the home on your own without owing a commission, though these are less common in this market. Knowing which type you're signing matters most if you already have a specific buyer in mind, like a family member or a tenant, before you list.`,
+      },
+      { type: 'h2', text: 'Canceling Early' },
+      {
+        type: 'p',
+        text: `A listing agreement runs for its stated term, and there's no built-in right to walk away from it early just because you changed your mind or got a better offer from another brokerage. In practice, most brokers would rather release an unhappy seller than fight over it, and a mutual termination is common when a seller asks in good faith, but the broker isn't legally required to agree to one. If your circumstances change, whether it's a job that falls through, a renovation that needs to happen first, or a disagreement over pricing strategy, the right move is to talk to your agent and broker directly rather than simply stopping communication or listing elsewhere while the agreement is still active.`,
+      },
+      { type: 'h2', text: 'How This Connects to the Regional MLS' },
+      {
+        type: 'p',
+        text: `Once you sign, your home typically gets entered into the local MLS system that Bryan-College Station Regional Association of REALTORS members use, which is what actually syndicates your listing out to Zillow, Realtor.com, and every other site a buyer might be searching from Southwood Valley to Wellborn. Most MLS rules require an active listing to go into the system within a set window of any public marketing, so putting up a yard sign or posting photos online before the paperwork is finalized can create timing problems. This is also why the listing agreement and the MLS data entry sheet you fill out with your agent tend to get handled in the same sitting, they're really two parts of the same step.`,
+      },
+      {
+        type: 'ul',
+        items: [
+          `Ask exactly how your commission is structured, and whether it changes if the buyer is unrepresented or comes through a referral.`,
+          `Get the exact term length and protection period in writing, and ask for an example of how the protection period would apply.`,
+          `Confirm whether the agreement is exclusive right to sell or exclusive agency, and what that means if you already have a potential buyer.`,
+          `Ask what the process looks like if you need to cancel or pause the listing partway through, before you need the answer.`,
+        ],
+      },
+      {
+        type: 'p',
+        text: `None of this is meant to make the listing agreement feel like a trap, it's a standard document, and most Bryan-College Station transactions go through without any of these clauses ever coming into play. But a seller who understands the term, the commission structure, and the protection period going in tends to have a much easier time if anything unusual comes up later. If you're getting ready to list in Bryan, College Station, or anywhere else in the Brazos Valley and want to go through the agreement line by line before you sign, reach out and I'll walk you through it.`,
+      },
+    ],
+    sources: [
+      {
+        label: `Texas Real Estate Commission — Does TREC Have a Promulgated Listing Agreement Form?`,
+        url: `https://www.trec.texas.gov/does-trec-have-promulgated-listing-agreement-form`,
+      },
+      {
+        label: `Texas Real Estate Commission — What Changes in 2026 About Buyer/Tenant Representation in Texas`,
+        url: `https://www.trec.texas.gov/article/what-changes-2026-about-buyertenant-representation-texas`,
+      },
+      {
+        label: `Paragon DFW — Decoding the Texas Listing Agreement: A Seller's Guide`,
+        url: `https://paragondfw.com/blog/decoding-the-texas-listing-agreement-your-simple-guide-to-a-successful-home-sale`,
+      },
+    ],
+  },
+  {
+    slug: 'down-payment-assistance-programs-bryan-college-station-2026',
+    title: 'Down Payment Assistance Programs for Bryan-College Station Homebuyers in 2026',
+    category: 'Buyer Tips',
+    date: 'September 2026',
+    readTime: '6 min read',
+    excerpt:
+      `Saving for a down payment is often the real obstacle for Bryan-College Station buyers, and a City of Bryan program plus two statewide options exist specifically to close that gap. Here's what's currently available and how each one actually works.`,
+    metaDescription:
+      `Down payment assistance programs for Bryan-College Station homebuyers: the City of Bryan's own program plus statewide TSAHC and TDHCA options explained.`,
+    image: null,
+    content: [
+      {
+        type: 'p',
+        text: `For a lot of buyers in Bryan-College Station, the mortgage payment isn't actually the hard part, coming up with cash for the down payment and closing costs is. A handful of programs exist specifically to close that gap, from a City of Bryan program that layers on top of an ordinary mortgage to statewide options run by two Texas housing agencies that work the same way here as they do in Houston or Dallas. None of them are secret, but they aren't well advertised either, and the rules on who qualifies and how the assistance actually gets repaid, or doesn't, vary enough that it's worth walking through before you assume you don't qualify.`,
+      },
+      { type: 'h2', text: 'The City of Bryan\'s Down Payment Assistance Program' },
+      {
+        type: 'p',
+        text: `The City of Bryan runs its own Home Buyers Down Payment and Closing Costs Assistance Program through its Community Development Department, aimed at exactly this problem for homes inside Bryan's city limits. Eligible buyers can receive between roughly $3,500 and $24,000, structured as a deferred, non-interest-bearing note rather than a grant. There's no monthly payment on the assistance itself, but it comes with a catch: you have to live in the home as your primary residence for a minimum of five years, and if you sell or move out before then, the assistance has to be repaid out of any net sale proceeds. It applies to existing homes and new construction inside Bryan, not manufactured homes, and it carries income limits tied to household size that the city updates periodically.`,
+      },
+      {
+        type: 'p',
+        text: `As of this writing, the City of Bryan isn't accepting new applications, it's a funding-cycle program rather than an always-open one, and the Community Development Department has indicated it could reopen as early as October 2026. If you're planning a purchase in Bryan over the next several months, it's worth calling the department at 979-209-5175 now to find out when the next application window opens and what documentation to have ready, rather than finding out about it after you're already under contract.`,
+      },
+      { type: 'h2', text: 'Statewide Programs That Cover Both Bryan and College Station' },
+      {
+        type: 'p',
+        text: `Two Texas housing agencies run down payment assistance that works anywhere in the state, including all of Brazos County, and don't depend on a city budget cycle the way Bryan's program does. The Texas State Affordable Housing Corporation, or TSAHC, offers up to 5% of your loan amount toward a down payment or closing costs through its Home Sweet Texas and Homes for Texas Heroes programs. Homes for Texas Heroes is limited to specific professions: teachers, firefighters, police officers, EMS personnel, corrections officers, and veterans or active-duty military. Home Sweet Texas is open to anyone who meets the income and credit requirements, first-time buyer or not. Depending on the option you're placed in, the assistance can come as an outright grant, a second lien that's forgiven after three years in the home, or a second lien that's repaid when you sell or refinance.`,
+      },
+      {
+        type: 'p',
+        text: `The Texas Department of Housing and Community Affairs, or TDHCA, runs a parallel set of programs, My First Texas Home and My Choice Texas Home, both offering up to 5% in assistance structured as a zero-interest second mortgage with no monthly payment. My First Texas Home is limited to first-time buyers and veterans; My Choice Texas Home is open to repeat buyers as well but comes with somewhat higher income limits. TDHCA also administers a Mortgage Credit Certificate, which isn't cash at closing but a federal tax credit worth up to $2,000 a year for as long as you hold the mortgage, and it can be paired with My First Texas Home in some cases.`,
+      },
+      { type: 'h2', text: 'What These Programs Have in Common' },
+      {
+        type: 'ul',
+        items: [
+          `You have to go through a participating lender. Not every loan officer in Bryan-College Station is set up to originate TSAHC or TDHCA loans, so it's worth asking specifically and early, before you fall for a house, rather than after you've already picked a lender.`,
+          `Most require a homebuyer education course, usually a few hours online or in person, before closing.`,
+          `Minimum credit scores generally sit around 620, and both household income and the home's purchase price have to fall under caps that vary by program, household size, and sometimes county.`,
+          `The home has to be your primary residence. None of these programs are available for investment or rental property purchases.`,
+        ],
+      },
+      { type: 'h2', text: 'Making One of These Work on an Offer in BCS' },
+      {
+        type: 'p',
+        text: `The practical wrinkle in a market like this one is less about qualifying and more about timing and strategy. Down payment assistance loans typically take a little longer to close than a conventional loan with nothing layered on top, so if you're competing for a listing that's drawing multiple offers, it helps to have your lender ready to explain the timeline to the listing agent up front rather than let it become a surprise during the option period. It's also worth running the numbers both ways with your lender: a program that reduces your cash to close but adds a second lien with a five-year residency requirement, like Bryan's program, is a very different trade-off than a straight grant with no strings attached, and which one makes sense depends on how long you actually expect to stay in the home.`,
+      },
+      {
+        type: 'p',
+        text: `If you're trying to figure out whether a down payment assistance program could realistically work for a specific home you're looking at in Bryan or College Station, I can point you to local lenders who are set up to originate these loans and help you think through whether the terms make sense for your situation. Reach out and we can go through it together.`,
+      },
+    ],
+    sources: [
+      {
+        label: `City of Bryan — Community Development Programs`,
+        url: `https://www.bryantx.gov/community-development/community-development-programs/`,
+      },
+      {
+        label: `Texas State Affordable Housing Corporation — Loans and Down Payment Assistance`,
+        url: `https://www.tsahc.org/homebuyers-renters/loans-and-down-payment-assistance/`,
+      },
+      {
+        label: `Bankrate — Texas First-Time Homebuyer Assistance Programs`,
+        url: `https://www.bankrate.com/mortgages/texas-first-time-homebuyer-assistance-programs`,
+      },
+    ],
+  },
+  {
+    slug: 'bryan-college-station-market-update-september-2026-rates-inventory',
+    title: 'Bryan-College Station Housing Market Update, September 2026: Rates Hit a One-Year High as Listings Pile Up',
+    category: 'Market Update',
+    date: 'September 2026',
+    readTime: '6 min read',
+    excerpt:
+      `Mortgage rates just touched a one-year high, inventory in Bryan-College Station keeps climbing, and sellers are cutting prices more often. Here is what the September 2026 numbers actually mean if you are buying or selling in the Brazos Valley.`,
+    metaDescription:
+      `A September 2026 Bryan-College Station market update: mortgage rates at a one-year high, rising inventory, and what softer demand means for Brazos Valley buyers and sellers.`,
+    image: null,
+    content: [
+      {
+        type: 'p',
+        text: `Two things are true about the Bryan-College Station housing market at the same time right now, and they are pulling in opposite directions. Mortgage rates just climbed to their highest point in a year, which should be pushing buyers to the sidelines. But sellers here are also listing more homes than they were a year ago, and a growing share of them are cutting their asking price to get a deal done. For anyone trying to time a move in the Brazos Valley this fall, both halves of that story matter, and neither one is the whole picture on its own.`,
+      },
+      { type: 'h2', text: 'Mortgage rates just hit a one-year high' },
+      {
+        type: 'p',
+        text: `The average 30-year fixed mortgage rate reached 7.23% as of September 25, 2026, up from 7.07% the week before and the highest level in twelve months, according to Forbes Advisor's mortgage rate tracking. Rates had spent most of 2026 drifting in the mid-to-high 6% range, so this jump is a real shift, not noise. A move from roughly 6.5% to 7.2% on a $350,000 mortgage adds somewhere in the neighborhood of $170 to $180 a month to the payment, which is enough to change what a buyer can qualify for or is willing to carry. If you are house-hunting in College Station or Bryan right now, it is worth getting a fresh rate lock quote rather than budgeting off a number you saw a few months ago.`,
+      },
+      { type: 'h2', text: 'Inventory is up, and closed sales are down' },
+      {
+        type: 'p',
+        text: `Locally, the supply-and-demand picture has been shifting for months. Listings in the Bryan-College Station market were up roughly 26% in June 2026 compared to June 2025, while closed sales over the same period were down about 12%, according to reporting by KBTX that cited Coldwell Banker Apex Realtor Jenn Bacak. That combination, more homes for sale chasing fewer completed sales, is the textbook definition of a market shifting toward buyers. It showed up again in July: Community Impact reported that Bryan-College Station saw 26 fewer homes sold in July 2026 than in July 2025, with results split by ZIP code, half saw sales volume rise and half saw it fall, and four of the six tracked ZIP codes posted lower median prices for the month while two saw gains.`,
+      },
+      { type: 'h2', text: 'Sellers are cutting prices more than they used to' },
+      {
+        type: 'p',
+        text: `The clearest sign of a market recalibrating is what sellers are doing to their own asking prices. Yanling Mayer, an economist with the Texas Real Estate Research Center at Texas A&M, told KBTX that the average seller price cut has reached about 3% of the initial asking price locally, which works out to roughly $9,000 to $10,000 on a typical College Station listing. That does not mean prices are collapsing. Median sale prices across the market have stayed relatively stable even as this is happening, which points to a market correcting through longer marketing times and negotiated price reductions rather than through a broad drop in home values.`,
+      },
+      { type: 'h2', text: 'What this means if you are buying' },
+      {
+        type: 'ul',
+        items: [
+          `More choices and more room to negotiate. With inventory up roughly a quarter year over year, buyers have more homes to compare and less pressure to waive inspections or option periods just to compete.`,
+          `Price cuts are a real opening. A home that has already had one price reduction is often a more realistic starting point for negotiation than a fresh listing still testing the market.`,
+          `Rates matter more than list price for your monthly payment right now. At 7.23%, get pre-approved with current numbers before you fall in love with a specific price range, and ask your lender about temporary buydowns some Brazos Valley builders and sellers are offering to offset the higher rate.`,
+        ],
+      },
+      { type: 'h2', text: 'What this means if you are selling' },
+      {
+        type: 'p',
+        text: `Pricing accurately from day one matters more in a market like this than it did a year or two ago, when almost anything sold quickly regardless of list price. With more competing listings and softer closed-sales volume, an overpriced home in Bryan-College Station now risks sitting long enough that buyers assume something is wrong with it, which historically tends to invite lower offers than pricing it correctly from the start would have. A tighter, data-driven comparative market analysis, one that accounts for what is actually closing in your specific neighborhood and ZIP code rather than the market as a whole, is doing more work right now than it was during the faster-moving years of the last cycle.`,
+      },
+      {
+        type: 'p',
+        text: `None of this is a reason to panic in either direction. Housing markets are local down to the ZIP code and even the subdivision, and Bryan-College Station has structural demand that a lot of markets do not, a steady flow of Texas A&M faculty, staff, and grad students, ongoing growth at RELLIS, and a rental base that keeps a floor under the local economy. But the days of every listing getting multiple offers in a weekend are, for now, behind us. If you want a straight read on what these numbers mean for your specific street or the specific home you are watching, I am happy to pull the actual comps and walk through it with you.`,
+      },
+    ],
+    sources: [
+      {
+        label: `Forbes Advisor — Mortgage Rates Today: September 25, 2026`,
+        url: `https://www.forbes.com/advisor/mortgages/mortgage-rates-09-25-26/`,
+      },
+      {
+        label: `KBTX — Here's What Has Changed in the Bryan-College Station Housing Market`,
+        url: `https://www.kbtx.com/2026/07/31/heres-what-has-changed-bryan-college-station-housing-market/`,
+      },
+      {
+        label: `Community Impact — Fewer Homes Sold in Bryan, College Station in July Compared to Same Month Last Year`,
+        url: `https://communityimpact.com/bryan-college-station/real-estate/fewer-homes-sold-in-bryan-college-station-in-july-compared-to-same-month-last-year/`,
+      },
+    ],
+  },
+  {
+    slug: '1031-exchange-guide-bryan-college-station-investors',
+    title: '1031 Exchanges for Bryan-College Station Real Estate Investors: How the Tax Deferral Actually Works',
+    category: 'Investing',
+    date: 'September 2026',
+    readTime: '7 min read',
+    excerpt:
+      `A local walkthrough of the Section 1031 exchange for Bryan-College Station landlords and investors trading up out of a duplex, fourplex, or rental house — the deadlines, the qualified intermediary, and what changes (and does not) at the Brazos Central Appraisal District.`,
+    metaDescription:
+      `A Bryan-College Station investor's guide to 1031 exchanges: the 45- and 180-day deadlines, the qualified intermediary requirement, and how the swap plays out locally near Texas A&M.`,
+    image: null,
+    content: [
+      {
+        type: 'p',
+        text: `A lot of the rental stock in Bryan-College Station has been owned a long time. Duplexes near Northgate that a family bought in the 1990s, a fourplex off Holleman that has been cash-flowing since before the Northgate District redevelopment, a rent house in Bryan that started as a starter home and never got sold. At some point, most owners of long-held property here ask the same question: how do I trade up, or trade into something easier to manage, without handing a big chunk of the gain straight to the IRS? For real estate held as an investment, the answer is usually a Section 1031 exchange — and the mechanics of it matter more than the concept, because the IRS does not give you room to improvise.`,
+      },
+      {
+        type: 'p',
+        text: `This is not tax advice, and a 1031 exchange is not something to attempt without a CPA and a qualified intermediary lined up before you ever sign a listing agreement. But here is what the process actually looks like, translated into terms that apply to a Brazos Valley duplex, fourplex, or rental house rather than a textbook example.`,
+      },
+      { type: 'h2', text: 'What actually qualifies as "like-kind"' },
+      {
+        type: 'p',
+        text: `Under Internal Revenue Code Section 1031, an owner can defer capital gains tax on the sale of real property held for investment or business use by reinvesting the proceeds into other real property held for investment or business use. "Like-kind" is broader than most first-time exchangers expect: a College Station duplex can exchange into a fourplex in Bryan, a small commercial building, or unimproved land out toward Wellborn. What will not qualify is your personal residence, a property bought to flip and never rented, or a vacation home you use yourself beyond the IRS's limited personal-use allowance. The line the IRS actually draws is investment or business purpose on both ends of the trade, not square footage or property type.`,
+      },
+      { type: 'h2', text: 'The 45-day and 180-day clocks you cannot miss' },
+      {
+        type: 'p',
+        text: `Once you close on the property you are selling — the "relinquished" property — two deadlines start running at the same time, and neither one pauses for a holiday, a slow title company, or a builder's construction schedule:`,
+      },
+      {
+        type: 'ul',
+        items: [
+          `45 calendar days to formally identify, in writing, the replacement property or properties you might acquire.`,
+          `180 calendar days total (not 180 days after identification — 180 days from the original closing) to actually close on the replacement property, or your tax return due date for that year, whichever comes first.`,
+          `Identification is limited to one of three approaches: up to three properties regardless of value (the "three-property rule"), any number of properties as long as their combined value does not exceed 200% of what you sold (the "200% rule"), or more than that only if you end up acquiring at least 95% of the total value identified (the "95% rule").`,
+        ],
+      },
+      {
+        type: 'p',
+        text: `In a market like ours, where good small multifamily near campus can move fast and inventory in a given price band is thin, 45 days is a tight window if you have not already started looking. Investors who exchange successfully here almost always start touring replacement candidates before they ever put the relinquished property under contract, so the clock is a formality rather than a scramble.`,
+      },
+      { type: 'h2', text: 'Why the qualified intermediary is not optional' },
+      {
+        type: 'p',
+        text: `The single most common way a 1031 exchange fails is an investor who touches the sale proceeds, even briefly. To defer the gain, the money from the sale has to go directly to a qualified intermediary (QI) — a neutral third party who holds the funds in escrow and uses them to acquire the replacement property on your behalf. You never have receipt of the cash. That means the QI has to be engaged and the exchange agreement signed before your relinquished property closes, not after. Your closing attorney or title company in Brazos County can typically recommend a QI, but the choice is yours, and it is worth vetting: the funds sit with that company for weeks or months, so bonding, insurance, and reputation matter.`,
+      },
+      { type: 'h2', text: 'What changes locally, and what does not' },
+      {
+        type: 'p',
+        text: `A few things are specific to doing this in Brazos County. First, a 1031 exchange defers federal capital gains tax and depreciation recapture — it does not touch property taxes. The Brazos Central Appraisal District values whatever you acquire at its own market value the following January, regardless of the basis carried over from the relinquished property; there is no tax-basis "discount" that follows you into the new appraisal. Second, Texas has no state capital gains tax, so the exchange is purely a federal deferral play here, simpler than in a state that would otherwise take its own bite too. Third, depreciation recapture is still lurking: part of your gain is taxed at up to 25% federal rates as recaptured depreciation whether or not you exchange, unless that liability also carries forward through the exchange. Your CPA needs to model this before you list, not after.`,
+      },
+      {
+        type: 'p',
+        text: `On the ground, the exchanges I see most often in this market go one of three directions: a duplex or fourplex owner near campus trading into a larger multifamily property to consolidate management, a landlord trading a management-heavy student rental for a lower-maintenance property in Bryan or out toward Wellborn, or an investor using the exchange to move capital from Brazos County into a different market entirely. All three are legitimate uses of Section 1031 — the code does not require you to stay local, only that the replacement property is held for investment or business use.`,
+      },
+      {
+        type: 'p',
+        text: `If you are weighing a sale that might make sense as a 1031 exchange, the timing question is the one to answer first: do you have a realistic replacement property in mind, and can you be under contract on the sale side with a plan already in motion for the 45-day clock? I cannot give you tax advice, but I can help you understand what is actually available to trade into in Bryan-College Station right now, pull comps on both sides of the exchange, and connect you with local title companies and qualified intermediaries who do this regularly. Reach out and let's talk through whether the timeline works for your situation.`,
+      },
+    ],
+    sources: [
+      {
+        label: `IRS — Like-Kind Exchanges Under IRC Section 1031`,
+        url: `https://www.irs.gov/node/5256`,
+      },
+      {
+        label: `IPX1031 — 1031 Exchange Deadlines and Identification Requirements`,
+        url: `https://www.ipx1031.com/deadlines-and-identification-requirements/`,
+      },
+      {
+        label: `National Association of REALTORS® — Section 1031 Like-Kind Exchange`,
+        url: `https://www.nar.realtor/section-1031-like-kind-exchange`,
+      },
+    ],
+  },
+  {
+    slug: 'buyer-representation-agreement-college-station-bryan-2026',
+    title: "Texas Now Requires a Signed Buyer Representation Agreement: What It Means in College Station and Bryan",
+    category: 'Working With Rick',
+    date: 'September 2026',
+    readTime: '6 min read',
+    excerpt:
+      'A new Texas law requires buyers to sign a written representation agreement before an agent can show them a home. Here is what changed, what the agreement has to say, and why it matters for buyers shopping in College Station and Bryan.',
+    metaDescription:
+      "What Texas's buyer representation agreement law means for buyers in College Station and Bryan: what it requires, and how agent commission works now.",
+    image: null,
+    content: [
+      {
+        type: 'p',
+        text: `If you are getting ready to tour homes in College Station or Bryan, there is a piece of paperwork waiting before your agent unlocks the first door: a written buyer representation agreement. It is not a Rick Kenny policy — it is now Texas law. Texas Occupations Code Section 1101.563 requires every license holder to have a signed representation agreement with a buyer before showing residential property, a rule that took effect January 1, 2026 and builds on changes the real estate industry made nationally back in August 2024. Here is what that agreement actually says, how commission works under it, and why it matters even more in a market like the Brazos Valley, where a large share of buyers are not full-time locals to begin with.`,
+      },
+      { type: 'h2', text: 'A two-step change: an industry settlement, then Texas law' },
+      {
+        type: 'p',
+        text: `The first shift came on August 17, 2024, when a nationwide settlement involving the National Association of Realtors changed how buyer agent compensation is handled. Two things stopped: multiple listing services could no longer display an offer of buyer-agent compensation on a listing, and Realtor-affiliated agents were required to have a written agreement with a buyer before touring homes with them. That took what had mostly been an informal, verbal arrangement in a lot of transactions and made it a documented one.`,
+      },
+      {
+        type: 'p',
+        text: `Texas then wrote a version of that requirement directly into state license law. Under Section 1101.563, effective January 1, 2026, a Texas real estate license holder cannot show a buyer a residential property until a written buyer representation agreement is signed. That distinction matters more than it sounds. A violation of an association's internal rule can lead to association discipline. A violation of Section 1101.563 is a license law violation that the Texas Real Estate Commission can act on directly, up to suspension or revocation.`,
+      },
+      { type: 'h2', text: 'What the agreement actually has to say' },
+      {
+        type: 'p',
+        text: `The law is specific about what has to be in the document, not just that one exists. A compliant Texas buyer representation agreement has to spell out:`,
+      },
+      {
+        type: 'ul',
+        items: [
+          `The exact amount or rate of the broker's compensation, and how it will be calculated — not a placeholder like "to be determined."`,
+          `A defined termination date, so the relationship has a clear end point rather than running indefinitely.`,
+          `Whether the representation is exclusive (you work with that one agent) or non-exclusive (you are free to use others).`,
+          `A conspicuous statement that the fee is not set by law and is fully negotiable — because it is, and no agent should suggest otherwise.`,
+        ],
+      },
+      {
+        type: 'p',
+        text: `Simply having an agent unlock a door for a single showing, before any advice or negotiation happens, generally does not trigger the requirement. The moment representation actually starts — pricing opinions, strategy, negotiating on your behalf, preparing an offer — the signed agreement needs to already be in place.`,
+      },
+      { type: 'h2', text: 'How commission actually works now' },
+      {
+        type: 'p',
+        text: `Because buyer-agent compensation is no longer posted in the MLS, it gets negotiated directly between the buyer and the agent, in writing, before the search begins. Rates you will commonly see quoted across Texas run in a roughly 2 to 3 percent range, but that figure is a market norm, not a floor or a ceiling — it is negotiable in every case, and the agreement has to say so.`,
+      },
+      {
+        type: 'p',
+        text: `What has not disappeared is the seller's ability to help cover that cost. Sellers can still offer a closing cost credit that a buyer applies toward their agent's fee, and in a Bryan-College Station market that has been carrying more standing inventory through 2026, that kind of concession has stayed a normal part of many offers. The difference from the old system is where that number lives: it is negotiated inside the purchase contract itself, not advertised in advance on the listing.`,
+      },
+      { type: 'h2', text: 'Why this matters more in a market like College Station and Bryan' },
+      {
+        type: 'p',
+        text: `A meaningful share of buyers here are not shopping from across town — they are parents purchasing a place for a student headed to Texas A&M, faculty or staff relocating for a job on campus or at RELLIS, or an investor buying a rental from out of state. Those are exactly the buyers who benefit most from having representation spelled out in writing before the search starts, because they often cannot be in College Station for every step of it.`,
+      },
+      {
+        type: 'p',
+        text: `A written agreement forces an early, specific conversation about what you are actually getting, which in a typical Brazos Valley purchase includes:`,
+      },
+      {
+        type: 'ul',
+        items: [
+          `Pulling and explaining true local comps, not a national estimate, before you write an offer.`,
+          `Walking the option period inspection results and negotiating repairs or a credit within the short window Texas contracts allow.`,
+          `Flagging HOA, MUD, or PID situations that affect your real monthly payment, and ordering the resale certificate on time.`,
+          `Coordinating survey, title, and lender deadlines so nothing slips past the dates in the contract.`,
+          `Knowing which subdivisions, roads, and school zones a given house is actually being cross-shopped against.`,
+        ],
+      },
+      { type: 'h2', text: 'You are not signing away an open-ended commitment' },
+      {
+        type: 'p',
+        text: `Because a termination date is legally required, a buyer representation agreement is not a blank check. It can be scoped to a single property, a single weekend of showings, or a defined search period, and it can be renegotiated or allowed to expire if the fit is not right. The point of the law is disclosure and clarity up front, not locking a buyer into a relationship that is not working.`,
+      },
+      {
+        type: 'p',
+        text: `None of this is legal advice, and the specific terms always come down to the document you are asked to sign. If you are starting a home search in College Station, Bryan, or anywhere in the Brazos Valley and want the agreement, the compensation, and what you are getting explained plainly before you tour the first house, reach out to Rick. A clear conversation up front is a better start than paperwork you skim in the driveway.`,
+      },
+    ],
+    sources: [
+      {
+        label: `Texas Real Estate Commission — What Changes in 2026 About Buyer/Tenant Representation in Texas`,
+        url: `https://www.trec.texas.gov/article/what-changes-2026-about-buyertenant-representation-texas`,
+      },
+      {
+        label: `Neuhaus Real Estate — Texas Buyer Representation Agreements 2026: What's Required`,
+        url: `https://neuhausre.com/texas-buyer-representation-agreements-2026/`,
+      },
+      {
+        label: `LRG Realty — What Does a Buyer's Agent Do in Texas After the NAR Settlement?`,
+        url: `https://lrgrealty.com/lrg-blog/buyers-agent-texas-nar-settlement/`,
+      },
+    ],
+  },
+  {
     slug: 'hoa-deed-restrictions-bryan-college-station-buyers-guide',
     title: 'HOAs and Deed Restrictions in Bryan-College Station: The Documents to Read Before You Buy',
     category: 'Buyer Tips',
