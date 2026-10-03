@@ -1,5 +1,44 @@
 export const blogPosts = [
   {
+    slug: 'termite-inspection-wdi-report-bryan-college-station-home-buyers',
+    title: 'Termites and the Texas WDI Report: What Bryan-College Station Home Buyers Should Know Before Closing',
+    category: 'Buyer Tips',
+    date: 'October 2026',
+    readTime: '5 min read',
+    excerpt:
+      `A general home inspector in Texas cannot tell you whether a house has termites. Here is how the separate wood-destroying insect (WDI) report works for buyers in College Station and Bryan, and how to fit it into your option period.`,
+    metaDescription:
+      `Buying in College Station or Bryan? Learn how the Texas WDI termite report (T-5) works, who can issue it, and how to use it during your option period.`,
+    image: null,
+    content: [
+      { type: 'p', text: `Most buyers in College Station and Bryan hire a home inspector during the option period and assume that covers everything, termites included. In Texas it usually does not. Wood-destroying insects are handled by a separate state license and a separate report, and knowing the difference can keep a surprise out of your first year as an owner. This guide explains how the process works, with the caveat that every property and every contract is different.` },
+      { type: 'h2', text: `Why a Home Inspection and a Termite Inspection Are Not the Same` },
+      { type: 'p', text: `The Texas Real Estate Commission (TREC) licenses home inspectors, and TREC states that a home inspector working under that license may not comment on whether termite infestations exist. An inspector can note visible damage, moisture, or deficiencies that look like they deserve a closer look, but cannot attribute them to wood-destroying insects. Anyone who reports on wood-destroying insects must hold a separate license from the Texas Department of Agriculture's Structural Pest Control Service. Some inspectors carry both licenses, so it is worth asking whether yours does.` },
+      { type: 'p', text: `The standard document for this is the Texas Official Wood Destroying Insect Report, commonly called the T-5 (form SPCS/T-5). It is completed by a licensed applicator or technician and covers the visible, accessible areas of the main structure. Detached buildings such as a workshop or storage building generally need to be requested separately, so tell the inspector up front if the property has one.` },
+      { type: 'h2', text: `When a WDI Report Is Required in a Bryan-College Station Purchase` },
+      { type: 'p', text: `Texas law does not require a termite inspection on every home sale. In practice, the report most often comes into play because a lender asks for it. Loan programs such as VA financing commonly call for one, and the T-5 is the accepted format. If you are paying cash or using a loan that does not require it, you can still order one on your own, and many buyers do.` },
+      { type: 'p', text: `Timing matters. Your option period is the window to inspect, negotiate, or walk away, so the WDI inspection should be scheduled in the first few days rather than the last afternoon. Pest inspectors, like general inspectors, can book up during busy stretches around the Texas A&M calendar, when relocations and student-driven moves bunch together. Ask your agent to line up both inspections at the same time.` },
+      { type: 'h2', text: `How to Read the Results` },
+      { type: 'p', text: `The T-5 separates findings into a few categories, and the wording is easy to misread. An answer indicating active infestation means live insects were observed. It does not automatically mean the house needs expensive repair. Evidence of a previous infestation means there are signs of past activity without current activity, which may or may not have been treated. Neither answer replaces the follow-up questions below.` },
+      { type: 'ul', items: [
+        `Has the property been treated before, and is there paperwork? Ask the seller for treatment records, warranties, or bait-system agreements, and find out whether the warranty transfers to a new owner.`,
+        `Is there visible damage, and who evaluates it? If the report or the general inspector notes damaged wood, a licensed contractor or structural professional can estimate the repair scope. Get that estimate before the option period ends.`,
+        `Are there conditions that invite insects? Wood in contact with soil, mulch piled against siding, leaking gutters, and plumbing leaks all deserve attention, and they are often inexpensive to correct.`,
+        `What does the report not cover? Inaccessible areas, finished walls, and detached structures may fall outside the findings. Read the limitations section rather than only the checkboxes.`,
+        `Does the finding connect to other issues? Moisture problems, drainage, and foundation movement can overlap. Our guide to expansive clay soil and foundations covers the second half of that picture.`
+      ] },
+      { type: 'h2', text: `Using the Findings in Your Negotiation` },
+      { type: 'p', text: `If the report shows active or previous activity, you have options inside the option period: ask the seller to treat and repair, request a credit, renegotiate the price, or terminate under the option. The right choice depends on the severity, your loan, and how competitive the market is for that property. Our option period checklist walks through how those choices fit together, and how an amendment should be documented in writing.` },
+      { type: 'p', text: `A final point about expectations. A clean report describes what a licensed inspector could see on one day. It is not a guarantee about the future, and Brazos Valley homes, like homes anywhere, can face insect pressure at any time. Routine upkeep, keeping soil and wood separated, fixing moisture, and keeping any treatment warranty current are the practical protections.` },
+      { type: 'p', text: `If you are weighing an offer in College Station or Bryan and want help lining up the right inspections in the right order, Rick Kenny can walk you through the process and recommend licensed professionals to interview. Reach out whenever you are ready; there is no pressure to do anything before you are comfortable.` }
+    ],
+    sources: [
+      { label: `TREC: Home inspector limits on commenting about termite infestations`, url: `https://www.trec.texas.gov/it-appears-inspector-who-inspected-my-home-my-purchase-missed-major-termite-infestation-damage` },
+      { label: `What Is a Texas WDI Report (the T-5)? (WDI Science)`, url: `https://wdiscience.com/what-is-a-texas-wdi-report/` },
+      { label: `Texas Administrative Code 7.175: Official Wood Destroying Insect Report Inspection Procedures`, url: `http://txrules.elaws.us/rule/title4_chapter7_sec.7.175` }
+    ]
+  },
+  {
     slug: 'neighborhood-spotlight-greens-prairie-reserve-college-station',
     title: 'Neighborhood Spotlight: Greens Prairie Reserve in South College Station, TX',
     category: 'Neighborhood Spotlight',
