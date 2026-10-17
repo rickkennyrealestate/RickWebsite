@@ -1,5 +1,279 @@
 export const blogPosts = [
   {
+    slug: 'coffee-shops-remote-work-spots-college-station-bryan-local-guide',
+    title: 'Coffee Shops and Remote-Work Spots in College Station and Bryan: A Neighborhood-by-Neighborhood Local Guide',
+    category: 'Local Guide',
+    date: 'October 2026',
+    readTime: '5 min read',
+    excerpt:
+      `Where do locals actually go for a latte, a quiet laptop session, or a meeting that is not in an office? Here is a neighborhood-by-neighborhood look at coffee shops across College Station and Bryan, and what they say about the areas around them.`,
+    metaDescription:
+      `A local guide to coffee shops and remote-work spots in College Station and Bryan, from Downtown Bryan's Main Street to Midtown and Lake Walk, by neighborhood.`,
+    image: null,
+    content: [
+      { type: 'p', text: `If you are thinking about moving to College Station, or you already live here and work from a laptop, the coffee shop map of the Brazos Valley is worth learning. A good local cafe doubles as a second office, a study hall, and a meeting room, and where the cafes cluster tells you a lot about how different parts of town work. This guide walks through several well-known College Station and Bryan spots by area, based on published local guides, so you can try them out and get a feel for neighborhoods before you buy or rent. Hours and menus change, so check each shop's own page or social account before you go.` },
+      { type: 'h2', text: `Downtown Bryan: Main Street Coffee and Brick-Wall Atmosphere` },
+      { type: 'p', text: `Historic Downtown Bryan is the densest cluster of independent coffee in the Brazos Valley, and it is easy to cover on foot. Destination Bryan lists Harvest Coffee Bar at 101 N. Main Street, which offers specialty coffee and a scratch-made food menu in a brick-walled space with views of Main Street. A few blocks north, Tavo Coffee Co. at 419 N. Main Street serves beans from its own family coffee farm in Guatemala, prepared as espresso and pour-over, along with house-made syrups and pastries.` },
+      { type: 'p', text: `Also in Bryan, Polite Coffee Roasters operates out of The Kyle House at 800 S. Bryan Avenue, an 1800s Victorian home once owned by Edwin Kyle, the man for whom Texas A&M's football stadium is named. Working from a historic house is a very different experience from a strip-center cafe. Downtown Bryan is also where you will find the First Friday events, a farmers market, and walkable restaurants, so a coffee stop here pairs naturally with a look at the surrounding historic district.` },
+      { type: 'h2', text: `Midtown and Texas Avenue: Between Campus and Blinn` },
+      { type: 'p', text: `Babe's Doughnut & Coffee Shop sits at 3409 Texas Avenue in the Midtown area of Bryan, between Texas A&M and Blinn College. It leans toward donuts and iced lattes rather than a laptop-and-power-strip setup, which makes it a quick-stop option more than an all-day office. If you are comparing neighborhoods, Midtown's appeal is its location along a major corridor, with short drives to campus, downtown, and shopping.` },
+      { type: 'h2', text: `College Station Cafes Near Campus and Highway 6` },
+      { type: 'p', text: `On the College Station side, Texas A&M's veterinary school ambassadors highlighted several favorites in a 2024 write-up. Carport Coffee sits just off University Drive, within walking distance of main campus, with a visually appealing space and a food menu people praised. Gough Gough Coffee Company, off Highway 6, is family-owned, known for quick service and reliable Wi-Fi for longer study sessions. Sweet Eugene's offers a cozy, whimsical setting and baked goods through the day.` },
+      { type: 'p', text: `Because these spots sit near campus and on the Highway 6 corridor, they tend to fill up during the academic year, especially around midterms and finals. If you plan to work from a cafe on weekdays, arriving early and being flexible about seating is usually the practical approach.` },
+      { type: 'h2', text: `Lake Walk and Beyond: Patios, Early Hours, and Outdoor Seating` },
+      { type: 'p', text: `POV, at 4114 Lake Atlas Drive in the Lake Walk area of Bryan, has indoor and outdoor seating, a dog-friendly patio, and, per Destination Bryan, early weekday opening hours. If your workday starts before most cafes unlock their doors, a spot like this is useful to know about. Lake Walk is a newer development on the west side of Bryan, which gives you a different feel from the older grid of Downtown.` },
+      { type: 'h2', text: `How to Use This List When You Are House Hunting` },
+      { type: 'p', text: `Spending a few mornings working from different cafes is one of the cheaper ways to test-drive a part of town. A few things worth noticing as you go:` },
+      { type: 'ul', items: [
+        `Drive time at the hours you would actually travel, whether that is 8 a.m. on Texas Avenue or a weekday afternoon on Highway 6.`,
+        `Parking and walkability, which differ a lot between Downtown Bryan's Main Street and cafes in shopping centers.`,
+        `How crowded each spot gets when classes are in session versus summer, since the student calendar shapes foot traffic.`,
+        `What else is within a short walk or drive, such as groceries, parks, and the trails and amenities that matter to your routine.`,
+        `Internet reliability, if you work remotely. Test it before you rely on it for a video call.`
+      ] },
+      { type: 'p', text: `A cafe visit will not replace looking at property taxes, flood maps, HOA rules, or commute times, but it adds a lived-in sense of a place that listing photos cannot give. If you would like help matching a neighborhood to your daily routine, or you are curious what homes near any of these areas look like right now, reach out to Rick for a no-pressure conversation about the Bryan-College Station market.` }
+    ],
+    sources: [
+      { label: `Destination Bryan: 5 of the Best Places to Study or Work Remotely in Bryan`, url: `https://destinationbryan.com/blog/5-of-the-best-places-to-study-or-work-remotely-in-bryan` },
+      { label: `Texas A&M Veterinary Medicine Ambassadors: Exploring Coffee in College Station`, url: `https://vetmed.tamu.edu/ambassadors/2024/exploring-coffee-in-college-station/` }
+    ]
+  },
+  {
+    slug: 'buying-a-home-from-out-of-town-college-station-bryan-long-distance-guide',
+    title: 'Buying a Home in College Station or Bryan from Out of Town: A Long-Distance Buyer\'s Playbook',
+    category: 'Working With Rick',
+    date: 'October 2026',
+    readTime: '6 min read',
+    excerpt:
+      `Relocating for a Texas A&M job, a RELLIS project, or an Aggie student? You can handle most of a College Station home purchase remotely. Here is how a local agent bridges the distance, step by step.`,
+    metaDescription:
+      `Buying in College Station or Bryan from out of town? Learn how virtual tours, one focused visit, e-signatures, and a local agent make a long-distance purchase work.`,
+    image: null,
+    content: [
+      { type: 'p', text: `Plenty of people buy a home in College Station without living here yet. They are accepting positions at Texas A&M or the surrounding employers, relocating ahead of a school year, or purchasing a place near campus for an Aggie they will visit on weekends. Buying in College Station or Bryan from out of town is very doable, but it works best when you split the process into what can happen from a distance and what truly needs someone on the ground. That second category is where a local, Aggie-connected agent earns their keep.` },
+      { type: 'h2', text: `Start With the Parts You Can Do From Anywhere` },
+      { type: 'p', text: `Much of the early work needs no travel. Talking with a lender about a pre-approval, deciding on a price range and monthly payment, and clarifying your must-haves can all happen by phone and video. This is also the right time to sit down with your agent and talk through how a Texas purchase works, including the buyer representation agreement now used in Texas, so the terms are clear before you tour anything.` },
+      { type: 'p', text: `Use this stage to learn the geography. Bryan-College Station is a two-city market, and the same budget looks different in Southwood Valley, Pebble Creek, Midtown, Castlegate, Wellborn, or Downtown Bryan. Your agent can describe each area factually: typical lot and home styles, commute patterns toward campus, Highway 6 and Texas Avenue traffic, and nearby amenities. Rick's neighborhood spotlights on this blog are a good place to begin.` },
+      { type: 'h2', text: `Make Virtual Showings Work for You` },
+      { type: 'p', text: `Listing photos can hide as much as they show, so ask your agent to go beyond the MLS gallery. A live video walkthrough lets you ask the questions a photographer would never answer. Useful requests include:` },
+      { type: 'ul', items: [
+        `Slow pans of ceilings, corners, and the area around windows and plumbing fixtures.`,
+        `A look at the garage, attic access, and the electrical panel.`,
+        `The view from the back fence and the street out front at different times of day.`,
+        `A walk of the route from the house to campus, your workplace, or the grocery store so you can judge the drive for yourself.`,
+        `Notes on sounds and smells, such as nearby train traffic, road noise, or a musty closet.`
+      ] },
+      { type: 'p', text: `Treat video as a way to narrow your list rather than to make a final decision. Most long-distance buyers do better by trimming to a short list of strong candidates and then seeing those in person.` },
+      { type: 'h2', text: `Plan One Focused Visit to College Station` },
+      { type: 'p', text: `If you can swing a single trip, schedule it with a purpose. Book showings back to back over one or two days, and build in time to drive the commute at the hours you would actually travel. Remember that the Aggieland calendar changes everything: home football Saturdays, move-in week, and graduation weekends bring heavy traffic and hotel demand, so book travel early and ask your agent which dates to avoid if you want quiet streets and open restaurants.` },
+      { type: 'p', text: `While you are in town, look at things no listing can show you. Visit the neighborhood on a weekday evening, check cell and internet service, and note how drainage looks after rain. Because Brazos Valley soils are clay-heavy and the area has seen flooding in places, ask your agent how to check flood zone information and what an inspector should look at on foundations. Our articles on flood zones and expansive clay soil go deeper on both.` },
+      { type: 'h2', text: `Let Local Eyes Handle the Details You Cannot` },
+      { type: 'p', text: `Once you have an accepted offer, the local work multiplies. In Texas, the option period gives you a window to inspect the property and negotiate repairs. If you are not in town, your agent can attend the inspection, take photos and video of each finding, and walk you through the report. A local agent can also recommend inspectors, including specialists for termites, foundations, roofs, and septic systems on acreage, and arrange access for appraisers and surveyors.` },
+      { type: 'p', text: `Most paperwork is done electronically, and many Texas closings can be handled with remote or mobile signing, though your title company will tell you what applies to your situation. Ask early about wire-transfer safety. Confirm wiring instructions by phone using a number you already know, never from an email alone. Also line up utilities, such as electric, water, and internet, ahead of your move date. Our setting-up-utilities guide covers the local providers.` },
+      { type: 'p', text: `Finally, think ahead about the final walk-through. Your agent can do it for you and confirm that agreed repairs were completed, that the home is in the expected condition, and that keys and garage remotes are in hand. If you are relocating for a faculty or staff position, our relocation guide pairs well with this one.` },
+      { type: 'p', text: `If you are planning a move to the Brazos Valley and want a local partner who can handle the on-the-ground details while you stay on your schedule, reach out to Rick for a no-pressure conversation about your timeline. This article is general information, not legal, tax, or financial advice, and your contract, lender, and title company guide your specific transaction.` }
+    ],
+    sources: []
+  },
+  {
+    slug: 'low-appraisal-bryan-college-station-buyers-sellers-options',
+    title: 'When the Appraisal Comes in Low: Options for Bryan-College Station Buyers and Sellers',
+    category: 'Buyer Tips',
+    date: 'October 2026',
+    readTime: '6 min read',
+    excerpt:
+      `A low appraisal can stall a contract in College Station or Bryan, but it rarely has to end it. Here is how appraisals work, why they sometimes miss, and the realistic options for both sides of the table.`,
+    metaDescription:
+      `Appraisal came in low in College Station or Bryan? Learn how appraisals work, the options for buyers and sellers, and how to protect your Brazos Valley deal.`,
+    image: null,
+    content: [
+      { type: 'p', text: `You have an accepted offer, the inspection is behind you, and then the lender's appraisal lands below the contract price. It is one of the more stressful moments in a College Station or Bryan transaction, but it is also one of the most common, and there is a well-worn set of options for working through it. Understanding how an appraisal differs from a listing price, a tax value, or an opinion of value can make the moment much less alarming.` },
+      { type: 'h2', text: `What an Appraisal Actually Is` },
+      { type: 'p', text: `When a buyer uses a mortgage, the lender typically orders an appraisal from a licensed appraiser who is chosen through the lender or an appraisal management company, not by the buyer or the agents. The appraiser inspects the property and compares it with recent nearby sales of similar homes, adjusting for differences such as size, age, condition, lot, and features. The result is an opinion of market value that the lender uses to decide how much it is willing to lend against the home.` },
+      { type: 'p', text: `That is different from the Brazos County Appraisal District value on your tax notice, which is a mass-appraisal estimate used for property taxes and may lag or differ from what a home sells for. It is also different from a broker's comparative market analysis, which is a pricing tool rather than a lending document. A home can sit above, below, or right at any of these numbers at the same time.` },
+      { type: 'h2', text: `Why Appraisals Can Come in Low in the Brazos Valley` },
+      { type: 'p', text: `Bryan-College Station is a market with several distinct pockets, and that can make comparable sales harder to line up. A few situations tend to create friction:` },
+      { type: 'ul', items: [
+        `Thin comparables: in smaller or more unusual neighborhoods, or for custom homes on larger lots, there may be few recent sales that truly match.`,
+        `Fast or uneven price movement: if the market shifts quickly, the most recent closed sales the appraiser can use may not reflect where buyers are now willing to pay.`,
+        `New construction: builder incentives, upgrades, and lot premiums can make it harder to show that a contract price is supported by resale comparables.`,
+        `Condition and updates: renovations that a seller values highly may not carry the same weight in an appraiser's adjustments.`,
+        `Acreage and rural properties: land value, wells, septic systems, and outbuildings do not always have clean comparables.`
+      ] },
+      { type: 'h2', text: `Options When the Appraisal Falls Short` },
+      { type: 'p', text: `In a Texas transaction, the answer depends on the contract terms, particularly the financing addendum and any appraisal-related language, and on the lender's rules. Your agent and, where appropriate, your attorney or lender can explain what your specific documents allow. In general, the common paths are these:` },
+      { type: 'ul', items: [
+        `Request a reconsideration of value: the lender or appraisal management company may allow your agent to submit additional comparable sales or corrections of factual errors for the appraiser to review. Success is not guaranteed, but factual mistakes, such as wrong square footage or a missed improvement, are worth raising.`,
+        `Renegotiate the price: the seller may agree to lower the price toward the appraised value, often the most direct fix, especially if the appraisal is reasonably supported.`,
+        `Split the difference: the buyer may bring extra cash to cover part of the gap while the seller reduces the price somewhat, so neither side absorbs the full amount.`,
+        `Bring more cash to closing: because a lender generally lends based on the lower of price or appraised value, a buyer who is able and willing can cover the difference out of pocket. This is a personal financial decision and worth discussing with your lender first.`,
+        `Order a second appraisal: some lenders and loan programs may permit it, though it costs time and money and may yield the same number.`,
+        `Terminate under the contract: if the financing addendum allows it and deadlines are met, a buyer may have the right to walk away. The timing of that right matters, so ask about it early.`
+      ] },
+      { type: 'h2', text: `How Buyers and Sellers Can Prepare Before It Happens` },
+      { type: 'p', text: `For buyers, the best protection is a price grounded in recent closed sales rather than in what other offers might suggest. Ask your agent for a comparable-sales review before you write the offer, and talk with your lender about how much cushion you can comfortably cover if the numbers come in tight. Know your financing and option-period deadlines so you can act quickly rather than react.` },
+      { type: 'p', text: `For sellers, pricing with the appraisal in mind pays off. Preparing a short list of your home's upgrades, with dates and costs where you have them, and a few relevant comparable sales gives your agent material to share if a reconsideration becomes necessary. Making the home accessible for the appraiser, and keeping repairs and permits documented, can also help the appraiser see the full picture.` },
+      { type: 'p', text: `A low appraisal is not a verdict on the home or the deal. It is a data point, and with calm communication and a clear read of your contract, many Brazos Valley transactions move forward. If you are buying or selling in College Station or Bryan and want to talk through pricing strategy or how an appraisal could affect your plans, reach out to Rick for a no-pressure conversation. This article is general information, not legal, tax, or financial advice, and your contract and lender rules control your specific situation.` }
+    ],
+    sources: [
+      { label: `LRG Realty: Your Home Appraisal Came in Low: What Texas Buyers and Sellers Do Next`, url: `https://lrgrealty.com/lrg-blog/low-appraisal-what-to-do-texas/` },
+      { label: `Texas Comptroller: Brazos County Appraisal District`, url: `https://comptroller.texas.gov/taxes/property-tax/county-directory/brazos.php` }
+    ]
+  },
+  {
+    slug: 'neighborhood-spotlight-traditions-bryan-texas-golf-community',
+    title: 'Neighborhood Spotlight: Traditions in Bryan, a Golf-Course Community Near Texas A&M',
+    category: 'Neighborhood Spotlight',
+    date: 'October 2026',
+    readTime: '5 min read',
+    excerpt: `Traditions is a master-planned, golf-centered community in Bryan, just northwest of Texas A&M. Here is what to know about its location, housing mix, amenities, and the questions to ask before you buy in the Brazos Valley.`,
+    metaDescription: `Thinking about Traditions in Bryan, TX? A factual look at this golf community near Texas A&M: location, home types, amenities, and buyer questions.`,
+    image: null,
+    content: [
+      { type: 'p', text: `If you are house hunting in the Brazos Valley and want something different from a typical subdivision, Traditions in Bryan is worth a look. It is a master-planned community built around an 18-hole golf course designed by Jack Nicklaus and Jack Nicklaus II, and it sits close to the Texas A&M campus. This spotlight covers what the community offers, what the housing generally looks like, and what a buyer should verify before writing an offer in Bryan-College Station.` },
+      { type: 'h2', text: `Where Traditions Sits in Bryan` },
+      { type: 'p', text: `Traditions is located in the 77807 ZIP code in northwest Bryan, with the main entrance on Traditions Boulevard. Because it sits on the Bryan side of the area, many residents reach campus, Easterwood Airport, and the Highway 47 and Highway 6 corridors in a short drive, though actual commute times vary by time of day and game-day traffic. If your work takes you to RELLIS Campus, Texas A&M, or the medical district, test-drive your own commute at the hours you would really travel before you decide.` },
+      { type: 'h2', text: `Amenities Tied to the Golf Club` },
+      { type: 'p', text: `The community is organized around the Traditions Club. According to HAR.com's community profile, amenities associated with the community include walking, jogging, and biking trails, pools, a clubhouse with dining and a fitness area, and a wellness and recreation center with classes. Amenity access, membership requirements, and fees can differ from one home or section to another, so do not assume that buying a house automatically includes club privileges.` },
+      { type: 'p', text: `Questions worth asking the club or the seller before you commit:` },
+      { type: 'ul', items: [
+        `Is club membership required, optional, or tied to the lot, and what are the initiation and monthly dues?`,
+        `What does the homeowners association fee cover, and how is it billed?`,
+        `Are pools, trails, and fitness spaces open to all residents or only to members?`,
+        `Are there design review rules for fences, exterior paint, additions, or outbuildings?`
+      ] },
+      { type: 'h2', text: `The Housing Mix and Price Range` },
+      { type: 'p', text: `Traditions offers a wider spread of housing than many Bryan-College Station neighborhoods, from condominiums and smaller homes to large custom residences on golf-course, pond, or wooded lots, plus some larger home sites. Snapshots from public listing sites show a very wide range. At the time of writing, HAR.com showed active listings from roughly $440,000 to more than $2 million, while Redfin showed listings spanning about $250,000 to over $3 million. Those are small samples that change daily, and they are not predictions of where prices are headed, so treat them only as a picture of how broad the range can be.` },
+      { type: 'p', text: `Because the pool of comparable sales is small, pricing a home here takes more care than in a large tract subdivision. A custom home on the course may have few true comparables, and square footage, lot position, and finish level can swing value. A thorough comparative market analysis, and sometimes an appraiser familiar with golf-community properties, can help both buyers and sellers avoid guesswork.` },
+      { type: 'h2', text: `Buyer Checklist for a Community Like This` },
+      { type: 'ul', items: [
+        `Request the HOA documents, deed restrictions, budget, and any special assessments early.`,
+        `Confirm the property tax picture, including any special districts, using Brazos County Appraisal District records.`,
+        `Walk the lot for drainage, pond or creek proximity, and check FEMA flood maps if the home is near water.`,
+        `Get a thorough inspection, plus a termite inspection, as you would anywhere in Brazos County.`,
+        `Ask about homeowners insurance early, since quotes can vary by roof age and location.`
+      ] },
+      { type: 'p', text: `Whether Traditions is the right fit comes down to lifestyle, budget, and how you plan to use the amenities. If you are curious about it, or want to compare it with other Bryan and College Station neighborhoods, reach out to Rick for a no-pressure conversation and a look at current listings. This article is general information, not legal, tax, or financial advice, and listing figures cited here change frequently.` }
+    ],
+    sources: [
+      { label: `HAR.com: Traditions Master-Planned Community`, url: `https://www.har.com/traditions/masterplan_98` },
+      { label: `Redfin: Traditions Golf Club Community, Bryan TX`, url: `https://www.redfin.com/neighborhood/660311/TX/Bryan/Traditions-Golf-Club-Community` }
+    ]
+  },
+  {
+    slug: 'self-manage-or-hire-property-manager-bryan-college-station-rental',
+    title: 'Self-Manage or Hire a Property Manager? A Bryan-College Station Rental Owner\'s Guide',
+    category: 'Investing',
+    date: 'October 2026',
+    readTime: '5 min read',
+    excerpt: `Owning a rental in Bryan-College Station means deciding who answers the 9 p.m. maintenance call. Here is how to weigh self-managing against hiring a property manager, with the Texas rules worth knowing first.`,
+    metaDescription: `Should you self-manage or hire a property manager for a Bryan-College Station rental? Local factors, Texas security deposit rules, and licensing basics explained.`,
+    image: null,
+    content: [
+      { type: 'p', text: `Buying a rental in Bryan-College Station is only the first decision. The second is who will run it. Some owners enjoy handling leases and repairs themselves; others live in Houston, Dallas, or out of state and need someone local. Because the Brazos Valley rental calendar follows the Texas A&M school year, the choice between self-managing and hiring a property manager looks a little different here than in many Texas cities. This guide walks through the questions worth asking before you decide.` },
+      { type: 'h2', text: `How the Brazos Valley Rental Calendar Shapes the Job` },
+      { type: 'p', text: `Many College Station and Bryan rentals lease on an academic rhythm, with demand concentrated in the late spring and summer ahead of the fall semester. That means turnover, cleaning, repairs, showings, and lease signings can bunch together over a few weeks rather than spreading evenly through the year. A self-managing owner should expect a busy stretch each summer and plan time, contractors, and cash reserves for it. If a unit sits vacant after the fall semester begins, it may be harder to fill, so timing a lease renewal or turnover matters.` },
+      { type: 'p', text: `Properties near campus, along the Aggie Spirit bus routes, or in student-heavy areas may see more of this cycle than a house in a quieter part of town. Think about which kind of tenant your property is likely to attract before deciding how hands-on you need to be.` },
+      { type: 'h2', text: `What a Property Manager Typically Handles` },
+      { type: 'p', text: `Services vary by company, so ask for a written management agreement and read it closely. In general, a manager may handle some or all of the following:` },
+      { type: 'ul', items: [
+        `Marketing the unit, screening applicants, and preparing the lease`,
+        `Collecting rent and handling late payments under the lease terms`,
+        `Coordinating maintenance and vendors, including after-hours calls`,
+        `Move-in and move-out inspections and security deposit accounting`,
+        `Owner statements and records for tax time`
+      ] },
+      { type: 'p', text: `Ask what each of those costs: a monthly percentage, a leasing fee, renewal fees, maintenance markups, or inspection charges. Compare the all-in cost, not just the headline percentage.` },
+      { type: 'h2', text: `Texas Rules Every Brazos Valley Landlord Should Know` },
+      { type: 'p', text: `Whether you manage the property or someone else does, the Texas Property Code sets duties you remain responsible for. One of the most commonly misunderstood is the security deposit. According to the Texas State Law Library, a landlord must refund the deposit on or before the 30th day after the tenant surrenders the premises, may deduct only damages and charges the tenant is legally responsible for, and may not deduct for normal wear and tear. If deductions are made, the landlord generally must provide an itemized list. A tenant who proves a deposit was wrongfully withheld may be able to recover up to three times the amount wrongfully withheld plus other fees, and claims under $20,000 can be filed in justice court. Careful move-in and move-out documentation, with dated photos, is the best protection.` },
+      { type: 'p', text: `Licensing is the other piece. Handling leasing, rent collection, or other brokerage-level work for property someone else owns generally calls for an active license from the Texas Real Estate Commission (TREC). That is a reason to ask any prospective manager for their license information and brokerage details, and to verify them on the TREC website. If you are weighing a friend or relative managing the unit for you, ask a Texas attorney or TREC about how those rules apply before you hand over rent collection or leasing.` },
+      { type: 'h2', text: `A Simple Way to Decide` },
+      { type: 'p', text: `Self-managing may fit if you live in the Brazos Valley, have flexible time, know reliable local contractors, and are comfortable with Texas lease and deposit rules. A manager may be worth the cost if you live far away, own several units, work a demanding schedule, or simply do not want the summer turnover crunch. Whichever way you lean, run the numbers both ways using realistic repair reserves and vacancy, and avoid counting on a specific rent or return, since both can change.` },
+      { type: 'p', text: `If you are buying, or thinking about selling a Bryan-College Station rental, I am happy to talk through how management fits into the numbers and share what I see locally. Reach out to Rick and we can look at your situation together. This article is general information, not legal or tax advice.` }
+    ],
+    sources: [
+      { label: `Texas State Law Library: Security Deposit Refunds`, url: `https://guides.sll.texas.gov/landlord-tenant-law/security-deposit-refunds` },
+      { label: `FirstService Residential: Texas Property Management Laws`, url: `https://www.fsresidential.com/texas/news-events/articles/texas-property-management-laws` }
+    ]
+  },
+  {
+    slug: 'seller-inspection-repair-requests-college-station-bryan-option-period',
+    title: 'The Buyer\'s Inspection Came Back: How College Station and Bryan Sellers Can Respond to Repair Requests',
+    category: 'Seller Tips',
+    date: 'October 2026',
+    readTime: '5 min read',
+    excerpt: `A buyer's inspection report can feel like a bill. Here is how College Station and Bryan sellers can sort a repair request into what matters, what is negotiable, and what to do before the option period ends.`,
+    metaDescription: `College Station and Bryan sellers: how to respond to inspection repair requests during the Texas option period, with local context on slower, longer-listing markets.`,
+    image: null,
+    content: [
+      { type: 'p', text: `For most College Station and Bryan sellers, the offer is not the most stressful moment of a sale. The repair request is. A few days after you accept a contract, the buyer's inspector walks through the house, and what comes back can be a long document with photos, arrows, and recommendations. This guide walks through how Brazos Valley sellers can read that report, decide what to do with it, and keep the deal on track while the Texas option period is still running.` },
+      { type: 'h2', text: `Why the Timing Matters: The Texas Option Period` },
+      { type: 'p', text: `In Texas, many buyers negotiate an option period: a set number of days after the contract's effective date during which the buyer may terminate for any reason and receive their earnest money back, in exchange for a non-refundable option fee paid to the seller. According to the Texas Real Estate Research Center at Texas A&M, the period ends at 5 p.m. local time on its last day, the buyer does not have to give a reason for terminating, and the seller cannot terminate during that window. The option fee is credited to the sales price if the sale closes.` },
+      { type: 'p', text: `That structure explains why repair requests tend to arrive late in the option period. The buyer is using their inspections to decide one of three things: proceed as is, ask for repairs or a price reduction through an amendment, or walk away. Research Center guidance is clear that you, as the seller, are not required to agree to any amendment. But declining everything can carry its own risk, because the buyer may simply terminate.` },
+      { type: 'h2', text: `Reading the Report Like a Seller` },
+      { type: 'p', text: `Inspection reports are written to be thorough, which means they often list dozens of items. A useful first step is sorting them into groups:` },
+      { type: 'ul', items: [
+        `Safety and function items, such as electrical hazards, active leaks, or a heating and cooling system that is not working. These are the items most likely to matter to a lender, an insurer, or a buyer's decision to proceed.`,
+        `Structural or moisture items, such as foundation movement, drainage, or roof concerns. In our area, expansive clay soil is a common topic, and a buyer may bring in a specialist to look further. Getting a clear, written opinion can be more useful than arguing over a general note.`,
+        `Maintenance and cosmetic items, such as worn caulk, loose hardware, or minor wear. These are often better handled with a modest credit or by simply declining.`,
+        `Wood-destroying insect findings, which have their own report process in Texas and can influence lender requirements.`
+      ] },
+      { type: 'p', text: `If you did not get a pre-listing inspection, this report may be the first time you see these items. Rick can help you sort the list, and a local contractor can often give you a realistic estimate within a day or two, which is valuable when the clock is running.` },
+      { type: 'h2', text: `Your Options: Repair, Credit, Reduce, or Decline` },
+      { type: 'p', text: `A repair request is the opening of a negotiation, not a demand. Sellers generally have four paths, and the right one depends on the item and on the market:` },
+      { type: 'ul', items: [
+        `Agree to make repairs. This keeps control of who does the work and what it costs, but make sure repairs are done by licensed professionals where required and keep receipts for the buyer's file.`,
+        `Offer a credit toward closing costs or a price reduction. Some buyers prefer to handle repairs themselves after closing. Lender rules can limit how credits are structured, so confirm details before you agree.`,
+        `Counter with a partial response. For instance, repair the safety items and decline the cosmetic ones.`,
+        `Decline. This is a legitimate choice, particularly when the home was priced with its condition in mind, but the buyer may then use the remaining option days to terminate.`
+      ] },
+      { type: 'p', text: `Whatever you agree to should be written into an amendment to the contract, signed by both parties, so everyone is clear on what will be done, by when, and at whose cost.` },
+      { type: 'h2', text: `Reading the Local Market Before You Respond` },
+      { type: 'p', text: `How firmly you can push back depends partly on conditions in Bryan-College Station right now. KBTX reported in July 2026 that, according to a local Realtor, listings were up 26 percent in June 2026 compared with June 2025 while closed sales volume was down 12 percent. The same report cited Texas A&M Real Estate Research Center economist Yanling Mayer noting that the average seller price cut in the College Station market was about 3 percent of the initial asking price, roughly $9,000 to $10,000. These figures describe one month and one source, and they do not predict what any individual sale will do, but they are a reminder that buyers in this market have more choices than they did a couple of years ago.` },
+      { type: 'p', text: `In a market with more listings and slower sales, losing a buyer in the option period can mean going back on the market with days already accumulated. That is worth weighing against the cost of a reasonable concession. Your own situation matters too: a seller with a firm move date may reasonably respond differently from one who can wait.` },
+      { type: 'p', text: `If you have received a repair request on your College Station or Bryan home and are not sure how to answer it, reach out to Rick. As a Brazos Valley agent with Aggie ties, he can look at the report with you, help gather local contractor estimates, and talk through which responses are most likely to keep your contract together.` }
+    ],
+    sources: [
+      { label: `Texas Real Estate Research Center at Texas A&M: Option Period Basics`, url: `https://trerc.tamu.edu/article/Option-Period-Basics-2360/` },
+      { label: `KBTX: Here's what has changed in the Bryan-College Station housing market`, url: `https://www.kbtx.com/2026/07/31/heres-what-has-changed-bryan-college-station-housing-market/` }
+    ]
+  },
+  {
+    slug: 'indoor-things-to-do-college-station-bryan-rainy-day-guide',
+    title: 'Indoor Things to Do in College Station and Bryan: A Rainy-Day and Summer-Heat Guide for Brazos Valley Residents',
+    category: 'Local Guide',
+    date: 'October 2026',
+    readTime: '5 min read',
+    excerpt: `When a Gulf front stalls over the Brazos Valley or the afternoon heat tops 100, College Station and Bryan still have plenty to do indoors. Here is a practical guide to museums, galleries, theaters, and tasting rooms worth knowing.`,
+    metaDescription: `Indoor things to do in College Station and Bryan, TX: museums, galleries, theaters, and a winery for rainy days and Brazos Valley summer heat.`,
+    image: null,
+    content: [
+      { type: 'p', text: `Anyone who has lived in College Station for a full year knows the Brazos Valley weather has two moods that send people indoors: a slow, soaking Gulf rain that can last a weekend, and the long stretch of summer afternoons when being outside is simply not appealing. Whether you are new to Aggieland or a lifelong local, it helps to keep a short list of indoor options handy. This guide covers a mix of College Station and Bryan spots, grouped by the kind of outing you are after. Hours, admission, and special exhibits change, so check each venue's official page before you go.` },
+      { type: 'h2', text: `History and Culture Close to Campus` },
+      { type: 'p', text: `The George H.W. Bush Presidential Library and Museum sits on the west side of the Texas A&M campus off George Bush Drive West. It is one of the better-known attractions in College Station and is listed by both the City of College Station's visitor site and Destination Bryan. Plan on a couple of hours if you want to see the exhibits without rushing, and check the library's website for current hours and admission details.` },
+      { type: 'p', text: `On campus, a few other indoor stops are worth a look for anyone curious about the university's history and collections:` },
+      { type: 'ul', items: [
+        `Cushing Memorial Library and Archives, on the Texas A&M campus, which houses special collections and hosts rotating exhibits. Check the university's site for public access details.`,
+        `The Forsyth Center Galleries in the Memorial Student Center, known for its art collection displayed on campus.`,
+        `The Memorial Student Center itself, a long-standing campus landmark with a good deal of Aggie history on display in its public spaces.`
+      ] },
+      { type: 'h2', text: `Museums and Hands-On Stops in Bryan` },
+      { type: 'p', text: `Bryan has built a reputation for its downtown, and several indoor attractions are within a short drive of each other. The Brazos Valley Museum of Natural Science and the Children's Museum of the Brazos Valley are two long-running local institutions that cater to curious visitors of different ages. Both are good fits for a gray afternoon when you want something more interactive than a screen. Because exhibits rotate and operating schedules shift, verify hours directly with each museum.` },
+      { type: 'p', text: `Downtown Bryan is also home to the Palace Theatre, a historic venue that hosts films and live events. A rainy evening is a natural time to catch a show, then walk to one of the restaurants nearby once the weather clears. Destination Bryan keeps an events calendar that is worth bookmarking.` },
+      { type: 'h2', text: `Tasting Rooms and Date-Night Options` },
+      { type: 'p', text: `Messina Hof Winery and Resort on Old Reliance Road in Bryan is one of the Brazos Valley's best-known destinations. It offers tastings and a restaurant, and Destination Bryan lists it among the area's group and date-night activities. If you are hosting out-of-town guests during an Aggie weekend, a tasting is an easy way to fill an afternoon between events. Confirm reservation requirements ahead of time, especially on busy weekends.` },
+      { type: 'p', text: `Destination Bryan also publishes roundups of date-night and group activities that are regularly updated, which makes them a reliable place to look for newer additions to the local scene.` },
+      { type: 'h2', text: `Why This Matters When You Are Choosing a Place to Live` },
+      { type: 'p', text: `If you are relocating to College Station or Bryan, it is worth thinking about how close you want to be to the things you will actually use. Someone who plans to visit campus venues often may value proximity to the west side of College Station, near Texas Avenue, University Drive, and George Bush Drive. Someone drawn to Downtown Bryan's theaters, restaurants, and historic streets may prefer a home on the Bryan side of Highway 6 or near Texas Avenue's Bryan stretch. Neither is better; it comes down to your routine. Drive times can also vary during game weekends and school-year rush hours, so test the drive at the time of day you would actually make it.` },
+      { type: 'p', text: `If you are weighing neighborhoods in College Station or Bryan and want a local perspective on commute times, amenities, and price ranges, reach out to Rick. As a Brazos Valley agent with Aggie ties, he is glad to talk through what day-to-day life looks like in different parts of town and help you find a home that fits your routine.` }
+    ],
+    sources: [
+      { label: `City of College Station Visitor Site: George H.W. Bush Presidential Library & Museum`, url: `https://visit.cstx.gov/directory/george-h-w-bush-presidential-library-museum/` },
+      { label: `Destination Bryan: Fun Group Activities in Bryan, TX`, url: `https://www.destinationbryan.com/blog/fun-group-activities-in-bryan-tx/` },
+      { label: `Destination Bryan: Messina Hof Winery and Resort`, url: `https://www.destinationbryan.com/directory/messina-hof-winery-and-resort/` }
+    ]
+  },
+  {
     slug: 'termite-inspection-wdi-report-bryan-college-station-home-buyers',
     title: 'Termites and the Texas WDI Report: What Bryan-College Station Home Buyers Should Know Before Closing',
     category: 'Buyer Tips',
