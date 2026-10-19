@@ -1,5 +1,57 @@
 export const blogPosts = [
   {
+    slug: 'halloween-2026-bryan-college-station-events-trick-or-treat',
+    title: 'Halloween 2026 in Bryan-College Station: Trick-or-Treat Street, Trunk-or-Treats, and Spooky Events Calendar',
+    category: 'Local Guide',
+    date: 'October 2026',
+    readTime: '6 min read',
+    excerpt:
+      `Halloween falls on a Saturday this year, and Bryan-College Station has a full calendar leading up to it, from Trick-or-Treat Street in Historic Downtown Bryan to trunk-or-treats, a museum Owl-O-Ween, and Halloween movie nights. Here is what is happening, where, and when.`,
+    metaDescription:
+      `Halloween 2026 in Bryan-College Station: Trick-or-Treat Street Oct. 25, trunk-or-treats, pumpkin patches, and spooky events, with dates and locations.`,
+    image: '/assets/images/blog-covers/halloween-2026-bryan-college-station-events-trick-or-treat.jpg',
+    content: [
+      { type: 'p', text: `Halloween 2026 lands on Saturday, October 31, which means Bryan-College Station gets a full week of spooky events rather than a single weeknight. The headliner is Trick-or-Treat Street in Historic Downtown Bryan on Sunday, October 25, from 3 to 6 p.m., but the cities, local businesses, and venues around the Brazos Valley have events nearly every night between now and the 31st. Below is a calendar of what has been announced for this year, plus a few practical notes for anyone who lives here, just moved here, or is selling a home this month. Dates and details come from the City of College Station and Destination Bryan; plans can change, so confirm with the organizer before you head out.` },
+      { type: 'h2', text: `Trick-or-Treat Street in Historic Downtown Bryan (Sunday, Oct. 25)` },
+      { type: 'p', text: `The event formerly known as Halloweentown returns under a new name. According to Destination Bryan, Trick-or-Treat Street runs from 3 to 6 p.m. on Sunday, October 25, along Main Street between William Joel Bryan Parkway and 23rd Street, and along 24th Street between Bryan Avenue and Tabor Road. It is free, with decorated booths hosted by downtown businesses and nonprofits, a costume contest with several age and group categories (including pets), two photo booth areas, and a dance floor. Downtown shops stay open, so it doubles as an easy way to get to know the district.` },
+      { type: 'p', text: `Parking tip: free street parking is available in marked spaces outside the closed streets, and the Roy Kelly Parking Garage at 200 East 27th Street offers paid parking a short walk from the action. Downtown Bryan is also running a Halloween Storefront Decorating Contest from October 25 to 31 with a free digital passport, so the windows are worth a slow walk even after the event ends.` },
+      { type: 'h2', text: `College Station Halloween Events Calendar` },
+      { type: 'p', text: `The City of College Station's Halloween page lists several free and low-cost community events this year. A few of the remaining ones:` },
+      { type: 'ul', items: [
+        `Trunk or Tree-t, Friday, Oct. 23, 5 to 8 p.m., Wolf Pen Creek Festival Site. A trunk-or-treat with free trees given away; free parking is at Post Oak Mall. Pets, alcohol, and glass containers are not allowed.`,
+        `Cops & Goblins, Monday, Oct. 26, 5 to 8 p.m. The city lists Wolf Pen Creek Park (1015 Colgate Drive) as a new location this year, but the description also mentions police headquarters, so check cstx.gov for the final venue before you go.`,
+        `Halloween on 19, Oct. 28 to 31, a Halloween movie marathon on the city's channel, Optimum Channel 19, and streaming at cstx.gov/cstv19.`,
+        `Halloween storytimes and crafts at the Larry J. Ringer Library on Rock Prairie Road, including sessions on Oct. 27.`
+      ] },
+      { type: 'h2', text: `More Bryan and Brazos Valley Halloween Events` },
+      { type: 'p', text: `Destination Bryan's 2026 Halloween roundup lists a long run of events across Bryan. Highlights include:` },
+      { type: 'ul', items: [
+        `Owl-O-Ween at the Brazos Valley Museum of Natural History, 3232 Briarcrest Drive, Friday, Oct. 23, 5:30 to 8 p.m.`,
+        `Trunk or Treat at Legends Event Center, 2533 Midtown Park Blvd., Wednesday, Oct. 28, 6 to 8:30 p.m. (free).`,
+        `Trunk or Treat at Aggieland Humane Society, 5359 Leonard Road, Friday, Oct. 30, 5 to 7 p.m. (free; pet food donations appreciated).`,
+        `Trunk or Treat So Kids Can Eat, Saturday, Oct. 31, at 3450 Campus Drive. Admission is five canned goods per person, benefiting the local food bank.`,
+        `Halloween movie nights at The Palace Theater, 105 S. Main St., on Oct. 22 and Oct. 29 from 6:30 to 8:30 p.m., and Halloween classics at The Queen Theatre, 110 S. Main St., on Oct. 21 and Oct. 28.`,
+        `A Spooky Cellar Tour and a "Terror in Transylvania" murder mystery dinner at Messina Hof Winery, 4545 Old Reliance Road, on Friday, Oct. 30.`,
+        `Pumpkins all month at The Farm Patch, 3519 South College Ave. (Monday through Saturday, 9 a.m. to 7 p.m.), and a free pumpkin photo-op at Lake Walk, 4107 Lake Atlas Drive.`
+      ] },
+      { type: 'h2', text: `Halloween Night in BCS Neighborhoods: What Residents Should Know` },
+      { type: 'p', text: `Neither city sets an official trick-or-treat time. In past years the City of Bryan has suggested 6 to 8 p.m. as a common window, and its seasonal guidance offers a few practical tips for residents handing out treats: turn on your porch light if you are participating, keep candles and lit pumpkins away from walkways, clear trip hazards from sidewalks and driveways, and drive slowly through residential streets that evening.` },
+      { type: 'p', text: `If you live in a neighborhood with an HOA, it is worth a quick look at your deed restrictions before you go big on yard displays. Many Brazos Valley associations have rules on how long seasonal decorations can stay up, inflatables, lighting, and anything that blocks sidewalks. Rules vary widely from one subdivision to the next, which is one of the things Rick helps buyers review before they commit to a home.` },
+      { type: 'h2', text: `Selling a Home in October? A Few Halloween Tips` },
+      { type: 'ul', items: [
+        `Keep listing photos neutral. Photos taken with heavy Halloween decor date the listing the moment November arrives, so many sellers shoot photos before decorating or after taking things down.`,
+        `Keep it light for showings. A few pumpkins on the porch can feel welcoming; fog machines, motion-activated props, and fake cobwebs over windows can distract buyers or hide features.`,
+        `Plan around Halloween weekend. With the 31st on a Saturday and events like Trick-or-Treat Street the Sunday before, some streets will be busier than usual, so coordinate showing times and parking with your agent.`
+      ] },
+      { type: 'p', text: `Halloween is one of the easiest times of year to get a feel for a Bryan-College Station neighborhood, from downtown Bryan's storefronts to the events at Wolf Pen Creek. If you are thinking about buying, selling, or relocating to the Brazos Valley this fall, reach out to Rick for a no-pressure conversation about the areas, the market, and what it is like to call Aggieland home.` }
+    ],
+    sources: [
+      { label: `City of College Station: Halloween with College Station`, url: `https://www.cstx.gov/parks-recreation-culture/events/community-events/halloween-with-college-station/` },
+      { label: `Destination Bryan: Trick-or-Treat Street in Historic Downtown Bryan`, url: `https://www.destinationbryan.com/trick-or-treat-street/` },
+      { label: `Destination Bryan: Halloween Events in Bryan, TX`, url: `https://www.destinationbryan.com/blog/halloween-activities/` }
+    ]
+  },
+  {
     slug: 'texas-landlord-basics-security-deposits-repairs-bryan-college-station-rental-owners',
     title: 'Texas Landlord Basics for Bryan-College Station Rental Owners: Security Deposits, Repairs, and Late Fees',
     category: 'Investing',
