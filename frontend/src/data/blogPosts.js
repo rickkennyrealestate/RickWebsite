@@ -1,5 +1,49 @@
 export const blogPosts = [
   {
+    slug: 'texas-landlord-basics-security-deposits-repairs-bryan-college-station-rental-owners',
+    title: 'Texas Landlord Basics for Bryan-College Station Rental Owners: Security Deposits, Repairs, and Late Fees',
+    category: 'Investing',
+    date: 'October 2026',
+    readTime: '5 min read',
+    excerpt:
+      `Owning a rental near Texas A&M means working within Texas Property Code rules on deposits, repairs, and notices. Here is a plain-English overview of the basics every Bryan-College Station landlord should know before the next lease cycle.`,
+    metaDescription:
+      `A plain-English guide for Bryan-College Station rental owners on Texas security deposit deadlines, repair requests, and late fees, with state law sources.`,
+    image: null,
+    content: [
+      { type: 'p', text: `Buying a rental in College Station or Bryan is only the first step; running it well is where returns are protected or lost. Because the Bryan-College Station market follows the Texas A&M calendar, many owners handle a wave of move-outs and move-ins in a short window each summer, and that is exactly when deposit disputes and repair questions tend to pile up. This guide covers the basics of Texas landlord-tenant rules that matter most to Brazos Valley rental owners. It is general information, not legal advice, so confirm details with the statute text or a Texas real estate attorney.` },
+      { type: 'h2', text: `Why Landlord Rules Matter in a Student-Driven Rental Market` },
+      { type: 'p', text: `Leases near campus often start and end on predictable dates, which means a landlord may be turning over several units within days of each other. Rushing that process is when paperwork gets skipped. The Texas Property Code, Chapter 92, sets the baseline rules for residential leases statewide, and a written lease can add terms on top of it, but generally a lease cannot take away rights the statute gives a tenant. Treating the statute as a checklist, not an afterthought, is one of the lowest-cost ways to reduce risk as an owner.` },
+      { type: 'h2', text: `Security Deposits: The 30-Day Clock` },
+      { type: 'p', text: `According to the Texas State Law Library, a landlord must refund a security deposit on or before the 30th day after the tenant surrenders the premises (Section 92.103). A few related points are worth knowing:` },
+      { type: 'ul', items: [
+        `A landlord may deduct damages and charges the tenant is legally liable for under the lease, but may not keep any part of the deposit for normal wear and tear (Sections 92.104 and 92.001).`,
+        `When deductions are made, the landlord must provide an itemized list of them (Section 92.104).`,
+        `The landlord is not required to return the deposit or provide the written description of damages until the tenant gives a written forwarding address (Section 92.107), so build a forwarding-address line into your move-out paperwork.`,
+        `Bad-faith withholding can expose a landlord to liability for three times the wrongfully withheld portion plus other fees (Section 92.109), and smaller claims can be heard in justice court.`
+      ] },
+      { type: 'p', text: `The practical takeaway: document the unit with dated photos at move-in and move-out, keep receipts for repairs, and calendar the 30-day deadline the day a tenant hands back the keys.` },
+      { type: 'h2', text: `Repair Requests: Put It in Writing` },
+      { type: 'p', text: `Texas law gives landlords a duty to make a diligent effort to repair conditions that materially affect the physical health or safety of an ordinary tenant (Section 92.052), and sets out the tenant's remedies if repairs are not made (Section 92.056). Secondary guides describe the statutory notice as written, often by certified mail, and note that a reasonable time to repair is judged case by case. Many landlords simplify this by giving tenants a clear, written way to submit maintenance requests, and by responding in writing too. In a market with older homes and a lot of Brazos Valley summer heat, a documented air-conditioning response is a good example of why this matters.` },
+      { type: 'h2', text: `Late Fees and Lease Language` },
+      { type: 'p', text: `A late fee generally has to be provided for in the lease, cannot be charged until a grace period has passed, and has to be reasonable. One landlord guide summarizes the rule as no fee until two full days after the due date, with caps tied to a percentage of monthly rent that differ by property size. Because that summary does not cite a statute section, verify the current figures in the Property Code before you write them into a lease. Using the current Texas Realtors lease forms, with your agent or attorney reviewing any changes, is a common way to keep language consistent.` },
+      { type: 'h2', text: `A Pre-Turnover Checklist for Brazos Valley Owners` },
+      { type: 'ul', items: [
+        `Confirm each lease has current, signed move-in and move-out condition forms.`,
+        `Collect a written forwarding address before the tenant leaves.`,
+        `Schedule cleaning, paint, and HVAC service before listing the unit for the next term.`,
+        `Verify smoke alarms and exterior door locks and latches work, since Texas law sets security-device and smoke-alarm requirements for rentals.`,
+        `Keep a dated file for every unit: lease, photos, receipts, and written communications.`
+      ] },
+      { type: 'p', text: `Good paperwork will not make a rental risk-free, and returns depend on rents, vacancy, expenses, and taxes that no one can guarantee. But clear systems tend to make turnovers calmer and disputes rarer. If you are weighing a Bryan-College Station rental purchase, or thinking about whether your current property fits your goals, reach out to Rick for a local, no-pressure conversation about numbers, neighborhoods, and what owning near Aggieland really involves.` }
+    ],
+    sources: [
+      { label: `Texas State Law Library: Security Deposit Refunds`, url: `https://guides.sll.texas.gov/landlord-tenant-law/security-deposit-refunds` },
+      { label: `Texas Property Code, Chapter 92 (Texas Statutes)`, url: `https://statutes.capitol.texas.gov/Docs/PR/htm/PR.92.htm` },
+      { label: `Neuhaus Real Estate: Complete Guide to Texas Landlord-Tenant Law (2026)`, url: `https://neuhausre.com/guides/landlord-tenant-law-guide-texas/` }
+    ]
+  },
+  {
     slug: 'coffee-shops-remote-work-spots-college-station-bryan-local-guide',
     title: 'Coffee Shops and Remote-Work Spots in College Station and Bryan: A Neighborhood-by-Neighborhood Local Guide',
     category: 'Local Guide',
