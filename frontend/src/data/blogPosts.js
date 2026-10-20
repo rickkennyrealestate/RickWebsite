@@ -1,5 +1,57 @@
 export const blogPosts = [
   {
+    slug: 'veterans-day-2026-college-station-bryan-ceremony-veteran-homebuyers',
+    title: 'Veterans Day 2026 in College Station and Bryan: The Veterans Park Ceremony, the Memorial, and Home-Buying Benefits for Texas Veterans',
+    category: 'Local Guide',
+    date: 'October 2026',
+    readTime: '6 min read',
+    excerpt:
+      `The Brazos Valley Veterans Memorial holds its annual Veterans Day Ceremony on Wednesday, November 11, 2026, at 5:30 p.m. in College Station's Veterans Park. Here is what to expect, how to visit the memorial, and the Texas housing benefits every veteran buying or owning a home in Bryan-College Station should know about.`,
+    metaDescription:
+      `Veterans Day 2026 in College Station: the Nov. 11 ceremony at Veterans Park, the Brazos Valley Veterans Memorial, plus VLB loans and Texas veteran tax exemptions.`,
+    image: null,
+    content: [
+      { type: 'p', text: `Veterans Day 2026 falls on Wednesday, November 11, and the Brazos Valley's main public observance is the Brazos Valley Veterans Memorial's annual Veterans Day Ceremony at 5:30 p.m. under the American Pavilion in Veterans Park and Athletic Complex, 3101 Harvey Road in College Station. This year's keynote speaker, according to the memorial, is Gregory W. Vogle, a former director of the National Clandestine Service and a U.S. Marine Corps veteran. Below is what to expect at the ceremony, how to make the most of a visit to the memorial itself, and, because this is a real estate site, a plain-English look at the Texas home-buying and property tax benefits available to veterans who live in or are moving to Bryan-College Station.` },
+      { type: 'h2', text: `The Veterans Day 2026 Ceremony at Veterans Park in College Station` },
+      { type: 'p', text: `The Brazos Valley Veterans Memorial Board, an all-volunteer nonprofit chartered in 2000 and supported by Brazos County and the cities of Bryan and College Station, hosts the ceremony every November 11 at 5:30 p.m. Based on the program the memorial describes for this year, the evening includes:` },
+      { type: 'ul', items: [
+        `The Honor Wall Roll Call, a reading of the veterans whose names were added to the granite Wall of Honor this year.`,
+        `The National Anthem and recognition of Brazos Valley Heroes.`,
+        `A rifle salute by the Texas A&M Corps of Cadets Ross Volunteers, followed by Taps.`,
+        `Keynote remarks from Gregory W. Vogle, who served as director of the National Clandestine Service from 2015 to 2017 and in the Marine Corps from 1981 to 1986.`
+      ] },
+      { type: 'p', text: `The ceremony is held outdoors under the pavilion, and mid-November evenings in the Brazos Valley can turn cool once the sun goes down, so a light jacket is a good idea. Because it falls on a Wednesday, plan for weekday traffic on Harvey Road and the Highway 6 frontage roads around 5 p.m., and arrive early enough to find parking in the Veterans Park lots. Details can change, so check bvvm.org or the memorial's Facebook page the week of the event.` },
+      { type: 'h2', text: `Visiting the Brazos Valley Veterans Memorial Any Time of Year` },
+      { type: 'p', text: `If you have never walked the memorial, Veterans Day weekend is a good excuse. The 12-acre site sits inside Veterans Park, just east of Highway 6 off Harvey Road, and it is one of the more striking public spaces in Bryan-College Station. Highlights, per the City of Bryan's 25th-anniversary write-up on the memorial, include:` },
+      { type: 'ul', items: [
+        `The Louis L. Adam Memorial Plaza and its 250-ton red granite Wall of Honor, which lists more than 6,760 veterans.`,
+        `The Lynn Stuart Pathway, which links 18 memorial sites covering major American conflicts and the War of Texas Independence.`,
+        `Two dozen life-sized bronze statues and several bas-relief bronze panels by Navasota artist J. Payne Lara.`,
+        `A September 11 site that includes a steel relic from the World Trade Center.`
+      ] },
+      { type: 'p', text: `Brazos Valley residents can add a veteran's name to the Wall of Honor each year; the veteran can be living, deceased, or actively serving, and does not have to live locally. The City of Bryan lists the cost at $250 per name, with an August 15 deadline, so names submitted now will be recognized at the 2027 ceremony. Groups can request a guided tour by emailing info@bvvm.org.` },
+      { type: 'h2', text: `Living Near Veterans Park: The Harvey Road Corridor` },
+      { type: 'p', text: `Veterans Park is one of College Station's largest athletic complexes, with soccer and softball fields that stay busy on weekends, and it anchors the Harvey Road corridor east of Highway 6. Nearby established neighborhoods include Emerald Forest, Raintree, Windwood, and Woodcreek, which generally feature 1970s through 1990s homes on mature lots. Residents in this part of town tend to value quick access to Highway 6, Post Oak Mall and the Harvey Road shopping strip, and a commute to Texas A&M that does not involve crossing Wellborn Road. If you are house-hunting and want to see how the area feels on a busy evening, the Veterans Day ceremony is a good time to drive the streets nearby.` },
+      { type: 'h2', text: `Texas Home-Buying Benefits for Veterans in Bryan-College Station` },
+      { type: 'p', text: `The Brazos Valley has a large veteran community, thanks in part to Texas A&M's military ties, and many veterans do not realize how many state-level housing benefits stack on top of the federal VA home loan. A few worth knowing:` },
+      { type: 'ul', items: [
+        `Texas Veterans Land Board (VLB) home loans: The VLB's Veterans Housing Assistance Program works through participating lenders and can be paired with VA-backed, FHA, or conventional financing. In January 2026 the VLB raised its home loan limit to $832,750, and veterans with a VA service-connected disability rating of 30 percent or higher may qualify for a discounted interest rate. Standard income, credit, and debt-to-income underwriting still applies.`,
+        `Partial disabled veteran property tax exemption: Under Texas Tax Code Section 11.22, the Texas Comptroller lists exemptions of up to $5,000, $7,500, $10,000, or $12,000 of a property's value, depending on the VA disability rating, and it can apply to one property the veteran owns. It is filed with the appraisal district on Form 50-135.`,
+        `100 percent disabled veteran homestead exemption: Texas also offers a full exemption on the residence homestead for veterans who meet the 100 percent disability criteria, with surviving spouse provisions. The Comptroller's FAQ explains eligibility in detail.`,
+        `The general homestead exemption still applies. In Brazos County, you file your homestead application with the Brazos Central Appraisal District after you own and live in the home as of January 1.`
+      ] },
+      { type: 'p', text: `If you closed on a Bryan or College Station home this year, now is a good time to gather your VA rating letter and paperwork so you are ready to file once the new tax year begins. Exemption amounts and rules are set by the state and can change, so confirm the current details with the Comptroller and Brazos Central Appraisal District, and talk with a VA-approved lender about which loan program fits your situation.` },
+      { type: 'h2', text: `Plan Your Veterans Day in Aggieland` },
+      { type: 'p', text: `Whether you are attending the ceremony, walking the memorial for the first time, or thinking about using your VA or VLB benefits to buy in Bryan-College Station, November is a fitting time to slow down and take part. If you are a veteran or active-duty service member weighing a move to the Brazos Valley, or you want help understanding how VA and VLB financing work in a local offer, reach out to Rick. He can walk you through neighborhoods near Veterans Park and across both cities, and connect you with lenders who work with veteran buyers every day.` }
+    ],
+    sources: [
+      { label: `Brazos Valley Veterans Memorial: Annual Events`, url: `https://www.bvvm.org/annual-events/` },
+      { label: `City of Bryan: Brazos Valley Veterans Memorial Celebrates 25th Anniversary`, url: `https://www.bryantx.gov/news/posts/brazos-valley-veterans-memorial-celebrates-25th-anniversary/` },
+      { label: `Texas Comptroller: Disabled Veteran and Surviving Spouse Exemptions FAQ`, url: `https://comptroller.texas.gov/taxes/property-tax/exemptions/disabledvet-faq.php` },
+      { label: `KRIS 6 News: Texas Veterans Land Board Raises Home Loan Cap`, url: `https://www.kristv.com/veteransinfocus/texas-veterans-land-board-raises-home-loan-cap-by-26-250` }
+    ]
+  },
+  {
     slug: 'halloween-2026-bryan-college-station-events-trick-or-treat',
     title: 'Halloween 2026 in Bryan-College Station: Trick-or-Treat Street, Trunk-or-Treats, and Spooky Events Calendar',
     category: 'Local Guide',
