@@ -1,5 +1,65 @@
 export const blogPosts = [
   {
+    slug: 'santas-wonderland-2026-college-station-tickets-parking-guide',
+    title: `Santa's Wonderland 2026 in College Station: Opening Night, Tickets, Parking, and Tips for Locals`,
+    category: 'Local Guide',
+    date: 'October 2026',
+    readTime: '6 min read',
+    excerpt:
+      `Santa's Wonderland opens its 2026 season on Friday, November 13, at 18898 Highway 6 South in College Station and runs through January 3, 2027. Here is how tickets, parking permits, and timing work, plus what living on the south side of town means during the holiday rush.`,
+    metaDescription:
+      `Santa's Wonderland 2026 in College Station opens Nov. 13: ticket prices, date-restricted Super Saver nights, parking lots, hours, and Hwy 6 traffic tips.`,
+    image: '/assets/images/blog-covers/santas-wonderland-2026-college-station-tickets-parking-guide.jpg',
+    content: [
+      { type: 'p', text: `Santa's Wonderland opens its 2026 season on Friday, November 13, with gates at 6 p.m., and the park's own calendar runs nightly dates through Saturday, January 3, 2027. The park sits at 18898 Highway 6 South in College Station. Here is what to know about Santa's Wonderland 2026 before you buy tickets, plus a few notes for anyone who lives nearby.` },
+      { type: 'h2', text: `Santa's Wonderland 2026 Dates and Hours` },
+      { type: 'p', text: `The park describes itself as a 150-plus-acre Christmas park, and the Visit College Station directory calls it the largest Christmas attraction in the state. KBTX reported that the 2022 season was the park's 25th, so 2026 continues a run of nearly three decades on Highway 6. Operating hours vary by night, so check the calendar on the official site before you go. A few examples from the 2026 calendar:` },
+      { type: 'ul', items: [
+        `Friday, November 13 (opening night): 6 p.m. to midnight.`,
+        `Saturday, November 14: 3 p.m. to midnight.`,
+        `Sunday, November 15: 3 p.m. to 11 p.m.`,
+        `Christmas Day, December 25: 4 p.m. to midnight.`,
+        `Saturday, January 3, 2027 (last listed night): 3 p.m. to 11 p.m.`,
+        `November 8 through 12 are marked closed, and the calendar shows other closed dates sprinkled through the season.`
+      ] },
+      { type: 'p', text: `The park says it is open rain or shine, and hayrides and horse-drawn carriage tours run in the rain. The last hayride leaves 30 minutes before closing each night, and the park notes that hours and operating days can change without notice.` },
+      { type: 'h2', text: `Tickets: Super Saver vs. Any Day vs. the Gate` },
+      { type: 'p', text: `Pricing at Santa's Wonderland rewards planning ahead. According to the park's 2026 pricing page, before sales tax:` },
+      { type: 'ul', items: [
+        `Pre-Season Super Saver (online): $37.75 for adults and $32.75 for children ages 3 to 12, plus a $2.25 online fee. The pricing page says this sale ends October 22.`,
+        `Any Day (online): $42.95 for adults and $37.95 for children, plus the $2.25 fee. These work on any open night, which helps if your plans are not set yet.`,
+        `At the gate: $59.95 for adults and $54.95 for children.`
+      ] },
+      { type: 'p', text: `The lower-priced Super Saver tickets are date-restricted. The park lists Super Saver nights that include November 13 to 15 and 20 to 26, most weeknights in early and mid-December, and December 24 through January 3. Dates such as November 27 and 28, December 5 and 12, and December 18 to 23 are not on it, so check before you buy. A season pass is also available, and for 2026 the park says pass holders get free parking in the Blitzen lot all season.` },
+      { type: 'h2', text: `What to Expect Inside the Park` },
+      { type: 'p', text: `The centerpiece is the Trail of Lights, a hayride or carriage ride through more than a mile of lighted scenes that the park says takes about 25 to 30 minutes. Plan extra time for everything else. Attractions listed for 2026 include:` },
+      { type: 'ul', items: [
+        `The hayride through the lights, plus a walkable Trail of Lights.`,
+        `Snow tubing and the park's "Real Texas Snow" area.`,
+        `Frostbite's Very Merry-Go-Round, train rides, jumping pillows, live music, shopping, and the Buckin' Bull.`,
+        `Add-ons such as the VIP horse and carriage tour and Illuminations ice skating.`
+      ] },
+      { type: 'p', text: `House rules: no outside food or drinks (exceptions for allergies and infant food), service animals only, and no full costumes. Wear comfortable shoes or boots, and bring a jacket: a late-season cold front can drop Brazos Valley temperatures fast after sunset.` },
+      { type: 'h2', text: `Parking Permits and Highway 6 Traffic Tips` },
+      { type: 'p', text: `This is the part first-time visitors miss. Every lot is permit-based, and the park says you must have a valid parking permit to enter. Your options:` },
+      { type: 'ul', items: [
+        `VIP Rudolph lot: closest to the entrance, sold online in advance only.`,
+        `Blitzen lot: paid on most nights, free on select nights, available online or on-site while supplies last.`,
+        `Dasher lot: across Highway 6 from the park, with shuttles that start at park opening. The park's calendar shows free Dasher nights on dates such as November 13 to 15 and December 2 and 3.`
+      ] },
+      { type: 'p', text: `Permits work like reservations: arrive near your time slot (no more than 30 minutes early) and have the permit ready on your phone. On busy December weekends, traffic on southbound Highway 6 can back up near the entrance, so locals often go on a weeknight, arrive near opening, or skip the peak Saturday before Christmas entirely.` },
+      { type: 'h2', text: `Living on the South Side of College Station During the Holidays` },
+      { type: 'p', text: `For people shopping for a home, Santa's Wonderland is a useful reminder of how seasonal traffic works in Bryan-College Station. Neighborhoods on the south end of College Station, including Castlegate, Greens Prairie Reserve, Pebble Creek, and Creek Meadows, sit closest to the park and to the southern Highway 6 corridor. Most of the year that means quick highway access toward Navasota and Houston; from mid-November to early January it also means busier Highway 6 evenings on peak nights, much like game days near Kyle Field. It is not a dealbreaker, just a local rhythm worth understanding before you choose a commute. If you are new to the area, Christmas in the Park at Stephen C. Beachy Central Park and holiday events in Downtown Bryan follow later in the season, so watch the City of College Station and Destination Bryan calendars for this year's dates.` },
+      { type: 'p', text: `Thinking about a move to Bryan-College Station, or wondering how a particular neighborhood handles holiday and game-day traffic? Reach out to Rick. He can walk you through commute patterns, neighborhood details, and what is on the market so you can find a home that fits the way you actually live, all year long.` }
+    ],
+    sources: [
+      { label: `Santa's Wonderland: 2026 Season Calendar and Attractions`, url: `https://www.santas-wonderland.com/` },
+      { label: `Santa's Wonderland: Tickets and Pricing`, url: `https://www.santas-wonderland.com/pricing` },
+      { label: `Santa's Wonderland: Parking`, url: `https://www.santas-wonderland.com/parking` },
+      { label: `Visit College Station: Santa's Wonderland`, url: `https://visit.cstx.gov/directory/santas-wonderland/` }
+    ]
+  },
+  {
     slug: 'veterans-day-2026-college-station-bryan-ceremony-veteran-homebuyers',
     title: 'Veterans Day 2026 in College Station and Bryan: The Veterans Park Ceremony, the Memorial, and Home-Buying Benefits for Texas Veterans',
     category: 'Local Guide',
