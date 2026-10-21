@@ -9,7 +9,7 @@ export const blogPosts = [
       `The Brazos Valley Veterans Memorial holds its annual Veterans Day Ceremony on Wednesday, November 11, 2026, at 5:30 p.m. in College Station's Veterans Park. Here is what to expect, how to visit the memorial, and the Texas housing benefits every veteran buying or owning a home in Bryan-College Station should know about.`,
     metaDescription:
       `Veterans Day 2026 in College Station: the Nov. 11 ceremony at Veterans Park, the Brazos Valley Veterans Memorial, plus VLB loans and Texas veteran tax exemptions.`,
-    image: null,
+    image: '/assets/images/blog-covers/veterans-day-2026-college-station-bryan-ceremony-veteran-homebuyers.jpg',
     content: [
       { type: 'p', text: `Veterans Day 2026 falls on Wednesday, November 11, and the Brazos Valley's main public observance is the Brazos Valley Veterans Memorial's annual Veterans Day Ceremony at 5:30 p.m. under the American Pavilion in Veterans Park and Athletic Complex, 3101 Harvey Road in College Station. This year's keynote speaker, according to the memorial, is Gregory W. Vogle, a former director of the National Clandestine Service and a U.S. Marine Corps veteran. Below is what to expect at the ceremony, how to make the most of a visit to the memorial itself, and, because this is a real estate site, a plain-English look at the Texas home-buying and property tax benefits available to veterans who live in or are moving to Bryan-College Station.` },
       { type: 'h2', text: `The Veterans Day 2026 Ceremony at Veterans Park in College Station` },
