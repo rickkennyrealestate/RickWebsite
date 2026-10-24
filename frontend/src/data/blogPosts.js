@@ -1,5 +1,46 @@
 export const blogPosts = [
   {
+    slug: 'texas-am-vs-texas-2026-kyle-field-thanksgiving-weekend-college-station-guide',
+    title: `Texas A&M vs. Texas 2026 at Kyle Field: A Thanksgiving Weekend Guide to College Station`,
+    category: 'Aggieland Life',
+    date: 'October 2026',
+    readTime: '6 min read',
+    excerpt:
+      `Texas A&M hosts Texas at Kyle Field on Friday, November 27, 2026, at 6:30 p.m. on ABC, the night after Thanksgiving. Here is how the week will likely unfold in College Station, from Midnight Yell to parking, shuttles, and traffic, plus what it means if you live, own, or rent near campus.`,
+    metaDescription:
+      `Texas A&M vs. Texas 2026 at Kyle Field: Fri., Nov. 27, 6:30 p.m. on ABC. College Station game-day parking, shuttles, traffic, and Thanksgiving week tips.`,
+    image: '/assets/images/blog-covers/texas-am-vs-texas-2026-kyle-field-thanksgiving-weekend-college-station-guide.jpg',
+    content: [
+      { type: 'p', text: `Texas A&M and Texas meet at Kyle Field on Friday, November 27, 2026, with kickoff at 6:30 p.m. Central on ABC. Texas A&M Athletics announced the kick time in May, and it lands the Lone Star Showdown in College Station the night after Thanksgiving, which makes this one of the biggest weekends of the year in Bryan-College Station. Whether you have tickets, are hosting family, or just want to know which roads to avoid, here is a practical guide to Texas A&M vs. Texas 2026 for locals and newcomers.` },
+      { type: 'h2', text: `Texas A&M vs. Texas 2026: Date, Time, and Why It Is a Big Deal` },
+      { type: 'p', text: `The game is the regular-season finale on the 2026 Texas A&M schedule released by the SEC, and it follows a road trip to Oklahoma on November 21. Texas A&M Athletics notes that each school is the other's most-played opponent, with 120 previous meetings. The rivalry went dormant after Texas A&M moved to the SEC in 2012 and returned when Texas joined the conference in 2024, so a Kyle Field edition of this game draws enormous interest from both fan bases.` },
+      { type: 'p', text: `A Friday night kickoff on a holiday weekend changes the usual game-day rhythm. Many students leave town for Thanksgiving, while alumni, visiting fans, and family come in. Expect a full town from Wednesday through Saturday, with hotels, restaurants, and short-term rentals in high demand. If you plan to host relatives, it is wise to make dinner reservations and travel plans early.` },
+      { type: 'h2', text: `Midnight Yell and Thanksgiving Night on Campus` },
+      { type: 'p', text: `Texas A&M Student Affairs describes Midnight Yell Practice as being held the night before home games at Kyle Field, with gates opening at 11 p.m., Yell starting at midnight, and the event lasting about 30 minutes. Guests enter through the northeast or southeast towers, and a clear bag policy applies. For a Friday game, the night before is Thanksgiving, so watch the Yell Leaders' site (yell.tamu.edu) and Texas A&M Athletics for confirmed timing that week.` },
+      { type: 'h2', text: `Kyle Field Parking, Shuttles, and Rideshare` },
+      { type: 'p', text: `Game-day logistics are posted on the new Kyle Field game day site, kylefield.12thman.com, and The Eagle's MyAggieNation publishes a guide before each home game. For the 2026 home opener, the published details looked like this. Times shift for a Friday game, so check the guide the week of the game:` },
+      { type: 'ul', items: [
+        `Bags: one clear bag up to 12 x 6 x 12 inches or a clear one-gallon resealable bag, plus a small clutch.`,
+        `Cash parking near the Bonfire Memorial area, Research Park, and Agronomy Road was listed at $25 or $40, and prepaid ParkMobile parking ranged from $29 to $67.`,
+        `Free shuttles ran from Downtown Bryan (free street parking, or $5 at the Roy Kelly Parking Garage) to the Memorial Student Center, starting three hours before kickoff.`,
+        `Free shuttles also ran from Century Square in College Station, from three hours before kickoff until two hours after the game.`,
+        `Rideshare pickup points included Olsen Boulevard at Reed Arena and Bizzell Street at George Bush Drive before the game, with Lot 30e near Albritton Tower, Boyett Street at Church Avenue, and Lewis Street after the game.`,
+        `Aggie Park tailgating spots, free and paid, required reservations through Revel XP.`
+      ] },
+      { type: 'h2', text: `Traffic Tips for College Station Residents` },
+      { type: 'p', text: `Even if you are not going to the game, the evening of November 27 will affect your drive. Expect heavy traffic on Wellborn Road, George Bush Drive, University Drive, Texas Avenue, and the Highway 6 exits that feed campus, starting well before kickoff and again after the game, which will likely end late in the evening. Neighborhoods closest to Kyle Field, such as Southside, Northgate, and the streets around Southwest Parkway and Holleman Drive, feel it most. Black Friday shopping traffic near Post Oak Mall and Century Square adds to the mix. If you can, run errands early in the day, use Harvey Mitchell Parkway (FM 2818) or Highway 6 to go around campus, and plan to stay put after dark.` },
+      { type: 'h2', text: `What Big Game Weekends Mean for Homeowners and Investors` },
+      { type: 'p', text: `Weekends like this one are part of what makes Bryan-College Station different from other mid-size Texas markets. If you are shopping for a home, drive your future commute on a home game day before you decide; a house a few minutes from campus can feel very different at 5 p.m. on a Friday in November. If you own a rental, big game weekends may bring short-term demand, but College Station has its own rules for short-term rentals and occupancy limits, so read the city's requirements before you list. No one can guarantee booking rates or prices, and demand varies by opponent and schedule.` },
+      { type: 'p', text: `Rick has spent his career in the Brazos Valley and knows how game days shape traffic, rentals, and daily life in each part of town. If you are thinking about buying near campus, selling before spring, or investing in a property for game-weekend or student demand, reach out to Rick. He can walk you through neighborhoods, commute patterns, and what is on the market right now. Gig 'em, and enjoy Thanksgiving weekend in Aggieland.` }
+    ],
+    sources: [
+      { label: `Texas A&M Athletics: Texas A&M-Texas Kick Time Announced`, url: `https://12thman.com/news/2026/05/11/texas-am-texas-kick-time-announced` },
+      { label: `Texas A&M Athletics: 2026 Texas A&M Football Schedule Announced`, url: `https://12thman.com/news/2025/12/11/2026-texas-am-football-schedule-announced` },
+      { label: `Texas A&M Student Affairs: Guide to Midnight Yell`, url: `https://studentaffairs.tamu.edu/guide-to-midnight-yell` },
+      { label: `MyAggieNation: 2026 Kyle Field Game Day Guide`, url: `https://myaggienation.com/aggie_sports/football/texas-a-m-missouri-state-game-day-guide-kyle-field-sees-upgrades-for-2026/article_adc217c1-1e72-5017-a613-3d06f5fd4ee0.html` }
+    ]
+  },
+  {
     slug: 'santas-wonderland-2026-college-station-tickets-parking-guide',
     title: `Santa's Wonderland 2026 in College Station: Opening Night, Tickets, Parking, and Tips for Locals`,
     category: 'Local Guide',
