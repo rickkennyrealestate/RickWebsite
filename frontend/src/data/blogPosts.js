@@ -1,5 +1,49 @@
 export const blogPosts = [
   {
+    slug: 'christmas-in-the-park-college-station-2026-lights-parade-guide',
+    title: `Christmas in the Park 2026 in College Station: Lights Dates, the Dec. 5 Parade, Parking, and Tips for Locals`,
+    category: 'Local Guide',
+    date: 'October 2026',
+    readTime: '6 min read',
+    excerpt:
+      `Christmas in the Park lights up Stephen C. Beachy Central Park in College Station nightly from November 26, 2026, through January 1, 2027, and the big event night with the Christmas Parade is Saturday, December 5. Here is when to go, how parking and the shuttle work, and what the season means if you live nearby.`,
+    metaDescription:
+      `Christmas in the Park 2026 in College Station: free lights Nov. 26–Jan. 1, 6–11 p.m., plus the Dec. 5 parade, Jingle Bell Fun Run, shuttle, and parking.`,
+    image: '/assets/images/blog-covers/christmas-in-the-park-college-station-2026-lights-parade-guide.jpg',
+    content: [
+      { type: 'p', text: `Christmas in the Park returns to Stephen C. Beachy Central Park in College Station on Thanksgiving Day, Thursday, November 26, 2026, with more than one million lights on nightly from 6 to 11 p.m. through January 1, 2027. Admission is free, and you can drive or walk through the park. The biggest night of the season is Saturday, December 5, when the College Station Christmas Parade, the Jingle Bell Fun Run, and the official Christmas in the Park event all happen on the same afternoon and evening. Here is a practical guide to Christmas in the Park 2026.` },
+      { type: 'h2', text: `Christmas in the Park 2026: Lights Dates and Hours` },
+      { type: 'p', text: `The City of College Station lists the 2026 "Lights On" season as November 26 through January 1, from 6 to 11 p.m. every night. Parking is available inside the park on regular light nights, and the city suggests tuning your car radio to Willy 97.7 FM for holiday music while you drive the loop. Central Park sits along Krenek Tap Road beside the Highway 6 frontage road, an easy evening trip from most of College Station and Bryan.` },
+      { type: 'p', text: `This is one of the longest-running holiday traditions in town. According to the city, the display started in 1984, when a local family paid for a couple of light panels, and it has grown to more than a million lights. Last season the city highlighted favorites such as the 90-foot "Tower of Power" tree with 14,000 lights, Santa's Lane, the Snowflake Forest, a lighted paddleboat, and a light tunnel on the back trail. Displays can change from year to year, so treat that list as a preview, not a promise.` },
+      { type: 'h2', text: `Saturday, December 5: Parade, Fun Run, and Event Night` },
+      { type: 'p', text: `December 5 packs the season's main events into one day. Based on the city's 2026 event pages, the schedule looks like this:` },
+      { type: 'ul', items: [
+        `Jingle Bell Fun Run: check-in at 3 p.m. at 810 Holleman Drive East, with the 1.5-mile run starting at 3:30 p.m. The route follows part of the parade path and finishes at the park. Registration is $15 through November 15 (includes a shirt and jingle bells) and $20 from November 16 to 30, and kids 3 and under are free.`,
+        `Fun Run packet pickup: at the Parks and Recreation Administrative Office, December 2 and 3 from 8 a.m. to 5 p.m., and December 4 from 8 a.m. to 6 p.m.`,
+        `College Station Christmas Parade: 4 p.m. The route starts at Post Oak Mall, heads west on Holleman Drive, turns south on Dartmouth Street, crosses Southwest Parkway, then turns east on Krenek Tap Road and ends at Beachy Central Park.`,
+        `Christmas in the Park event: 6 to 10 p.m., free, starting with the mayor switching on the lights. The city lists hayrides, cookies, hot cocoa, live entertainment, photos with Santa (bring your own camera), and food vendors. Activities require a wristband from an information booth after you complete the online waiver.`
+      ] },
+      { type: 'h2', text: `Parking, the Shuttle, and Road Closures` },
+      { type: 'p', text: `On regular light nights you can park in Central Park. December 5 is different. The city says the park is closed to vehicles that day, Recreation Drive is closed from 7 a.m. to midnight, and cars cannot pass through the park, so the drive-through loop is not available that evening. Instead, a shuttle runs from 4 p.m. to midnight from the Post Oak Mall parking lot to the park, and Fun Run parking is also at Post Oak Mall. Accessible parking is at the Beachy Central Park softball complex, reached from State Highway 6. The city posts a parking and shuttle map on its Christmas in the Park page.` },
+      { type: 'p', text: `If you are simply driving through town that Saturday afternoon, expect slowdowns on Holleman Drive, Dartmouth Street, Southwest Parkway, and Krenek Tap Road around the 4 p.m. parade, plus holiday shopping traffic near Post Oak Mall and Texas Avenue. Using Harvey Mitchell Parkway (FM 2818) or Highway 6 to get around that stretch can help.` },
+      { type: 'h2', text: `Tips for Locals and Holiday Visitors` },
+      { type: 'ul', items: [
+        `Go on a weeknight. Opening weekend, the nights around Christmas, and the weekend after Thanksgiving tend to bring longer lines of cars on Krenek Tap Road.`,
+        `Mail a letter to Santa. A North Pole mailbox sits outside the Parks and Recreation Administrative Office from November 26 to December 24, and the city offers a printable letter template.`,
+        `Plan around other big nights. Texas A&M hosts Texas at Kyle Field on Friday, November 27, the night after the lights come on.`,
+        `Check before you go. Weather can change plans, so confirm updates at cstx.gov/christmas or call the Parks and Recreation office at 979-764-3486.`
+      ] },
+      { type: 'h2', text: `Living Near Central Park in College Station` },
+      { type: 'p', text: `Beachy Central Park is about 47 acres in the middle of College Station, and its location is part of what makes the light display so easy to reach. The surrounding area includes homes, townhomes, and apartments along Dartmouth Street, Krenek Tap Road, and Southwest Parkway, with neighborhoods such as Raintree and Emerald Forest just across Highway 6. For buyers, the appeal is practical: quick access to Highway 6 and Texas Avenue, shopping near Post Oak Mall and Holleman Drive, and year-round park amenities like trails, ponds, and sports fields. The trade-off is seasonal traffic on parade day and busy light nights.` },
+      { type: 'p', text: `If you are thinking about buying or selling in College Station this winter, or you want a feel for which parts of town fit your commute and budget, reach out to Rick. He knows how the holiday season and the Texas A&M calendar shape daily life in each neighborhood and can walk you through what is on the market now. Enjoy the lights, and happy holidays from the Brazos Valley.` }
+    ],
+    sources: [
+      { label: `City of College Station: Christmas in the Park`, url: `https://www.cstx.gov/parks-recreation-culture/events/community-events/christmas-in-the-park/` },
+      { label: `City of College Station: Christmas Parade`, url: `https://www.cstx.gov/parks-recreation-culture/events/community-events/christmas-parade/` },
+      { label: `City of College Station Blog: Enjoy the Enchanting Lights of Christmas in the Park Beginning Thanksgiving Day`, url: `https://blog.cstx.gov/2025/11/19/enjoy-the-enchanting-lights-of-christmas-in-the-park-beginning-thanksgiving-day/` }
+    ]
+  },
+  {
     slug: 'texas-am-vs-texas-2026-kyle-field-thanksgiving-weekend-college-station-guide',
     title: `Texas A&M vs. Texas 2026 at Kyle Field: A Thanksgiving Weekend Guide to College Station`,
     category: 'Aggieland Life',
