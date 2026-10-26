@@ -1,5 +1,55 @@
 export const blogPosts = [
   {
+    slug: 'downtown-bryan-holiday-events-2026-lights-on-lighted-parade-guide',
+    title: `Downtown Bryan Holiday Events 2026: Lights On!, the Dec. 17 Lighted Parade, Markets, and Tips for Locals`,
+    category: 'Local Guide',
+    date: 'October 2026',
+    readTime: '6 min read',
+    excerpt:
+      `Historic Downtown Bryan kicks off the 2026 holiday season with Lights On! on Friday, November 20, and wraps up with the Lighted Parade on Thursday, December 17. Here is the full calendar, plus parking and planning tips for Bryan residents and newcomers.`,
+    metaDescription:
+      `Downtown Bryan holiday events 2026: Lights On! Nov. 20, Holiday Magic Dec. 3, Porch Stroll Dec. 13, and the Dec. 17 Lighted Parade, with parking tips.`,
+    image: '/assets/images/blog-covers/downtown-bryan-holiday-events-2026-lights-on-lighted-parade-guide.jpg',
+    content: [
+      { type: 'p', text: `The Downtown Bryan holiday season for 2026 officially starts on Friday, November 20, when Lights On! fills Main Street and Bryan Avenue from 5 to 10 p.m., and it builds to the Downtown Bryan Lighted Parade on Thursday, December 17, from 7 to 9 p.m. In between, Destination Bryan's 2026 holiday guide lists markets, a porch stroll through one of the city's oldest neighborhoods, a free park festival, and a week-long Holiday Stroll downtown.` },
+      { type: 'p', text: `If you live in Bryan or College Station, or you are thinking about moving here, these events are some of the best ways to see what Downtown Bryan feels like when it is busy. Below are the dates as Destination Bryan lists them for 2026, along with practical tips for getting there and a look at the neighborhoods closest to the action. Event organizers do adjust details, so check the official listing the week of each event.` },
+      { type: 'h2', text: `Lights On! in Downtown Bryan: Friday, November 20, 2026` },
+      { type: 'p', text: `Lights On! is the night Historic Downtown Bryan turns on its holiday lights along Main Street and Bryan Avenue. Destination Bryan lists the 2026 event for Friday, November 20, from 5 to 10 p.m., with free admission, a visit from Santa, live entertainment, treats, and extended shopping at downtown stores. In past years the City of Bryan has held a tree-lighting countdown early in the evening, so arriving close to 5 p.m. is a good idea if you want to see the lights come on.` },
+      { type: 'p', text: `The next evening, Saturday, November 21, the Jingle Bell Sip & Shop runs from 5 to 8 p.m. downtown. Destination Bryan describes it as a ticketed walk with wine tastings at participating shops, a tote bag, and a map, with profits supporting Voices for Children. Tickets had not been released when this post was written, so watch the Destination Bryan site if you want to go.` },
+      { type: 'h2', text: `The Full 2026 Bryan Holiday Calendar` },
+      { type: 'p', text: `Here are the other holiday events and markets on Destination Bryan's 2026 guide, in date order:` },
+      { type: 'ul', items: [
+        `Out & About BCS Holiday Market: Sunday, November 29, noon to 4 p.m., at 2603 Roundtree Dr., with local artisans and vendors.`,
+        `Reindeer on the Run scavenger hunt: November 30 through December 14 in City of Bryan parks. Find nine reindeer and scan their QR codes for a chance at prizes; winners are drawn December 16.`,
+        `Holiday Magic: Thursday, December 3, 5:30 to 8:30 p.m., at Sue Haswell Park, 1142 E. William Joel Bryan Pkwy. It is free and includes a snow hill, Santa photos, hot cocoa, cookies, and train rides. Last year the city asked guests to park at Blinn College and ride a shuttle, so look for the same setup.`,
+        `December First Friday: Friday, December 4, 5 to 10 p.m., in Historic Downtown Bryan, with live music, vendors, and late shop and restaurant hours.`,
+        `Saturday, December 5 is the busiest day of the season: the 44th Annual Christmas Arts & Crafts Show at the Brazos Center, 3232 Briarcrest Dr. (10 a.m. to 5 p.m., free, 100-plus vendors); the First Saturday Christmas Art Fair at 930 N. Rosemary Dr.; the Active Texan Tinsel Trot 5K, 10K, and 1-mile run at Lake Walk, 4107 Lake Atlas Dr.; and the free Holiday Night Bazaar at Lake Walk from 6 to 10 p.m.`,
+        `Holiday Showcase at the Brazos Valley Museum of Natural History: Tuesday, December 8, 5:30 to 7:30 p.m., 3232 Briarcrest Dr., featuring local artists and authors.`,
+        `Holiday Porch Stroll: Sunday, December 13, 4 to 7 p.m. This self-guided walk passes decorated porches in the historic neighborhood around Heritage Park, with parking at Fannin Elementary.`,
+        `Downtown Bryan Holiday Stroll: Sunday, December 13 through Thursday, December 17, with activities at multiple downtown businesses.`
+      ] },
+      { type: 'h2', text: `The Downtown Bryan Lighted Parade: Thursday, December 17, 2026` },
+      { type: 'p', text: `The season's finale is the Downtown Bryan Lighted Parade, listed for Thursday, December 17, 2026, from 7 to 9 p.m., with lit floats and vehicles and Santa at the end. Destination Bryan's most recent published route started at 24th Street and Bryan Avenue, ran south on Bryan Avenue, turned at 28th Street, and came back north on Main Street, so most of downtown's core is lined with spectators. Confirm the 2026 route map before you go, since routes can change from year to year.` },
+      { type: 'p', text: `Because the parade loops through the heart of downtown, expect street closures on Main Street, Bryan Avenue, and the cross streets between them for much of the evening. Many people make a night of it by eating dinner downtown first; restaurants fill up quickly, so book ahead or go early.` },
+      { type: 'h2', text: `Parking and Getting Around Downtown Bryan During the Holidays` },
+      { type: 'ul', items: [
+        `Arrive early for Lights On! and the parade. Downtown's street parking and public lots fill fast, and walking a few extra blocks from the edges of downtown is often quicker than circling.`,
+        `Coming from College Station, Texas Avenue is the most direct route, but it slows near downtown on event nights. Highway 6 to William Joel Bryan Parkway and then into downtown can be an alternative.`,
+        `Plan for cool evenings. December nights in the Brazos Valley often drop into the 40s, so bring a jacket for outdoor events.`,
+        `Remember that the College Station side of the holidays runs at the same time: Christmas in the Park opens November 26 at Stephen C. Beachy Central Park, and its Christmas Parade is December 5. If you want both cities' parades, they fall on different days this year.`
+      ] },
+      { type: 'h2', text: `Living Near Historic Downtown Bryan` },
+      { type: 'p', text: `Holiday nights show off what draws many buyers to the area around downtown: walkable blocks, locally owned restaurants and shops, and a calendar of events that runs all year, including First Friday every month. Homes nearby range from early twentieth-century houses and bungalows in the historic neighborhoods east and south of downtown to newer infill homes and townhomes. Older homes can come with character and larger trees, and they can also come with older systems, foundations on our clay soils, and in some cases historic district guidelines, so a careful inspection matters.` },
+      { type: 'p', text: `If you are relocating, a holiday event is a low-pressure way to tour the area. Walk downtown on Lights On! night, drive the surrounding streets, and time your commute back toward Texas A&M or your workplace. It will tell you a lot about how a neighborhood fits your daily routine.` },
+      { type: 'p', text: `Whether you are looking at a historic home near Downtown Bryan, a newer neighborhood elsewhere in Bryan-College Station, or thinking about selling before the spring market, reach out to Rick. He knows the Brazos Valley street by street and can help you compare areas by price, commute, and the amenities that matter to you.` }
+    ],
+    sources: [
+      { label: `Destination Bryan: 2026 Christmas Markets & Holiday Events in Bryan, TX`, url: `https://www.destinationbryan.com/blog/holiday-guide/` },
+      { label: `Destination Bryan: Holiday Events in Bryan, Texas`, url: `https://www.destinationbryan.com/things-to-do/holidays/` },
+      { label: `Destination Bryan: Holiday Stroll & Lighted Parade`, url: `https://www.destinationbryan.com/events/annual/holiday-stroll-lighted-parade/` }
+    ]
+  },
+  {
     slug: 'christmas-in-the-park-college-station-2026-lights-parade-guide',
     title: `Christmas in the Park 2026 in College Station: Lights Dates, the Dec. 5 Parade, Parking, and Tips for Locals`,
     category: 'Local Guide',
