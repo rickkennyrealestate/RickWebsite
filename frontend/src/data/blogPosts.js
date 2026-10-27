@@ -1,5 +1,54 @@
 export const blogPosts = [
   {
+    slug: 'savannah-oaks-college-station-rezoning-approved-2026-what-it-means',
+    title: `Savannah Oaks in College Station: What the 1,266-Acre Rezoning Approved in October 2026 Means for Buyers and Owners`,
+    category: 'Market Update',
+    date: 'October 2026',
+    readTime: '6 min read',
+    excerpt:
+      `On October 22, 2026, the College Station City Council unanimously approved zoning for Savannah Oaks, a 1,266-acre master-planned community off Highway 6 between Pebble Creek and Southern Pointe. Here is what is planned, the projected timeline, and what it could mean for buyers, sellers, and nearby homeowners.`,
+    metaDescription:
+      `Savannah Oaks College Station: the 1,266-acre rezoning approved Oct. 22, 2026, with ~2,700 homesites, trails, and a 2028 target for first homes.`,
+    image: '/assets/images/blog-covers/savannah-oaks-college-station-rezoning-approved-2026-what-it-means.jpg',
+    content: [
+      { type: 'p', text: `Savannah Oaks, a 1,266-acre master-planned community in south College Station, cleared its biggest hurdle on Thursday, October 22, 2026, when the College Station City Council unanimously approved its zoning. City leaders have called it the largest rezoning in College Station history, and the site sits off State Highway 6 between the Pebble Creek and Southern Pointe neighborhoods, a few minutes south of Texas A&M.` },
+      { type: 'p', text: `If you are buying, selling, or already own a home in south College Station, this is one of the most significant pieces of local real estate news this year. Below is a plain-English breakdown of what is planned, what is still undecided, and what it may mean for the market nearby. Figures come from the city, the developer, or local news reports linked below.` },
+      { type: 'h2', text: `What Was Approved for Savannah Oaks in College Station` },
+      { type: 'p', text: `The council vote approved a zoning framework, not finished house plans. According to the City of College Station, the land was rezoned from Rural and Commercial Industrial designations into two pieces: a roughly 1,104-acre Planned Development District for the residential community and a roughly 162-acre Planned Mixed-Use District along Highway 6. The council also considered related amendments to the city's Thoroughfare and Active Transportation Master Plans for the project.` },
+      { type: 'p', text: `The developer is Silverfin Land Development, a Corpus Christi-based firm led by president Brantley Gwin. Community Impact reported that the approved standards go beyond the city's baseline in several ways, including wider landscape buffers, native canopy trees, smart irrigation controllers, and more bicycle parking.` },
+      { type: 'h2', text: `Homes, Parks, Trails, and Commercial Space in the Plan` },
+      { type: 'p', text: `Here is what the City of College Station's October 26 announcement lists for the current plan. Keep in mind that the city notes final lot counts depend on later approvals, so these numbers can change.` },
+      { type: 'ul', items: [
+        `About 2,688 single-family homesites, plus two townhouse sites totaling about 25 acres and potential multifamily opportunities.`,
+        `Anticipated home styles described as Texas traditional, modern farmhouse, and classic Southern. Zoning allows up to eight single-family lots per acre in some areas, which the city says is not a unit cap.`,
+        `More than 285 acres of public and private parkland and open space, including natural creek corridors along Alum Creek.`,
+        `Nearly 20 miles of trails and shared-use paths, including 10-foot paths planned to connect to the 562-acre Lick Creek Park and the city trail network.`,
+        `Two private amenity centers totaling about 12 acres, with an event barn, a resort-style pool complex, and covered basketball and pickleball courts, plus two lakes with about 18 acres of private waterfront open space.`,
+        `A 162-acre Highway 6 mixed-use district that may include retail, restaurants, offices, hotels, services, and eligible residential uses. The final mix and timing have not been set.`
+      ] },
+      { type: 'p', text: `The developer projects $1.6 billion to $2.05 billion in new taxable value at full buildout, with $300 million to $350 million of that in commercial value. KBTX noted that the city has not independently verified that projection, so treat it as an estimate rather than a certainty.` },
+      { type: 'h2', text: `Savannah Oaks Timeline: When Could Homes Be Available?` },
+      { type: 'p', text: `This is a long-range project. Per the city, Phase 1 infrastructure is expected to begin in the first quarter of 2027, subject to engineering, permitting, and market conditions, with model homes and first residents targeted for early summer 2028. A builder lineup is expected to be announced later. College Station's planning director told KBTX that full buildout could take 10 to 20 years.` },
+      { type: 'p', text: `For buyers, that means Savannah Oaks is not an option for a move this winter or next spring. If you are interested, the developer has an interest list at savannahoaksliving.com. Some newer Texas subdivisions carry MUD or PID assessments, and the city's announcement does not address how Savannah Oaks will be financed, so that is a question to ask once builders and pricing are public.` },
+      { type: 'h2', text: `What It Could Mean for Pebble Creek, Southern Pointe, and South College Station` },
+      { type: 'p', text: `For homeowners nearby, the biggest near-term changes are likely to be construction activity and, over time, more traffic and more retail along the Highway 6 corridor. The city's announcement points to other projects in the same stretch, including Bass Pro Shops, a Corinth Properties mixed-use project, and a sports complex along Highway 6.` },
+      { type: 'p', text: `Road connections have been a sensitive topic in this area. In April 2026, the council voted 4-3 to remove a planned extension of Pebble Creek Parkway from the city's comprehensive plan after Pebble Creek residents raised concerns about cut-through traffic and neighborhood character. Nearby owners may want to follow how the Savannah Oaks road plans are carried out.` },
+      { type: 'p', text: `On prices, city officials told KBTX that the homes are not considered affordable housing, but that added supply could ease pressure elsewhere in the city. Historically, large new-home supply in one part of a market can give buyers more choices and give resale sellers more competition, while new amenities and retail can add appeal to surrounding areas. How that balances out here is not something anyone can promise, and it will play out over many years, not months.` },
+      { type: 'h2', text: `How Buyers and Sellers Can Use This News Now` },
+      { type: 'ul', items: [
+        `Buyers looking in south College Station: tour the Highway 6 corridor and Lick Creek Park area now so you understand the commute and what is planned nearby.`,
+        `Sellers in Pebble Creek, Southern Pointe, and nearby areas: future new-construction competition is years out, but pricing your home with current, nearby comparable sales still matters most.`,
+        `Investors: watch the Highway 6 mixed-use district and the builder announcements before drawing conclusions about rents or resale.`
+      ] },
+      { type: 'p', text: `Big rezonings make headlines, but the details that affect your decision show up later in plats, builder pricing, and tax structures. If you want help sorting through what Savannah Oaks and the other Highway 6 projects could mean for a home you own or one you are thinking about buying, reach out to Rick. He follows south College Station development closely and can walk you through recent sales, commute times, and new-construction options across Bryan-College Station.` }
+    ],
+    sources: [
+      { label: `City of College Station: Savannah Oaks, the largest planned development in College Station history`, url: `https://www.cstx.gov/news/posts/savannah-oaks-the-largest-planned-development-in-college-station-history/` },
+      { label: `Community Impact: College Station rezones 1,266 acres for Savannah Oaks development`, url: `https://communityimpact.com/bryan-college-station/development/college-station-rezones-1-266-acres-for-savannah-oaks-development/` },
+      { label: `KBTX: Council approves largest rezoning in College Station history`, url: `https://www.kbtx.com/2026/10/24/council-approves-largest-rezoning-college-station-history/` }
+    ]
+  },
+  {
     slug: 'downtown-bryan-holiday-events-2026-lights-on-lighted-parade-guide',
     title: `Downtown Bryan Holiday Events 2026: Lights On!, the Dec. 17 Lighted Parade, Markets, and Tips for Locals`,
     category: 'Local Guide',
