@@ -1,5 +1,55 @@
 export const blogPosts = [
   {
+    slug: 'aggie-bonfire-remembrance-2026-college-station-bonfire-memorial-guide',
+    title: `Aggie Bonfire Remembrance 2026 in College Station: The Nov. 18 Ceremony, Visiting the Bonfire Memorial, and What Newcomers Should Know`,
+    category: 'Aggieland Life',
+    date: 'October 2026',
+    readTime: '6 min read',
+    excerpt:
+      `Aggie Bonfire Remembrance returns at 2:42 a.m. on Wednesday, November 18, 2026, at the Bonfire Memorial on the Texas A&M campus in College Station. Here is what the ceremony is, what to expect, how to visit the memorial any time of year, and why the tradition matters to people who live in Aggieland.`,
+    metaDescription:
+      `Aggie Bonfire Remembrance 2026 in College Station: the 2:42 a.m. Nov. 18 ceremony at the Bonfire Memorial, plus visiting tips for locals.`,
+    image: '/assets/images/blog-covers/aggie-bonfire-remembrance-2026-college-station-bonfire-memorial-guide.jpg',
+    content: [
+      { type: 'p', text: `Aggie Bonfire Remembrance is held every year at 2:42 a.m. on November 18 at the Bonfire Memorial on the Texas A&M campus in College Station. In 2026 that falls in the early hours of Wednesday, November 18, which for most people means heading out late on Tuesday night, November 17. This year marks 27 years since the 1999 Bonfire collapse, which killed 12 Aggies and injured 27 others.` },
+      { type: 'p', text: `If you are new to Bryan-College Station, Bonfire Remembrance is one of the quietest and most meaningful nights on the local calendar, and it says a lot about the community you are joining. Below is a plain-English guide to what the ceremony is, what to expect if you attend, how to visit the memorial on your own, and how traditions like this one shape life in Aggieland.` },
+      { type: 'h2', text: `What Aggie Bonfire Remembrance Is and Why It Matters in College Station` },
+      { type: 'p', text: `Aggie Bonfire was a student-built tradition that burned on campus almost every year from 1909 through 1998. According to Texas A&M, the only exception was 1963, when the stack was built but taken down after the assassination of President John F. Kennedy. At 2:42 a.m. on November 18, 1999, the partially built stack collapsed during construction. Twelve students died and 27 were injured.` },
+      { type: 'p', text: `The university dedicated the Bonfire Memorial on November 18, 2004, five years after the collapse, on the exact site where the 1999 stack stood. Each November 18, the student Traditions Council organizes a remembrance ceremony there at the moment of the collapse. In 2025, according to The Battalion, the program included a reading of "The Last Corps Trip," a performance by the Singing Cadets, and a roll call of the 12 led by the Yell Leaders, with participants holding candles in the memorial's portals and a candle lit as each name was read. The 2026 program may differ, so check the official Texas A&M events calendar as the date gets closer.` },
+      { type: 'h2', text: `Bonfire Remembrance 2026: Date, Time, and What to Expect` },
+      { type: 'ul', items: [
+        `When: 2:42 a.m. on Wednesday, November 18, 2026 (the night of Tuesday, November 17). Many people arrive well before 2:42 to find a spot.`,
+        `Where: the Bonfire Memorial on the Polo Field at the northeastern corner of the Texas A&M campus in College Station. A tree-covered earthen berm surrounds the memorial and screens it from nearby roads and parking.`,
+        `Related events in recent years: reflection displays in the Memorial Student Center Flag Room (November 9 to 19 in 2025), displays in front of the buildings tied to each student's major, and a coffee and reflections gathering from midnight to 2 a.m. at the Jack K. Williams Administration Building. Confirm the 2026 schedule on the Texas A&M events calendar before you go.`,
+        `Parking: plan to park in a campus lot nearby and walk in. Lots close to the memorial can fill well before the ceremony, so check Texas A&M Transportation Services for any event parking notes.`
+      ] },
+      { type: 'p', text: `The ceremony is a memorial, not a celebration. Expect a large, quiet crowd of students, former students, and local residents. Silence your phone, keep conversation to a minimum, and follow the lead of the people around you. Mid-November nights in the Brazos Valley can turn cool, and you may be standing outdoors for a while, so dress in layers and wear comfortable shoes for walking from your car.` },
+      { type: 'h2', text: `Visiting the Bonfire Memorial in College Station Any Time of Year` },
+      { type: 'p', text: `You do not have to wait for November 18 to visit. The memorial is outdoors on campus, and many locals stop by on an ordinary evening. According to Texas A&M, it has three main parts:` },
+      { type: 'ul', items: [
+        `Tradition Plaza: the entrance, with the Spirit Wall and the Last Corps Trip Wall, which displays the poem traditionally read before Bonfire was lit.`,
+        `History Walk: a line of 89 granite stones, one for each year Bonfire burned, each with an amber light. A break marks 1963, the year it did not burn. The lights come on around dusk, so the walk is especially striking after dark.`,
+        `Spirit Ring: a circle around the site of the 1999 stack, with 12 stone portals, each about 16 feet tall, oriented toward the hometown of one of the students who died. Each portal holds a bronze likeness, signature, and reflection. Twenty-seven stones with bronze inlays represent the injured students.`
+      ] },
+      { type: 'p', text: `Texas A&M replaced the original gravel paths with a solid surface in 2019 to make the memorial easier to reach for wheelchairs, walkers, and strollers. If you are hosting family or showing newcomers around town, MSC Hospitality offers guided tours of the memorial that cover the tradition, the collapse, and its aftermath.` },
+      { type: 'h2', text: `What Bonfire Remembrance Tells You About Living Near Texas A&M` },
+      { type: 'p', text: `Moving to Bryan-College Station means living alongside traditions that run deep, and remembrance is a big part of that. Bonfire Remembrance in November, Muster on April 21, and Silver Taps during the school year are moments when the campus goes quiet and the wider community often takes part. Newcomers who attend one usually come away understanding Aggieland a little better.` },
+      { type: 'p', text: `The memorial sits near Texas Avenue and University Drive. The neighborhoods closest to that corner of campus include Northgate along University Drive and the older Eastgate and College Hills areas east of Texas Avenue, which offer established homes on mature lots within a short drive, bike ride, or, in some cases, walk of campus. Bonfire Remembrance also lands the week before Thanksgiving, which in 2026 brings the Texas A&M vs. Texas game to Kyle Field, so mid- to late November is one of the busiest stretches of the year around campus. If you are planning a move, a showing, or a closing in that window, it helps to build in extra time.` },
+      { type: 'ul', items: [
+        `Treat the night as you would any memorial service: quiet, respectful, and unhurried.`,
+        `Visit the memorial after dark on another evening if you want to see the History Walk lights without a crowd.`,
+        `Expect heavier traffic near campus the week of November 16 and again over Thanksgiving weekend.`,
+        `Watch the Texas A&M events calendar and local outlets like The Battalion and KBTX for 2026 updates.`
+      ] },
+      { type: 'p', text: `Understanding the rhythms and traditions of a place is part of finding the right home in it. If you are thinking about moving to College Station or Bryan, or want to know how life near campus compares with neighborhoods farther out, reach out to Rick. As a local agent with deep Aggie ties, he can walk you through neighborhoods, commutes, and what the Texas A&M calendar means for day-to-day life here.` }
+    ],
+    sources: [
+      { label: `Texas A&M University: Bonfire Memorial`, url: `https://www.tamu.edu/campus-community/traditions/remembrance/bonfire-memorial.html` },
+      { label: `The Battalion: Bonfire Remembrance commemorates 26th anniversary`, url: `https://thebatt.com/traditions/their-stories-are-worth-remembering-bonfire-remembrance-commemorates-26th-anniversary/` },
+      { label: `Texas A&M Events Calendar: Bonfire Remembrance Ceremony`, url: `https://calendar.tamu.edu/event/369996-bonfire-remembrance-ceremony` }
+    ]
+  },
+  {
     slug: 'savannah-oaks-college-station-rezoning-approved-2026-what-it-means',
     title: `Savannah Oaks in College Station: What the 1,266-Acre Rezoning Approved in October 2026 Means for Buyers and Owners`,
     category: 'Market Update',
