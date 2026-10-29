@@ -1,5 +1,42 @@
 export const blogPosts = [
   {
+    slug: 'fed-holds-rates-october-2026-what-it-means-bryan-college-station-buyers',
+    title: `Fed Holds Rates in October 2026: What the Decision Means for Bryan-College Station Homebuyers and Sellers`,
+    category: 'Market Update',
+    date: 'October 2026',
+    readTime: '6 min read',
+    excerpt:
+      `On October 28, 2026, the Federal Reserve held its benchmark rate at 3.75% to 4%, with two officials voting for a hike. Here is what the Fed rate decision does and does not mean for mortgage rates, monthly payments, and buying or selling a home in Bryan-College Station.`,
+    metaDescription:
+      `Fed rate decision Oct. 28, 2026: rates held at 3.75%-4%. What it means for Bryan-College Station mortgage rates, payments, buyers, and sellers.`,
+    image: '/assets/images/blog-covers/fed-holds-rates-october-2026-what-it-means-bryan-college-station-buyers.jpg',
+    content: [
+      { type: 'p', text: `On Wednesday, October 28, 2026, the Federal Reserve voted 10-2 to hold the federal funds rate at a target range of 3.75% to 4%. The two officials who dissented, Lisa D. Cook and Beth M. Hammack, did not want a cut. They preferred to raise the rate by a quarter point.` },
+      { type: 'p', text: `If you are buying or selling a home in Bryan-College Station this fall or winter, this Fed rate decision is worth understanding, though not for the reason you might expect. The Fed does not set mortgage rates, and a hold does not freeze your mortgage rate. Here is what the Fed said, where mortgage rates stand, and how local buyers and sellers can plan around it.` },
+      { type: 'h2', text: `What the Fed Rate Decision Said on October 28, 2026` },
+      { type: 'p', text: `In its official statement, the Federal Open Market Committee described the economy as expanding at a strong pace, with resilient domestic spending, strong productivity growth, and robust business investment. It said job gains have kept pace with the growth of the workforce and that the unemployment rate has changed little.` },
+      { type: 'p', text: `The key phrase for anyone with a mortgage on their mind: the Committee said inflation remains elevated, and that it will gather more information to decide what policy is needed to bring inflation back to its 2% goal. Two votes for a rate increase are a signal that at least some policymakers see more risk in inflation than in a slowing economy. That does not mean a hike is coming, but quick rate cuts look less likely in the near term. The Fed's next scheduled decision is on December 9, 2026, at the end of its December 8-9 meeting.` },
+      { type: 'h2', text: `Why the Fed Rate Is Not Your Mortgage Rate` },
+      { type: 'p', text: `The federal funds rate is what banks charge each other for overnight loans. A 30-year mortgage is priced off longer-term borrowing costs, which move with the bond market and inflation expectations. That is why the Fed's benchmark sits at 3.75% to 4% while 30-year mortgage rates are above 7%.` },
+      { type: 'p', text: `According to Freddie Mac's Primary Mortgage Market Survey for the week of October 22, 2026, the average 30-year fixed rate was 7.32%, down from 7.40% the week before. The average 15-year fixed rate was 6.68%. A year earlier, those averages were 6.19% and 5.44%. Rates are higher than a year ago, even though the latest week offered a little relief. Freddie Mac updates it every Thursday.` },
+      { type: 'h2', text: `What 7.32% Means for a Monthly Payment in Bryan-College Station` },
+      { type: 'p', text: `Rates are easier to understand in dollars. Here is a simple illustration of principal and interest only on a $300,000, 30-year fixed loan. It does not include Brazos County property taxes, homeowners insurance, HOA dues, or mortgage insurance, and your actual rate will depend on your credit, down payment, loan type, and lender.` },
+      { type: 'ul', items: [`At 7.32%, principal and interest come to roughly $2,061 per month.`, `At 6.82%, a half point lower, it is roughly $1,960, about $101 less each month.`, `At 6.32%, a full point lower, it is roughly $1,861, about $200 less each month.`, `At last year's 6.19% average, it would have been roughly $1,835.`] },
+      { type: 'p', text: `Property taxes and insurance are a large part of a Texas house payment, so ask your lender for a full estimate that includes escrow. If you will live in the home, the Brazos County homestead exemption can lower its taxable value once you qualify.` },
+      { type: 'h2', text: `What the Fed Rate Decision Means for Local Buyers` },
+      { type: 'ul', items: [`Shop more than one lender. Quotes can vary on the same day, and a small rate difference adds up over the life of a loan.`, `Ask about rate locks. If you are under contract in College Station or Bryan, ask how long a lock lasts and what an extension costs if closing slips.`, `Compare buydowns and seller credits. Some resale sellers and Brazos Valley builders may offer closing-cost credits or a rate buydown. Compare the real dollar value of each.`, `Budget for today's rate, not a hoped-for one. Refinancing later may be possible, but it is never guaranteed and has its own costs.`, `Get pre-approved before you tour so you know your comfort zone.`] },
+      { type: 'h2', text: `What It Means for Sellers and Current Owners` },
+      { type: 'p', text: `Higher rates shrink how much house some buyers can afford, so pricing and condition matter even more. A home priced in line with recent nearby sales and shown well is in a better position than one that tests the market high. A seller credit a buyer can put toward a rate buydown can sometimes appeal more than a price cut of the same size, depending on the buyer's loan.` },
+      { type: 'p', text: `If you already own a home with a lower rate from a few years ago, there is no need to react to a single Fed meeting. If you are weighing a move within Bryan-College Station, run the numbers on both sides: what your current home may sell for, and what a new payment would look like at today's rates.` },
+      { type: 'h2', text: `The Bottom Line for Bryan-College Station` },
+      { type: 'p', text: `The October 28 Fed rate decision was a hold, but the message on inflation suggests borrowing costs may stay elevated for a while. That does not have to stop a well-planned move. Buyers who understand their full monthly payment, and sellers who price with current rates in mind, can still make sound decisions. If you would like to talk through what today's rates mean for a home in College Station, Bryan, or anywhere in the Brazos Valley, reach out to Rick for a no-pressure conversation.` }
+    ],
+    sources: [
+      { label: `Federal Reserve: FOMC statement, October 28, 2026`, url: `https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm` },
+      { label: `Freddie Mac: Primary Mortgage Market Survey`, url: `https://www.freddiemac.com/pmms` }
+    ]
+  },
+  {
     slug: 'aggie-bonfire-remembrance-2026-college-station-bonfire-memorial-guide',
     title: `Aggie Bonfire Remembrance 2026 in College Station: The Nov. 18 Ceremony, Visiting the Bonfire Memorial, and What Newcomers Should Know`,
     category: 'Aggieland Life',
