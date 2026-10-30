@@ -1,5 +1,46 @@
 export const blogPosts = [
   {
+    slug: 'winter-freeze-prep-2026-bryan-college-station-homes-pipes-sprinklers',
+    title: `Winter Freeze Prep 2026 for Bryan-College Station Homes: Pipes, Sprinklers, Plants, and Who to Call`,
+    category: 'Local Guide',
+    date: 'October 2026',
+    readTime: '6 min read',
+    excerpt:
+      `The first freeze in Bryan-College Station usually arrives in late November, and it can come as early as late October. Here is a practical winter freeze prep checklist for local homeowners, landlords, and sellers: outdoor faucets, sprinkler systems and backflow preventers, plants, vacant homes, and the utility numbers to save now.`,
+    metaDescription:
+      `Winter freeze prep for Bryan-College Station homes in 2026: first-freeze timing, pipe and sprinkler tips, plants, vacant listings, and utility numbers.`,
+    image: '/assets/images/blog-covers/winter-freeze-prep-2026-bryan-college-station-homes-pipes-sprinklers.jpg',
+    content: [
+      { type: 'p', text: `Winter freeze prep is easy to put off in Bryan-College Station, where October still brings plenty of warm afternoons. But according to KBTX's look at the past 30 years of local weather data, the first light freeze in Bryan-College Station typically arrives around November 27-29, and the first frost can show up anywhere from October 30 to November 30. The earliest light freeze on record here came on October 28, 2019.` },
+      { type: 'p', text: `That means the next few weeks, before Thanksgiving, are the ideal window to get your home ready. Whether you own a house in College Station, a rental in Bryan, or a listing that will sit on the market through the holidays, this checklist covers the jobs that prevent the most expensive surprises: burst pipes, cracked sprinkler parts, and a scramble to find the shutoff valve at midnight.` },
+      { type: 'h2', text: `When the First Freeze Usually Hits Bryan-College Station` },
+      { type: 'p', text: `Local freezes are often short, with a quick rebound the next afternoon. The problem is that houses built for Texas heat often have plumbing in spots that are poorly protected from cold: exterior walls, attics, garages, and exposed pipes on the side of the house.` },
+      { type: 'p', text: `Longer cold snaps do happen, as the February 2021 winter storm showed, and in January 2026 KBTX reported Brazos Valley residents being urged to prepare ahead of another cold weekend. Having the basics done early turns a hard-freeze forecast into a 15-minute task instead of a crisis.` },
+      { type: 'h2', text: `Outdoor Faucets, Pipes, and Your Main Shutoff` },
+      { type: 'p', text: `The City of College Station's freeze-protection guidance for homeowners starts with the simplest steps, and they apply just as well in Bryan and the rest of the Brazos Valley:` },
+      { type: 'ul', items: [`Disconnect and drain garden hoses so water is not trapped in the hose bib.`, `Put insulated covers on outdoor faucets. KBTX meteorologist Max Crawford's advice before last January's cold was to walk the perimeter of the house and check that every faucet cover is in good shape.`, `Insulate exposed pipes in unheated spaces such as garages, attics, and crawl spaces with foam pipe sleeves.`, `Find your main water shutoff valve now. The city notes it is usually just past the water meter, between the meter and the house. Make sure everyone who lives in the home knows where it is and how to turn it off.`, `During a hard freeze, letting a faucet drip on an exterior wall can help keep water moving. Opening the cabinet doors under sinks on outside walls lets warm air reach those pipes.`] },
+      { type: 'h2', text: `Sprinkler Systems and Backflow Preventers` },
+      { type: 'p', text: `Many homes in College Station and Bryan have in-ground irrigation, and the above-ground backflow preventer is one of the most common freeze casualties. The City of College Station points out that simply turning off the irrigation controller does not protect the system from freeze damage. Its guidance is to shut off the water to the system, drain it, including the backflow preventer, and wrap or cover exposed PVC and the backflow device.` },
+      { type: 'p', text: `If you are not comfortable draining the system yourself, the city recommends hiring a licensed irrigator. Leave the controller set to off through freezing weather, and do not run sprinklers when a freeze is coming: runoff can turn to ice on sidewalks and streets.` },
+      { type: 'h2', text: `Plants, Pets, and Power` },
+      { type: 'p', text: `Tender landscape plants and potted citrus are worth moving into a garage or covering with frost cloth that reaches the ground, so it traps heat from the soil. Texas A&M AgriLife Extension publishes detailed guidance on protecting plants from frosts and freezes. Bring outdoor pets inside, and make sure any outdoor animals have shelter and unfrozen water.` },
+      { type: 'p', text: `Save your electric utility's outage number in your phone before you need it. In College Station, College Station Utilities lists a 24/7 Utilities Dispatch Center at 855-528-4278 for power, water, and wastewater problems, and customers can text OUT to 979-599-7917 to report an outage. In Bryan, Bryan Texas Utilities lists (979) 822-3777 for reporting outages.` },
+      { type: 'h2', text: `Winter Freeze Prep for Landlords, Vacant Homes, and Sellers` },
+      { type: 'p', text: `Vacant homes are the most vulnerable, because nobody is there to notice a split pipe until the damage has spread. If you own a rental between tenants, a second home, or a house that is listed for sale and already moved out of, a few extra steps can prevent a costly claim:` },
+      { type: 'ul', items: [`Keep the heat on at a moderate setting rather than shutting the HVAC off completely.`, `Have faucet covers on and the irrigation system drained before the first freeze, not the night of.`, `Ask a neighbor, property manager, or your agent to check the home after any hard freeze.`, `For rentals, remind tenants where the shutoff valve is and how to report a leak, and review your lease and Texas Property Code obligations for repairs.`] },
+      { type: 'p', text: `For buyers shopping this winter, ask your inspector to note exposed or uninsulated plumbing, the condition of the backflow preventer, and any signs of past leaks. Those details are useful to know during your option period, and they help you plan for your first winter in the home.` },
+      { type: 'p', text: `Most of this winter freeze prep for Bryan-College Station homes takes an afternoon and costs less than a single plumbing call: faucet covers, foam pipe sleeves, a drained sprinkler system, and a couple of phone numbers saved. Do it before the late-November freeze window and you will be ready whenever the first cold front arrives. If you are planning to buy, sell, or rent out a home in College Station, Bryan, or anywhere in the Brazos Valley this winter, reach out to Rick for local advice on timing, inspections, and getting a home ready for the market.` }
+    ],
+    sources: [
+      { label: `KBTX: Brazos Valley's guide to when your first frost and freeze typically arrive`, url: `https://www.kbtx.com/content/news/Brazos-Valleys-guide-to-when-your-first-frost--freeze-typically-arrive-564023161.html` },
+      { label: `City of College Station: Ways to protect your water pipes and irrigation system in freezing weather`, url: `https://blog.cstx.gov/2013/12/05/10-ways-to-protect-your-water-pipes-and-irrigation-system-in-freezing-weather/` },
+      { label: `City of College Station: College Station Utilities contact information`, url: `https://www.cstx.gov/departments___city_hall/csu` },
+      { label: `KBTX: Brazos Valley residents urged to begin winter weather preparations (January 2026)`, url: `https://www.kbtx.com/2026/01/21/brazos-valley-residents-urged-begin-winter-weather-preparations-before-weekend-rolls-around/` },
+      { label: `Texas A&M AgriLife Extension: Protecting plants from frosts and freezes`, url: `https://agrilifeextension.tamu.edu/protecting-plants-from-frosts-freezes-eht-048` },
+      { label: `Bryan Texas Utilities`, url: `https://www.btutilities.com/` }
+    ]
+  },
+  {
     slug: 'fed-holds-rates-october-2026-what-it-means-bryan-college-station-buyers',
     title: `Fed Holds Rates in October 2026: What the Decision Means for Bryan-College Station Homebuyers and Sellers`,
     category: 'Market Update',
