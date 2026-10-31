@@ -1,5 +1,41 @@
 export const blogPosts = [
   {
+    slug: 'college-station-middle-housing-rezoning-fall-2026-homeowners-buyers',
+    title: `College Station Middle Housing Rezoning, Fall 2026: What the City-Initiated Proposal Means for Homeowners, Buyers, and Investors`,
+    category: 'Market Update',
+    date: 'October 2026',
+    readTime: '5 min read',
+    excerpt:
+      `College Station is exploring a city-initiated rezoning that could apply its Middle Housing zoning district to areas already planned for mixed residential use. Here is what middle housing allows, how properties were chosen, what has and has not been decided, and what it may mean if you own, buy, or invest in College Station.`,
+    metaDescription:
+      `College Station middle housing rezoning, fall 2026: what the city-initiated proposal allows, how areas were chosen, and what owners and buyers should know.`,
+    image: '/assets/images/blog-covers/college-station-middle-housing-rezoning-fall-2026-homeowners-buyers.jpg',
+    content: [
+      { type: 'p', text: `College Station is weighing one of its most talked-about housing changes of the year: a city-initiated middle housing rezoning. In October 2026, the City of College Station began asking residents for feedback on a plan that could apply its Middle Housing (MH) zoning district to areas the city's Comprehensive Plan already designates for Mixed Residential use, with a virtual public meeting on Monday, October 19 and an in-person meeting on Tuesday, October 20 at City Hall, 1101 Texas Avenue.` },
+      { type: 'p', text: `The most important fact first: nothing has been rezoned yet. According to the city, the effort is still in its research and engagement phase. If you own a home in College Station, are shopping for one, or are thinking about building or buying rental property, this is a good time to understand what middle housing is, how the city picked the areas it is studying, and what to watch for as the proposal moves forward.` },
+      { type: 'h2', text: `What Middle Housing Zoning Allows in College Station` },
+      { type: 'p', text: `Middle housing describes the range of homes that sit between detached single-family houses and large apartment complexes. College Station City Council adopted a Middle Housing zoning district in October 2022. The city describes it as a district that allows smaller lot sizes and a variety of housing types, with standards designed to be in scale with surrounding homes. Under the district, the city lists these housing types:` },
+      { type: 'ul', items: [`Small-lot single-family homes`, `Townhouses`, `Courtyard houses`, `Duplexes (2 units)`, `Small multiplexes (3 to 4 units)`, `Medium multiplexes (5 to 12 units)`, `Live-work units`] },
+      { type: 'p', text: `The district also includes buffering, height-protection, and parking standards for larger building types and for edges next to neighborhood conservation areas. The detailed lot sizes, setbacks, and dimensional rules live in the city's Unified Development Ordinance (Sections 5.1 and 5.2, with height protection in Section 7.2.H and buffers in Section 7.7), so anyone evaluating a specific lot should read those sections or talk with city planning staff before making plans.` },
+      { type: 'h2', text: `Why the City Is Proposing a Middle Housing Rezoning` },
+      { type: 'p', text: `Until now, most middle housing in College Station has been created one property at a time, when an owner or developer applied to rezone a specific site. This proposal is different because the city itself would initiate the rezoning. According to the city, the idea comes from its Housing Action Plan, which grew out of City Council direction to increase affordable and workforce housing, and it focuses on places where existing infrastructure can already support medium-density development.` },
+      { type: 'p', text: `City staff say properties were screened using several criteria: the land must carry a Mixed Residential future land use designation, the rezoning must not reduce what is already allowed on the property, and schools, churches, and sites already zoned for middle housing were excluded. Ashley Klein, a long-range staff planner with the city, has described the approach as one that leaves a lot of the decision to property owners. The city has not yet published Planning and Zoning Commission or City Council hearing dates for this effort.` },
+      { type: 'h2', text: `What Homeowners and Neighbors Should Know` },
+      { type: 'p', text: `Not everyone is on board. KBTX reported that Peter Bastian, treasurer of the College Station Association of Neighborhoods, raised concerns that allowing middle housing among detached single-family homes could lead to teardowns replaced by high-bedroom rentals. That tension between adding housing options and preserving existing neighborhood character has come up in several College Station rezoning debates over the past few years, so expect this proposal to draw discussion.` },
+      { type: 'p', text: `If you own property in or near an area labeled Mixed Residential on the city's future land use map, here are practical steps to take now:` },
+      { type: 'ul', items: [`Look up your property on the city's project hubsite (city-initiated-rezonings-mh-cstx.hub.arcgis.com) to see whether it is included in the study areas.`, `Read any notice you receive from the city carefully; it may explain options and deadlines that affect your lot.`, `Check whether your subdivision has deed restrictions or an HOA. Private restrictions can limit what can be built even if zoning would allow more, and zoning changes do not cancel them.`, `Share your comments through the hubsite or at future public hearings so your view is part of the record.`] },
+      { type: 'h2', text: `What the Middle Housing Rezoning Could Mean for Buyers and Investors` },
+      { type: 'p', text: `For buyers, more middle housing options may eventually mean more townhomes, duplexes, and smaller-lot homes in College Station, a market where these product types have historically been limited. The city's own housing work has noted that options like duplexes, condos, and townhomes have been noticeably absent here. Any effect on prices or availability would take years to show up and is not guaranteed.` },
+      { type: 'p', text: `For investors and owners thinking about redevelopment, a rezoning could change what a lot can legally hold, which may affect its value. It is not automatic, though. Construction costs, utility capacity, parking and buffer standards, deed restrictions, and College Station's rules on unrelated occupants all shape what is realistic on a given property. If you are under contract on a lot or older home in a study area, ask questions during your option period and confirm the current zoning with the city rather than relying on what might be approved later.` },
+      { type: 'p', text: `College Station's fall 2026 middle housing rezoning proposal is worth following closely, whether you own a home near a Mixed Residential area or are hoping to buy a townhome or duplex in the next few years. Rick keeps an eye on these city decisions because they shape what gets built and where. If you want help understanding how zoning, deed restrictions, or a proposed rezoning could affect a home you own or are considering in College Station or Bryan, reach out to Rick for local guidance.` }
+    ],
+    sources: [
+      { label: `City of College Station: Middle Housing zoning district and fall 2026 city-initiated rezoning`, url: `https://www.cstx.gov/business-development/zoning-districts/middle-housing/` },
+      { label: `KBTX: City of College Station seeks input for new housing rezoning plan (Oct. 2026)`, url: `https://www.kbtx.com/2026/10/20/city-college-station-seeks-input-new-housing-rezoning-plan/` },
+      { label: `KBTX: College Station seeks feedback on middle housing rezoning (Oct. 22, 2026, sponsored by the City of College Station)`, url: `https://www.kbtx.com/2026/10/22/college-station-seeks-feedback-middle-housing-rezoning/` }
+    ]
+  },
+  {
     slug: 'winter-freeze-prep-2026-bryan-college-station-homes-pipes-sprinklers',
     title: `Winter Freeze Prep 2026 for Bryan-College Station Homes: Pipes, Sprinklers, Plants, and Who to Call`,
     category: 'Local Guide',
