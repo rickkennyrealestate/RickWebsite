@@ -1,5 +1,48 @@
 export const blogPosts = [
   {
+    slug: 'college-station-election-results-2026-new-mayor-council-runoff-homeowners',
+    title: `College Station Election Results 2026: New Mayor, December 12 Runoffs, and What It Means for Homeowners`,
+    category: 'Market Update',
+    date: 'November 2026',
+    readTime: '6 min read',
+    excerpt:
+      `College Station voters chose Bob Yancy as mayor and Chandler Arden for Place 2 on November 3, 2026, while Places 1 and 5 head to a December 12 runoff. Here is what the results, the timeline, and the city's new budget mean for homeowners, buyers, and sellers.`,
+    metaDescription: `College Station election results 2026: Yancy elected mayor, Dec. 12 runoffs for Places 1 and 5, and what the new council means for local homeowners.`,
+    image: '/assets/images/blog-covers/college-station-election-results-2026-new-mayor-council-runoff-homeowners.jpg',
+    content: [
+      { type: 'p', text: `The College Station election results for 2026 are in, and the city will have a new mayor and at least one new face on council before Thanksgiving. In the November 3 municipal election, Bob Yancy was elected mayor and Chandler Arden won City Council Place 2, according to unofficial results posted by the City of College Station, while the Place 1 and Place 5 races are headed to a runoff on Saturday, December 12. City council decisions on zoning, budgets, and infrastructure shape the local housing market, so here is a plain-English rundown of the results, the dates to know, and the issues the new council inherits.` },
+      { type: 'h2', text: `College Station Election Results 2026 at a Glance` },
+      { type: 'p', text: `These are unofficial election-night totals from the City of College Station, with all 27 voting centers reporting. Provisional, absentee, and military ballots were still being finalized, so final numbers may shift slightly.` },
+      { type: 'ul', items: [
+        `Mayor (open seat): Bob Yancy, 18,365 votes (59.1%); Elizabeth Cunha, 12,691 votes (40.9%). Yancy succeeds Mayor John Nichols, who did not seek reelection, and serves a four-year term ending in November 2030.`,
+        `Council Place 1: incumbent Mark Smith, 10,159 votes (39.3%); Howard Mayne, 9,903 votes (38.3%); Roy May, 5,795 votes (22.4%). No candidate reached 50%, so Smith and Mayne advance to the runoff.`,
+        `Council Place 2 (open seat): Chandler Arden, 15,274 votes (62.6%); Michael Kidd, 9,111 votes (37.4%). Arden is elected to a four-year term ending in November 2030.`,
+        `Council Place 5 (special election for the seat Yancy left to run for mayor): Tre Watson, 12,156 votes (47.7%); Padon Holt, 8,912 votes (35.0%); Valen Cepak, 4,399 votes (17.3%). Watson and Holt advance to the runoff, and the winner serves the remaining two years of a term ending in November 2028.`,
+      ] },
+      { type: 'h2', text: `Key Dates: Canvass, Swearing-In, and the December 12 Runoff` },
+      { type: 'p', text: `According to the city, council will officially canvass the votes on Monday, November 16, 2026, and the new mayor and the Place 2 winner will be sworn in that same day. The Place 1 and Place 5 seats will be decided in the Saturday, December 12 runoff. Runoff turnout is often much lower than in November. Brazos County Elections posts early voting dates and voting center locations.` },
+      { type: 'h2', text: `What the New Council Inherits: Budget and Property Taxes` },
+      { type: 'p', text: `The new council takes office under a budget the outgoing council approved in late August. KBTX reported that council adopted a fiscal year 2027 budget of about $576.35 million and a property tax rate of 53.0254 cents per $100 of taxable value, up from about 51.19 cents the year before; the rate passed on a 5-2 vote. Based on the city's estimate for a median-valued home of $369,123, KBTX reported that the city portion of the tax bill rises by about $68 a year, or roughly $5.67 a month. The city's share is only part of a typical bill, though: KBTX noted the city makes up about 27% of a total local tax bill, with College Station ISD at about 51% and Brazos County making up the rest.` },
+      { type: 'p', text: `For homeowners, your 2026 tax statement reflects rates that are already set, and Texas property tax bills are generally due by January 31. Make sure your homestead exemption is on file with the Brazos Central Appraisal District, and watch next summer's budget hearings, when the new council sets the following year's rate. Buyers should compare the total combined tax rate for each property, including any MUD or PID.` },
+      { type: 'h2', text: `Housing, Zoning, and Growth: Issues to Watch in College Station` },
+      { type: 'p', text: `Housing costs were a theme throughout the campaign. In an interview with KBTX before the election, Yancy described growth as a two-sided coin that brings jobs and economic benefits along with traffic and housing challenges, and Community Impact reported he cited affordability, public safety, neighborhood integrity, and the housing market among residents' concerns. Arden, a local realtor and developer, told Community Impact he wants to prioritize funding for core services such as police, fire, public works, and parks. Here are the local items most likely to matter to property owners:` },
+      { type: 'ul', items: [
+        `Zoning and middle housing: the city has been working through rezoning that allows more housing types in some areas. Rezoning cases go through public hearings, and nearby owners receive notice when a case affects their area.`,
+        `Development near Midtown: in August, council rezoned more than 100 acres of city-owned land east of Midtown Drive and Corporate Parkway for a planned regional sports complex and hospitality development called The Station, according to KBTX.`,
+        `Roads and the Thoroughfare Plan: council also removed a future Corporate Parkway extension between Midtown Drive and William D. Fitch Parkway from the Thoroughfare Plan, which matters if you are buying near that corridor.`,
+      ] },
+      { type: 'h2', text: `What This Means If You Are Buying or Selling` },
+      { type: 'p', text: `A change in city leadership does not change home values overnight, and no election result guarantees where prices or taxes will go. Over time, it can influence the pace of new construction, how roads and drainage projects get prioritized, and how zoning cases near your neighborhood are decided. If you are buying, ask about pending rezoning cases or planned road work near any home you are considering, and review the city's agenda for items in that area. Sellers should be ready to answer buyer questions about taxes and nearby development with current numbers.` },
+      { type: 'p', text: `Rick follows College Station City Council and Brazos County decisions so his clients do not have to sort through every agenda. If you want help understanding how local zoning, tax rates, or a planned project could affect a home you own or are considering, reach out to Rick for a no-pressure conversation.` },
+    ],
+    sources: [
+      { label: `City of College Station: Live Blog, 2026 mayor and city council election results (Nov. 3, 2026)`, url: 'https://blog.cstx.gov/2026/11/03/live-blog-2026-mayor-and-city-council-election-results/' },
+      { label: `KBTX: Bob Yancy voted College Station's next mayor (Nov. 4, 2026)`, url: 'https://www.kbtx.com/2026/11/04/yancy-wins-college-station-mayoral-race-after-cunha-concedes/' },
+      { label: `Community Impact: College Station voters decide mayor and council races (Nov. 3, 2026)`, url: 'https://communityimpact.com/bryan-college-station/election/results-college-station-voters-decide-on-city-mayor-3-council-members/' },
+      { label: `KBTX: College Station City Council approves new budget, higher tax rate (Aug. 27, 2026)`, url: 'https://www.kbtx.com/2026/08/28/college-station-city-council-approves-new-budget-higher-tax-rate/' },
+    ],
+  },
+  {
     slug: 'pickleball-padel-courts-bryan-college-station-2026-guide',
     title: `Pickleball and Padel in Bryan-College Station 2026: New Clubs, Public Courts, and What It Means for Homebuyers`,
     category: 'Local Guide',
