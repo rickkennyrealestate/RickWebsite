@@ -1,5 +1,46 @@
 export const blogPosts = [
   {
+    slug: 'mortgage-rates-fall-fourth-week-november-2026-bryan-college-station-buyers',
+    title: `Mortgage Rates Fall for a Fourth Straight Week (November 2026): What Bryan-College Station Buyers Should Know Before the December Fed Meeting`,
+    category: 'Market Update',
+    date: 'November 2026',
+    readTime: '6 min read',
+    excerpt:
+      `Freddie Mac's 30-year fixed average fell to 7.11% on November 12, 2026, its fourth weekly decline in a row and the lowest level in seven weeks. Here is what the drop means in monthly dollars, how rate locks work, and how Bryan-College Station buyers and sellers can plan around the holidays and the Fed's December 8-9 meeting.`,
+    metaDescription:
+      `Mortgage rates fell to 7.11% on Nov. 12, 2026, a fourth weekly drop. What it means for Bryan-College Station buyers, rate locks, and the Dec. 9 Fed meeting.`,
+    image: '/assets/images/blog-covers/mortgage-rates-fall-fourth-week-november-2026-bryan-college-station-buyers.jpg',
+    content: [
+      { type: 'p', text: `Mortgage rates fell for a fourth straight week in November 2026. According to Freddie Mac's Primary Mortgage Market Survey released Thursday, November 12, 2026, the average 30-year fixed rate was 7.11%, down from 7.18% the week before. The average 15-year fixed rate dropped to 6.45% from 6.57%. Freddie Mac called it the lowest level in seven weeks.` },
+      { type: 'p', text: `If you are house hunting in Bryan-College Station this fall, or thinking about listing before spring, the latest mortgage rate drop is real but modest. Below is what it adds up to in dollars, how to protect a rate once you are under contract, and what to watch before the Federal Reserve's next decision on December 9.` },
+      { type: 'h2', text: `How Far Mortgage Rates Have Fallen Since October` },
+      { type: 'p', text: `Freddie Mac publishes its survey every Thursday at noon Eastern time. Over the last five readings, the 30-year average has eased each week:` },
+      { type: 'ul', items: [`October 15, 2026: 7.40%`, `October 22, 2026: 7.32%`, `October 29, 2026: 7.24%`, `November 5, 2026: 7.18%`, `November 12, 2026: 7.11%`] },
+      { type: 'p', text: `That is a drop of about three-tenths of a point in four weeks. For context, the 30-year average was 6.24% at this time last year, and the 15-year average was 5.49%. So the trend has turned friendlier for borrowers, but today's rates are still close to a full point higher than in November 2025. The next Freddie Mac reading is scheduled for Thursday, November 19.` },
+      { type: 'h2', text: `What the Mortgage Rate Drop Means for a Monthly Payment` },
+      { type: 'p', text: `Here is a simple illustration of principal and interest only on a $300,000 loan. It leaves out Brazos County property taxes, homeowners insurance, HOA dues, and mortgage insurance, and your own rate will depend on your credit, down payment, loan type, and lender.` },
+      { type: 'ul', items: [`30-year fixed at 7.18% (the November 5 average): about $2,032 per month.`, `30-year fixed at 7.11% (the November 12 average): about $2,018 per month, roughly $14 less each month, or about $170 a year.`, `30-year fixed at 6.24% (the average a year ago): about $1,845 per month, about $173 less than today.`, `15-year fixed at 6.45%: about $2,605 per month, higher each month but paid off in half the time.`] },
+      { type: 'p', text: `One week's move is small on its own. Nobody can promise which way rates will go next, so it usually makes more sense to plan around a payment you are comfortable with than to try to time the bottom.` },
+      { type: 'h2', text: `Rate Locks: How Bryan-College Station Buyers Can Protect Today's Rate` },
+      { type: 'p', text: `Once you are under contract on a home in College Station or Bryan, your lender can usually lock your rate for a set period, often 30 to 60 days. A typical resale closing in Texas runs about 30 to 45 days, so a lock should cover your closing date with a little room to spare. A few questions worth asking your lender:` },
+      { type: 'ul', items: [`How long is the lock, and what does an extension cost if closing slips past the holidays?`, `Is there a float-down option, so you could capture a lower rate if rates keep falling before closing, and what does it cost?`, `If you are buying new construction in a Brazos Valley subdivision with a longer build time, does the builder's preferred lender offer an extended lock or a rate buydown?`] },
+      { type: 'p', text: `Holiday timing matters too. Lenders, title companies, and appraisers may run on shorter schedules around Thanksgiving week and the last two weeks of December, so build a few extra days into your closing date if you are buying in that window.` },
+      { type: 'h2', text: `What to Watch at the Fed's December 8-9 Meeting` },
+      { type: 'p', text: `The Federal Reserve's next policy meeting is December 8-9, 2026, with the decision announced on December 9 and new economic projections released alongside it. At its October 28 meeting the Fed held the federal funds rate at 3.75% to 4%, and two officials preferred a quarter-point increase, citing inflation that remains elevated.` },
+      { type: 'p', text: `Remember that the Fed does not set mortgage rates directly. Thirty-year mortgage rates tend to follow longer-term bond yields and inflation expectations, which can move before, during, or after a Fed announcement. Buyers close to locking may want to talk with their lender before December 9.` },
+      { type: 'h2', text: `What It Means for Sellers and Current Owners` },
+      { type: 'p', text: `Lower rates can bring a few more buyers off the sidelines, even in the slower holiday season. For sellers, that is a reason to keep a well-priced, well-presented listing active rather than pulling it until spring. A seller credit that a buyer can put toward a rate buydown may also be worth discussing, since it can lower a buyer's monthly payment in a way some buyers value more than a small price reduction.` },
+      { type: 'p', text: `If you bought this year at a rate above today's averages, a refinance usually only makes sense once the savings outweigh closing costs, but it is worth knowing your break-even point.` },
+      { type: 'h2', text: `The Bottom Line` },
+      { type: 'p', text: `Four straight weeks of falling mortgage rates is welcome news for Bryan-College Station buyers, but rates remain higher than a year ago and could move either way around the December 9 Fed decision. The best plan is to know your full monthly payment, compare more than one lender, and understand your rate lock before you sign. If you would like to talk through what today's rates mean for buying or selling in College Station, Bryan, or anywhere in the Brazos Valley, reach out to Rick for a local, no-pressure conversation.` }
+    ],
+    sources: [
+      { label: `Freddie Mac: Primary Mortgage Market Survey (as of November 12, 2026)`, url: `https://www.freddiemac.com/pmms` },
+      { label: `Federal Reserve: FOMC meeting calendar`, url: `https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm` },
+      { label: `Federal Reserve: FOMC statement, October 28, 2026`, url: `https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm` }
+    ]
+  },
+  {
     slug: 'harvey-district-plan-workshop-november-18-2026-college-station-harvey-road-homeowners',
     title: `Harvey District Plan Workshop, Nov. 18, 2026: What College Station's Harvey Road Redevelopment Vision Means for Homeowners and Buyers`,
     category: 'Market Update',
