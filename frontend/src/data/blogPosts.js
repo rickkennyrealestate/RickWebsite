@@ -1,5 +1,41 @@
 export const blogPosts = [
   {
+    slug: 'college-station-midtown-ballpark-agreement-november-23-2026-vote-homeowners',
+    title: `College Station Midtown Ballpark Deal 2026: What the Nov. 23 Vote Means for Homeowners`,
+    category: 'Market Update',
+    date: 'November 2026',
+    readTime: '5 min read',
+    excerpt: `College Station City Council is expected to vote Nov. 23 on an economic agreement for a nine-field baseball and softball complex in Midtown. Here is what is in the deal and what nearby homeowners and buyers should watch.`,
+    metaDescription: `College Station's Midtown ballpark agreement heads to a Nov. 23, 2026 council vote. The deal terms, the timeline, and what it means for south CS homeowners.`,
+    image: '/assets/images/blog-covers/college-station-midtown-ballpark-agreement-november-23-2026-vote-homeowners.jpg',
+    content: [
+      { type: 'p', text: `College Station City Council is expected to take a final vote on Monday, November 23, 2026, on the economic agreement for a nine-field baseball and softball complex in the Midtown Business Park in south College Station. Council reviewed the deal with developer The Station Baseball LLC during its November 16 meeting, according to Community Impact, and the agreement is anticipated to come back for approval at the next meeting.` },
+      { type: 'p', text: `For anyone who owns a home in south College Station, or is shopping in Midtown Reserve or the neighborhoods along State Highway 6 and William D. Fitch Parkway, this Midtown ballpark agreement is one of the bigger local decisions of the year. Below is what the deal includes, how we got here, and what it may and may not mean for nearby homes.` },
+      { type: 'h2', text: `What the Midtown Ballpark Agreement Includes` },
+      { type: 'p', text: `The project is a complex of nine synthetic turf fields, one of them a championship-style field that would be home to the Brazos Valley Bombers summer collegiate team. Community Impact described it as a roughly $70 million agreement. Based on the terms presented to council, the main pieces are:` },
+      { type: 'ul', items: [`Developer investment: The Station Baseball LLC must make a minimum $30 million capital investment.`, `Land: the city would provide 63 acres through a ground lease with roughly $12 million to $13 million in deferred lease payments, which could be forgiven if the developer meets its performance measures. The lease runs 50 years, with an option to extend up to five more 10-year terms.`, `Construction reimbursements: up to $23 million from the city, and the city would build the utility and roadway extensions to the site.`, `Operating reimbursements: annual payments equal to 10 years of municipal tax payments, up to $5 million.`, `Public access: the fields would be open to the public from 4 to 10 p.m., Monday through Thursday.`] },
+      { type: 'p', text: `A separate hospitality agreement for lodging and amenities on adjacent land is not part of this vote. City Chief Development Officer Michael Ostrowski told council he expects it "won't be far behind the baseball."` },
+      { type: 'h2', text: `Performance Measures the Developer Would Have to Hit` },
+      { type: 'p', text: `The incentives are tied to results. Under the terms presented, the complex would need to host at least 25 tournaments a year for at least three years after construction, rising to as many as 40 by year five. It would also need to draw at least 40,000 visitors a year from outside Brazos County for at least five years and add $18 million in total property valuation. Council members spent part of the November 16 discussion on how defaults and cure periods would work if those targets are missed, and City Attorney Adam Falco said a few items still needed to be finished before the final vote.` },
+      { type: 'h2', text: `How College Station Got Here` },
+      { type: 'p', text: `This is the third location the city has looked at for more ballfields. In October 2025, council voted 5-1 to stop pursuing a plan at Veterans Park, which Ostrowski said would have cost the city about $35 million for three fields, and shift the effort to Midtown. On February 26, 2026, council unanimously approved a nonbinding letter of intent with the developer for a site on a city-owned tract northeast of Costco off Midtown Drive, land that was originally planned as a business park. The November agreement is the formal deal that letter pointed toward.` },
+      { type: 'p', text: `In Bryan, the city took over management of Travis Major Field at the start of 2026 and signed a three-year agreement for a new Mid America League Baseball team there, so summer baseball continues on both sides of the city line.` },
+      { type: 'h2', text: `What It Could Mean for Nearby Homeowners and Buyers` },
+      { type: 'p', text: `No construction start or opening date has been announced, so nothing changes overnight. Still, if the agreement is approved, here is what homeowners in Midtown Reserve, and in nearby areas off Rock Prairie Road and William D. Fitch Parkway, may want to keep an eye on:` },
+      { type: 'ul', items: [`Traffic on tournament weekends: the goal is to bring in tens of thousands of out-of-county visitors a year. No traffic or parking study has been published yet, so watch for roadway extension plans that come with the project.`, `New commercial activity: Midtown residents have told local reporters they expect the complex to attract restaurants and hotels. The separate hospitality agreement will show what is actually planned next to the fields.`, `Evening field access: weeknight public hours could add another recreation option close to home for local leagues.`, `Property values: large amenities sometimes add demand nearby, but there is no guarantee of appreciation. Prices depend on the whole market, including interest rates and how much new construction is available in south College Station.`] },
+      { type: 'p', text: `If you are buying near the site, it is worth asking which streets would carry tournament traffic and how far a specific home sits from the fields. If you are selling, a pending project can come up in buyer questions, so it helps to have the facts ready.` },
+      { type: 'h2', text: `How to Follow the Vote` },
+      { type: 'p', text: `College Station City Council meets at City Hall, 1101 Texas Avenue. Agendas and meeting videos are posted on the city's website ahead of each meeting, and public comment is part of the regular agenda. Dates can shift, so check the posted agenda for November 23 before you go.` },
+      { type: 'p', text: `Thinking about how the Midtown ballpark, or any of the other changes in south College Station, fits into a move or a sale? Reach out to Rick. He can walk you through the neighborhoods around Midtown, recent sales nearby, and what to watch as the project moves forward.` }
+    ],
+    sources: [
+      { label: `Community Impact — College Station weighs $70M Midtown ballpark economic agreement ahead of final vote`, url: `https://communityimpact.com/bryan-college-station/government/college-station-weighs-70m-midtown-ballpark-economic-agreement-ahead-of-final-vote/` },
+      { label: `Community Impact — College Station approves letter of intent for baseball complex in Midtown`, url: `https://communityimpact.com/bryan-college-station/government/college-station-approves-letter-of-intent-for-baseball-complex-in-midtown/` },
+      { label: `KXXV — College Station pivots from Veterans Park to Midtown baseball project`, url: `https://www.kxxv.com/news/local-news/in-your-neighborhood/brazos-county/college-station/strikeout-at-veterans-park-college-station-pivots-to-midtown-baseball-megaproject` },
+      { label: `City of Bryan — New baseball franchise coming to Travis Major Field`, url: `https://www.bryantx.gov/news/posts/new-baseball-franchise-coming-to-travis-major-field/` }
+    ],
+  },
+  {
     slug: 'texas-am-fall-commencement-2026-college-station-graduation-weekend-guide',
     title: `Texas A&M Fall Commencement 2026: College Station Graduation Weekend Guide for Families (Dec. 11-12)`,
     category: 'Aggieland Life',
